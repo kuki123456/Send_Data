@@ -1,0 +1,57 @@
+{
+	"udr": {
+		"tu": {
+			"mu": 0,
+			"wu": 66063
+		},
+		"d": [{
+			"asr":{"lt":4200000,"ic": true},
+			"nr": [],
+			"nsi": {
+				"s": 9,
+				"ns": "WiFi"
+			},
+			"amt": 1591093535716,
+			"i": [],
+			"cmt": 1591093541757,
+			"l": [],
+			"we": [
+				["pvid", "url", "name", "msg", "line", "col", "file", "en", "sta", "flag", "et"],
+				["2f354799-6cbd-454a-8e30-e9bb97d8450a", "https://linlh.toutiao.com/error/test/aaaaa", "TypeError", "TypeError: bonreeJsBridge.addCrashTrace is not a function. (In 'bonreeJsBridge.addCrashTrace(['homePage','just run a test'])', 'bonreeJsBridge.addCrashTrace' is undefined)", 14, 45, "linlh.error.h5.filename", 1, "myclick@file:///var/containers/Bundle/Application/970595C7-194A-45F7-B3A2-E9C301469E74/iOSDemo.app/test.htm:14:45\nonclick@file:///var/containers/Bundle/Application/970595C7-194A-45F7-B3A2-E9C301469E74/iOSDemo.app/test.htm:8:8", 1, 1574687493894],
+				["645f7426-3085-41ee-918a-8858a2b0e614", "https://URIError.WebviewError.json/error/test/aaaaa", "URIError", "URIError: bonreeJsBridge.addCrashTrace is not a function. (In 'bonreeJsBridge.addCrashTrace(['homePage','just run a test'])', 'bonreeJsBridge.addCrashTrace' is undefined)", 14, 45, "URIError.error.h5.filename", 1, "myclick@file:///var/containers/Bundle/Application/970595C7-194A-45F7-B3A2-E9C301469E74/iOSDemo.app/test.htm:14:45\nonclick@file:///var/containers/Bundle/Application/970595C7-194A-45F7-B3A2-E9C301469E74/iOSDemo.app/test.htm:8:8", 1, 1574687493894],
+				["ee3e3721-7fab-4e8c-8655-c1e1d44f7883", "https://paicc-mfa.pingan.com.cn/linlh/anydoor", "URIError", "URIError: bonreeJsBridge.addCrashTrace is not a function. (In 'bonreeJsBridge.addCrashTrace(['homePage','just run a test'])', 'bonreeJsBridge.addCrashTrace' is undefined)", 14, 45, "anydoor.h5.filename", 1, "myclick@file:///var/containers/Bundle/Application/970595C7-194A-45F7-B3A2-E9C301469E74/iOSDemo.app/test.htm:14:45\nonclick@file:///var/containers/Bundle/Application/970595C7-194A-45F7-B3A2-E9C301469E74/iOSDemo.app/test.htm:8:8", 1, 1574687493894],
+				["d84922df-c16f-4bfa-bd5d-90173dc09025", "applewebdata://WebviewError0545ac5d-0fe0-4eeb-b7f6-16a72c75310a", "URIError", "URIError: bonreeJsBridge.addCrashTrace is not a function. (In 'bonreeJsBridge.addCrashTrace(['homePage','just run a test'])', 'bonreeJsBridge.addCrashTrace' is undefined)", 14, 45, "applewebdata", 1, "myclick@file:///var/containers/Bundle/Application/970595C7-194A-45F7-B3A2-E9C301469E74/iOSDemo.app/test.htm:14:45\nonclick@file:///var/containers/Bundle/Application/970595C7-194A-45F7-B3A2-E9C301469E74/iOSDemo.app/test.htm:8:8", 1, 1574687493894]
+			],
+			"ar":[],
+			"wi" : [],
+			"s": [],
+			"ti": [],
+			"car": [],
+			"si": "4:2:07c9de30-7109-40a4-b1a0-ced1aa56a287",
+			"ut": []
+		}],
+		"iat": true
+	},
+	"h": {
+		"sv": "4.4.5",
+		"di": {
+			"ch": "hi3660",
+			"di": "3e9303d00ae594677398acd5450b9328ee2b655d28aa0e0006d2653192fa32f5",
+			"ci": "arm64-v8a",
+			"ov": "9",
+			"ir": false,
+			"cm": "AArch64 Processor rev 1 (aarch64)",
+			"cov": "EMUI 9.1.0",
+			"bn": "HUAWEI",
+			"l": "zh",
+			"an": "com.bonreesdk.hostdemo",
+			"m": "VTR-AL00",
+			"ds": "1080*1920",
+			"av": "1.0-debug(12)",
+			"pi": "应用宝",
+			"tm": 3715.48
+		},
+		"ai": "1cd810d6-901e-4002-8d63-b840244f5280",
+		"dip": 2095711410
+	}
+}

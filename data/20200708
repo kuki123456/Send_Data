@@ -1,0 +1,182 @@
+{
+	"udr": {
+		"tu": {
+			"mu": 0,
+			"wu": 66063
+		},
+		"d": [{
+			"asr":{"lt":4200000,"ic": true},
+			"nr": [[
+      "ru",  
+      "si", 
+      "li", 
+      "lp",  
+      "ti", 
+      "tp",  
+      "st",  
+      "dt", 
+      "ct",  
+      "sti", 
+      "rt", 
+      "rti", 
+      "dti", 
+      "et",  
+      "rh",  
+      "rd",  
+      "rhe", 
+      "rds", 
+      "ei",  
+      "se",  
+      "ib",  
+      "mt",  
+      "dsi", 
+      "rg",  
+      "rgu", 
+      "iw",  
+      "lc", 
+      "am",  
+      "s",   
+      "nt",  
+      "mi",  
+      "kv",  
+      "pt",  
+      "cna", 
+      "tip", 
+      "dsip",
+      "ns",  
+      "ec",  
+      "em",  
+      "cb", 
+      "eop"  
+    ]],
+			"nsi": {
+				"s": 9,
+				"ns": "WiFi"
+			},
+			"amt": 1591093535716,
+			"i":[],
+			"cmt": 1591093541757,
+			"l": [{
+				"st": 1589857275000,
+				"is": {},
+				"cb": "i don't know the reason why ",
+				"cg": "a9c1e4c3-12e2-4a16-af32-a2f0d32b9d05",
+				"ed": "caused by:unknown\ncallStackSymbols: {\nunknown}\n",
+				"ds": {
+					"ac": 78,
+					"ame": 312,
+					"gla": 123,
+					"glo": 39,
+					"ib": false,
+					"igo": true,
+					"io": true,
+					"kv": "{\"userinfoKEY\":\"userinfoVALUE\"}",
+					"mi": "memberid",
+					"ot": 1,
+					"sa": 1024,
+					"sab": 96,
+					"sas": 1024,
+					"sc": 29
+				},
+				"ns": "WiFi",
+				"ut": [
+					["st", "an", "fn", "utst", "f", "mi"],
+					[8338000, "com.bonreesdk.hostdemo.MainActivity", "", 449000, [{
+						"st": 294000,
+						"c": "com.bonreesdk.hostdemo.MainActivity",
+						"e": "onCreate"
+					}, {
+						"st": 449000,
+						"c": "com.bonreesdk.hostdemo.MainActivity",
+						"e": "onResume"
+					}, {
+						"st": 8755000,
+						"c": "com.bonreesdk.hostdemo.common.view.RecyclerAdapter",
+						"e": "onClick(崩溃服务,0xffffffff)"
+					}, {
+						"st": 8785000,
+						"c": "com.bonreesdk.hostdemo.MainActivity",
+						"e": "onPause"
+					}], "4.2.0_20200119"],
+					[1212000, "com.bonreesdk.hostdemo.business.crash.CrashServiceActivity", "", 8866000, [{
+						"st": 8807000,
+						"c": "com.bonreesdk.hostdemo.business.crash.CrashServiceActivity",
+						"e": "onCreate"
+					}, {
+						"st": 8866000,
+						"c": "com.bonreesdk.hostdemo.business.crash.CrashServiceActivity",
+						"e": "onResume"
+					}, {
+						"st": 10048000,
+						"c": "com.bonreesdk.hostdemo.common.view.RecyclerAdapter",
+						"e": "onClick(Java层,0xffffffff)"
+					}, {
+						"st": 10076000,
+						"c": "com.bonreesdk.hostdemo.business.crash.CrashServiceActivity",
+						"e": "onPause"
+					}], "4.2.0_20200119"],
+					[2025000, "com.bonreesdk.hostdemo.business.crash.JavaCrashActivity", "", 10184000, [{
+						"st": 10095000,
+						"c": "com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+						"e": "onCreate"
+					}, {
+						"st": 10184000,
+						"c": "com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+						"e": "onResume"
+					}, {
+						"st": 11381000,
+						"c": "com.bonreesdk.hostdemo.common.view.RecyclerAdapter",
+						"e": "onClick(空指针,0xffffffff)"
+					}], "4.2.0_20200119"]
+				],
+				"ar": {
+					"an": "zhangTOPNFragment",
+					"ct": 100407,
+					"et": 310923856,
+					"fr": [{
+						"ct": 100407,
+						"et": 310923856,
+						"fn": "zhangTOPNFragment_fragment",
+						"lt": 1138720,
+						"st": 211011
+					}],
+					"iq": false,
+					"lt": 1129720,
+					"st": 211011,
+					"ai": "513123"
+				}
+			}],
+			"we":[],
+			"ar":[],
+			"wi" : [],
+			"s": [],
+			"ti": [],
+			"car": [],
+			"si": "4:2:07c9de30-7109-40a4-b1a0-ced1aa56a287",
+			"ut": []
+		}],
+		"iat": true
+	},
+	"h": {
+		"sv": "4.4.5",
+		"di": {
+			"ch": "hi3660",
+			"di": "3e9303d00ae594677398acd5450b9328ee2b655d28aa0e0006d2653192fa32f5",
+			"ci": "arm64-v8a",
+			"ov": "9",
+			"ir": false,
+			"cm": "AArch64 Processor rev 1 (aarch64)",
+			"cov": "EMUI 9.1.0",
+			"bn": "HUAWEI",
+			"l": "zh",
+			"an": "com.bonreesdk.hostdemo",
+			"m": "VTR-AL00",
+			"ds": "1080*1920",
+			"av": "1.0-debug(12)",
+			"pi": "应用宝",
+			"tm": 3715.48
+		},
+		"ai": "1cd810d6-901e-4002-8d63-b840244f5280",
+		"dip": 2095711410
+	}
+}

@@ -1,0 +1,51 @@
+{
+	"cr": {
+		"ds": {
+			"ac": 78,
+			"ame": 312,
+			"gla": 123,
+			"glo": 39,
+			"ib": false,
+			"igo": true,
+			"io": true,
+			"kv": "{\"userinfoKEY\":\"userinfoVALUE\"}",
+			"mi": "memberid",
+			"ot": 1,
+			"sa": 1024,
+			"sab": 96,
+			"sas": 1024,
+			"sc": 29
+		},
+		"emt": 1573814214948,
+		"gi": "N",
+		"nsi": {
+			"am": 0,
+			"ns": "IWLAN",
+			"nt": 0,
+			"s": 77
+		},
+		"r": false
+	},
+	"h": {
+		"sv": "4.4.5",
+		"di": {
+			"ch": "hi3660",
+			"di": "860044044868450",
+			"ci": "arm64-v8a",
+			"ov": "9",
+			"ir": false,
+			"cm": "AArch64 Processor rev 1 (aarch64)",
+			"cov": "EMUI 9.1.0",
+			"bn": "HUAWEI",
+			"l": "zh",
+			"an": "com.bonreesdk.hostdemo",
+			"m": "VTR-AL00",
+			"ds": "1080*1920",
+			"av": "1.0-debug(12)",
+			"pi": "应用宝",
+			"tm": 3715.48
+		},
+		"ai": "aa1d57c4-b30b-4917-b8ae-b1c15f3e20cd",
+		"dip": 2005480509
+	}
+}

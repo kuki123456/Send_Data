@@ -1,0 +1,194 @@
+{
+	"udr": {
+		"tu": {
+			"mu": 0,
+			"wu": 66063
+		},
+		"d": [{
+			"asr":{"lt":4200000,"ic": true},
+			"nr": [],
+			"nsi": {
+				"s": 9,
+				"ns": "WiFi"
+			},
+			"amt": 1591093535716,
+			"i": [],
+			"cmt": 1591093541757,
+			"l": [],
+			"we":[],
+			"ar":[{
+                  "ct":758641000,
+                  "st":759770000,
+                  "s":
+                  {
+                     "ns":"WiFi",
+                     "ti":
+                     [
+                        [
+                           "et",
+                           "st",
+                           "ti",
+                           "t",
+                           "n"
+                        ],
+                        [
+                           0,
+                           0,
+                           2,
+                           0,
+                           "main"
+                        ],
+                        [
+                           0,
+                           0,
+                           6088,
+                           1,
+                           "Thread-16"
+                        ]
+
+                     ],
+                     "ni":
+                     [
+                        {
+                           "st":759751000,
+                           "url":"http://www.apple.com/",
+                           "et":759825000
+                        }
+
+                     ],
+                     "mi":
+                     [
+                        [
+                           "st",
+                           "et",
+                           "n",
+                           "t",
+                           "ru",
+                           "rg",
+                           "rgu"
+                        ],
+                        [
+                           758641000,
+                           758644000,
+                           "NavigationFragmentActivity/onCreate",
+                           2,
+                           "",
+                           "",
+                           ""
+                        ],
+                        [
+                           759753000,
+                           759753000,
+                           "FragmentA/onCreate",
+                           2,
+                           "",
+                           "",
+                           ""
+                        ],
+                        [
+                           759768000,
+                           759768000,
+                           "FragmentA/onStart",
+                           2,
+                           "",
+                           "",
+                           ""
+                        ],
+                        [
+                           759752000,
+                           759768000,
+                           "NavigationFragmentActivity/onStart",
+                           2,
+                           "",
+                           "",
+                           ""
+                        ],
+                        [
+                           759769000,
+                           759770000,
+                           "NavigationFragmentActivity/onResume",
+                           2,
+                           "",
+                           "",
+                           ""
+                        ],
+                        [
+                           759760000,
+                           775221000,
+                           "MainActivity/URLConnection/openConnection",
+                           6088,
+                           "http://www.apple.com/",
+                           "",
+                           ""
+                        ],
+                        [
+                           759760000,
+                           775221000,
+                           "MainActivity/URLConnection/openConnection",
+                           6088,
+                           "http://www.apple.com/",
+                           "",
+                           ""
+                        ]
+
+                     ],
+                     "ds":
+                     {
+                        "ac":2.25,
+                        "sas":90491.734,
+                        "ot":1,
+                        "io":false,
+                        "kv":"",
+                        "glo":0,
+                        "sa":2352.2383,
+                        "igo":false,
+                        "sc":0,
+                        "sab":100,
+                        "ame":140.60449,
+                        "ib":false,
+                        "mi":"",
+                        "gla":0
+                     }
+
+                  },
+                  "t":1,
+                  "ai":"9366bbd62e992ddf5a65756f4c9951f2",
+                  "iq":false,
+                  "lt":1129000,
+                  "fr":
+                  [],
+                  "an":"com.sdkdemo.hostdemo.business.interact.NavigationFragmentActivity",
+                  "et":775231000
+               }],
+			"wi" : [],
+			"s": [],
+			"ti": [],
+			"car": [],
+			"si": "4:2:07c9de30-7109-40a4-b1a0-ced1aa56a287",
+			"ut": []
+		}],
+		"iat": true
+	},
+	"h": {
+		"sv": "4.4.5",
+		"di": {
+			"ch": "hi3660",
+			"di": "3e9303d00ae594677398acd5450b9328ee2b655d28aa0e0006d2653192fa32f5",
+			"ci": "arm64-v8a",
+			"ov": "9",
+			"ir": false,
+			"cm": "AArch64 Processor rev 1 (aarch64)",
+			"cov": "EMUI 9.1.0",
+			"bn": "HUAWEI",
+			"l": "zh",
+			"an": "com.bonreesdk.hostdemo",
+			"m": "VTR-AL00",
+			"ds": "1080*1920",
+			"av": "1.0-debug(123)",
+			"pi": "应用宝",
+			"tm": 3715.48
+		},
+		"ai": "1cd810d6-901e-4002-8d63-b840244f5280",
+		"dip": 2095711410
+	}
+}

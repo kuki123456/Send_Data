@@ -1,0 +1,51 @@
+{
+  "header": {
+    "appid": "73914443-a36d-4a06-9f12-d640b54753c4",
+    "appversion": "12.3",
+    "deviceId": "ddasdasdaa",
+    "sdk_version": "4.12",
+    "deviceIp":124312412
+  },
+  "uploadDataRequest": {
+    "datas": {
+      "statmainid": "",
+      "monitorTime": 234234235,
+      "devInfo": {
+        "os_version": "12.0",
+        "app_version": "12.3",
+        "imei_meid": "qrwqwdrqwdqwqwqwed",
+        "bandName": "huawei",
+        "model": "P30",
+        "cpuModel": "xiaolong835",
+        "cpuInstructionSet": "ARM",
+        "cpuHardware": "x86",
+        "isRoot": false,
+        "displaySize": "1080*1908",
+        "language": "zh",
+        "partnerId": "xiaomi",
+        "total_memory": "1024"
+      },
+      "activityResults": {
+        "activity": {
+          "startTimeUs": "123",
+          "endTimeUs": "12324",
+          "activityId": "123",
+          "activityName": "hqtest",
+          "loadTimeUs": "123213"
+        }
+      },
+      "sessions": {
+      "sessionId":"123",
+      "sessionName":"event",
+      "label":"eventl",
+      "worth":99.0,
+      "kv":"shijian,shijain",
+      "callTimeUs":124324e4,
+      "deviceStateInfo":""
+    }
+    },
+
+    "isActionTrace": true,
+    "trafficUsage": "123"
+  }
+}

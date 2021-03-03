@@ -1,0 +1,672 @@
+{
+	"cr": {
+		"ci": [{
+			"ain": "demo",
+			"am": 2,
+			"as": "175@ZHCustomTabBarController@viewDidAppear:;621@ZHConfigBaseNavigationController@viewDidAppear:;3793028@BRHomeViewController@viewDidAppear:;122942@BRHomeViewController@tableView:didSelectRowAtIndexPath:(UITableView:{0.0,0.0,375.0,554.0},tag=0,section=0,row=2);561685@BRHomeViewController@viewDidLoad;95184@BRHomeViewController@viewDidAppear:;35995@BRHomeViewController@tableView:didSelectRowAtIndexPath:(UITableView:{0.0,0.0,375.0,603.0},tag=0,section=0,row=0);538763@BRHomeViewController@viewDidLoad;228809@BRHomeViewController@viewDidAppear:;49722@BRHomeViewController@tableView:didSelectRowAtIndexPath:(UITableView:{0.0,0.0,375.0,603.0},tag=0,section=0,row=1)",
+			"cb": "caused by:*** -[__NSSingleObjectArrayI objectAtIndex:]: index 2 beyond bounds [0 .. 0] 22ccc172-5eb3-4f90-821c-6e5c38f54f5e",
+			"cg": "a9c1e4c3-12e2-4a16-af32-a2f0d32b9d05",
+			"cst": 0,
+			"ds": {
+				"ac": 78,
+				"ame": 312,
+				"gla": 123,
+				"glo": 39,
+				"ib": false,
+				"igo": true,
+				"io": true,
+				"kv": "{\"userinfoKEY\":\"userinfoVALUE\"}",
+				"mi": "HUYIDAO",
+				"ot": 1,
+				"sa": 1024,
+				"sab": 96,
+				"sas": 1024,
+				"sc": 29
+			},
+			"ut":[
+               [
+                  "st",
+                  "an",
+                  "fn",
+                  "utst",
+                  "f",
+                  "mi"
+               ],
+               [
+                  8338000,
+                  "com.bonreesdk.hostdemo.MainActivity",
+                  "",
+                  449000,
+                  [
+                     {
+                        "st":294000,
+                        "c":"com.bonreesdk.hostdemo.MainActivity",
+                        "e":"onCreate"
+                     },
+                     {
+                        "st":449000,
+                        "c":"com.bonreesdk.hostdemo.MainActivity",
+                        "e":"onResume"
+                     },
+                     {
+                        "st":8755000,
+                        "c":"com.bonreesdk.hostdemo.common.view.RecyclerAdapter",
+                        "e":"onClick(崩溃服务,0xffffffff)"
+                     },
+                     {
+                        "st":8785000,
+                        "c":"com.bonreesdk.hostdemo.MainActivity",
+                        "e":"onPause"
+                     }
+
+                  ],
+                  "4.2.0_20200119"
+               ],
+               [
+                  1212000,
+                  "com.bonreesdk.hostdemo.business.crash.CrashServiceActivity",
+                  "",
+                  8866000,
+                  [
+                     {
+                        "st":8807000,
+                        "c":"com.bonreesdk.hostdemo.business.crash.CrashServiceActivity",
+                        "e":"onCreate"
+                     },
+                     {
+                        "st":8866000,
+                        "c":"com.bonreesdk.hostdemo.business.crash.CrashServiceActivity",
+                        "e":"onResume"
+                     },
+                     {
+                        "st":10048000,
+                        "c":"com.bonreesdk.hostdemo.common.view.RecyclerAdapter",
+                        "e":"onClick(Java层,0xffffffff)"
+                     },
+                     {
+                        "st":10076000,
+                        "c":"com.bonreesdk.hostdemo.business.crash.CrashServiceActivity",
+                        "e":"onPause"
+                     }
+
+                  ],
+                  "4.2.0_20200119"
+               ],
+               [
+                  2025000,
+                  "com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                  "",
+                  10184000,
+                  [
+                     {
+                        "st":10095000,
+                        "c":"com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                        "e":"onCreate"
+                     },
+                     {
+                        "st":10184000,
+                        "c":"com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                        "e":"onResume"
+                     },
+                     {
+                        "st":11381000,
+                        "c":"com.bonreesdk.hostdemo.common.view.RecyclerAdapter",
+                        "e":"onClick(空指针,0xffffffff)"
+                     }
+
+                  ],
+                  "4.2.0_20200119"
+               ],
+              [
+                  2025000,
+                  "com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                  "",
+                  10184000,
+                  [
+                     {
+                        "st":10095000,
+                        "c":"com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                        "e":"onCreate"
+                     },
+                     {
+                        "st":10184000,
+                        "c":"com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                        "e":"onResume"
+                     },
+                     {
+                        "st":11381000,
+                        "c":"com.bonreesdk.hostdemo.common.view.RecyclerAdapter",
+                        "e":"onClick(空指针,0xffffffff)"
+                     }
+
+                  ],
+                  "4.2.0_20200119"
+               ],[
+                  2025000,
+                  "com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                  "",
+                  10184000,
+                  [
+                     {
+                        "st":10095000,
+                        "c":"com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                        "e":"onCreate"
+                     },
+                     {
+                        "st":10184000,
+                        "c":"com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                        "e":"onResume"
+                     },
+                     {
+                        "st":11381000,
+                        "c":"com.bonreesdk.hostdemo.common.view.RecyclerAdapter",
+                        "e":"onClick(空指针,0xffffffff)"
+                     }
+
+                  ],
+                  "4.2.0_20200119"
+               ],
+              [
+                  2025000,
+                  "com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                  "",
+                  10184000,
+                  [
+                     {
+                        "st":10095000,
+                        "c":"com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                        "e":"onCreate"
+                     },
+                     {
+                        "st":10184000,
+                        "c":"com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                        "e":"onResume"
+                     },
+                     {
+                        "st":11381000,
+                        "c":"com.bonreesdk.hostdemo.common.view.RecyclerAdapter",
+                        "e":"onClick(空指针,0xffffffff)"
+                     }
+
+                  ],
+                  "4.2.0_20200119"
+               ],[
+                  2025000,
+                  "com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                  "",
+                  10184000,
+                  [
+                     {
+                        "st":10095000,
+                        "c":"com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                        "e":"onCreate"
+                     },
+                     {
+                        "st":10184000,
+                        "c":"com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                        "e":"onResume"
+                     },
+                     {
+                        "st":11381000,
+                        "c":"com.bonreesdk.hostdemo.common.view.RecyclerAdapter",
+                        "e":"onClick(空指针,0xffffffff)"
+                     }
+
+                  ],
+                  "4.2.0_20200119"
+               ],
+              [
+                  2025000,
+                  "com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                  "",
+                  10184000,
+                  [
+                     {
+                        "st":10095000,
+                        "c":"com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                        "e":"onCreate"
+                     },
+                     {
+                        "st":10184000,
+                        "c":"com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                        "e":"onResume"
+                     },
+                     {
+                        "st":11381000,
+                        "c":"com.bonreesdk.hostdemo.common.view.RecyclerAdapter",
+                        "e":"onClick(空指针,0xffffffff)"
+                     }
+
+                  ],
+                  "4.2.0_20200119"
+               ],[
+                  2025000,
+                  "com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                  "",
+                  10184000,
+                  [
+                     {
+                        "st":10095000,
+                        "c":"com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                        "e":"onCreate"
+                     },
+                     {
+                        "st":10184000,
+                        "c":"com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                        "e":"onResume"
+                     },
+                     {
+                        "st":11381000,
+                        "c":"com.bonreesdk.hostdemo.common.view.RecyclerAdapter",
+                        "e":"onClick(空指针,0xffffffff)"
+                     }
+
+                  ],
+                  "4.2.0_20200119"
+               ],
+              [
+                  2025000,
+                  "com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                  "",
+                  10184000,
+                  [
+                     {
+                        "st":10095000,
+                        "c":"com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                        "e":"onCreate"
+                     },
+                     {
+                        "st":10184000,
+                        "c":"com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                        "e":"onResume"
+                     },
+                     {
+                        "st":11381000,
+                        "c":"com.bonreesdk.hostdemo.common.view.RecyclerAdapter",
+                        "e":"onClick(空指针,0xffffffff)"
+                     }
+
+                  ],
+                  "4.2.0_20200119"
+               ],[
+                  2025000,
+                  "com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                  "",
+                  10184000,
+                  [
+                     {
+                        "st":10095000,
+                        "c":"com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                        "e":"onCreate"
+                     },
+                     {
+                        "st":10184000,
+                        "c":"com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                        "e":"onResume"
+                     },
+                     {
+                        "st":11381000,
+                        "c":"com.bonreesdk.hostdemo.common.view.RecyclerAdapter",
+                        "e":"onClick(空指针,0xffffffff)"
+                     }
+
+                  ],
+                  "4.2.0_20200119"
+               ],
+              [
+                  2025000,
+                  "com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                  "",
+                  10184000,
+                  [
+                     {
+                        "st":10095000,
+                        "c":"com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                        "e":"onCreate"
+                     },
+                     {
+                        "st":10184000,
+                        "c":"com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                        "e":"onResume"
+                     },
+                     {
+                        "st":11381000,
+                        "c":"com.bonreesdk.hostdemo.common.view.RecyclerAdapter",
+                        "e":"onClick(空指针,0xffffffff)"
+                     }
+
+                  ],
+                  "4.2.0_20200119"
+               ],[
+                  2025000,
+                  "com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                  "",
+                  10184000,
+                  [
+                     {
+                        "st":10095000,
+                        "c":"com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                        "e":"onCreate"
+                     },
+                     {
+                        "st":10184000,
+                        "c":"com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                        "e":"onResume"
+                     },
+                     {
+                        "st":11381000,
+                        "c":"com.bonreesdk.hostdemo.common.view.RecyclerAdapter",
+                        "e":"onClick(空指针,0xffffffff)"
+                     }
+
+                  ],
+                  "4.2.0_20200119"
+               ],
+              [
+                  2025000,
+                  "com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                  "",
+                  10184000,
+                  [
+                     {
+                        "st":10095000,
+                        "c":"com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                        "e":"onCreate"
+                     },
+                     {
+                        "st":10184000,
+                        "c":"com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                        "e":"onResume"
+                     },
+                     {
+                        "st":11381000,
+                        "c":"com.bonreesdk.hostdemo.common.view.RecyclerAdapter",
+                        "e":"onClick(空指针,0xffffffff)"
+                     }
+
+                  ],
+                  "4.2.0_20200119"
+               ],[
+                  2025000,
+                  "com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                  "",
+                  10184000,
+                  [
+                     {
+                        "st":10095000,
+                        "c":"com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                        "e":"onCreate"
+                     },
+                     {
+                        "st":10184000,
+                        "c":"com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                        "e":"onResume"
+                     },
+                     {
+                        "st":11381000,
+                        "c":"com.bonreesdk.hostdemo.common.view.RecyclerAdapter",
+                        "e":"onClick(空指针,0xffffffff)"
+                     }
+
+                  ],
+                  "4.2.0_20200119"
+               ],
+              [
+                  2025000,
+                  "com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                  "",
+                  10184000,
+                  [
+                     {
+                        "st":10095000,
+                        "c":"com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                        "e":"onCreate"
+                     },
+                     {
+                        "st":10184000,
+                        "c":"com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                        "e":"onResume"
+                     },
+                     {
+                        "st":11381000,
+                        "c":"com.bonreesdk.hostdemo.common.view.RecyclerAdapter",
+                        "e":"onClick(空指针,0xffffffff)"
+                     }
+
+                  ],
+                  "4.2.0_20200119"
+               ],[
+                  2025000,
+                  "com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                  "",
+                  10184000,
+                  [
+                     {
+                        "st":10095000,
+                        "c":"com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                        "e":"onCreate"
+                     },
+                     {
+                        "st":10184000,
+                        "c":"com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                        "e":"onResume"
+                     },
+                     {
+                        "st":11381000,
+                        "c":"com.bonreesdk.hostdemo.common.view.RecyclerAdapter",
+                        "e":"onClick(空指针,0xffffffff)"
+                     }
+
+                  ],
+                  "4.2.0_20200119"
+               ],
+              [
+                  2025000,
+                  "com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                  "",
+                  10184000,
+                  [
+                     {
+                        "st":10095000,
+                        "c":"com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                        "e":"onCreate"
+                     },
+                     {
+                        "st":10184000,
+                        "c":"com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                        "e":"onResume"
+                     },
+                     {
+                        "st":11381000,
+                        "c":"com.bonreesdk.hostdemo.common.view.RecyclerAdapter",
+                        "e":"onClick(空指针,0xffffffff)"
+                     }
+
+                  ],
+                  "4.2.0_20200119"
+               ],[
+                  2025000,
+                  "com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                  "",
+                  10184000,
+                  [
+                     {
+                        "st":10095000,
+                        "c":"com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                        "e":"onCreate"
+                     },
+                     {
+                        "st":10184000,
+                        "c":"com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                        "e":"onResume"
+                     },
+                     {
+                        "st":11381000,
+                        "c":"com.bonreesdk.hostdemo.common.view.RecyclerAdapter",
+                        "e":"onClick(空指针,0xffffffff)"
+                     }
+
+                  ],
+                  "4.2.0_20200119"
+               ],
+              [
+                  2025000,
+                  "com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                  "",
+                  10184000,
+                  [
+                     {
+                        "st":10095000,
+                        "c":"com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                        "e":"onCreate"
+                     },
+                     {
+                        "st":10184000,
+                        "c":"com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                        "e":"onResume"
+                     },
+                     {
+                        "st":11381000,
+                        "c":"com.bonreesdk.hostdemo.common.view.RecyclerAdapter",
+                        "e":"onClick(空指针,0xffffffff)"
+                     }
+
+                  ],
+                  "4.2.0_20200119"
+               ],[
+                  2025000,
+                  "com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                  "",
+                  10184000,
+                  [
+                     {
+                        "st":10095000,
+                        "c":"com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                        "e":"onCreate"
+                     },
+                     {
+                        "st":10184000,
+                        "c":"com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                        "e":"onResume"
+                     },
+                     {
+                        "st":11381000,
+                        "c":"com.bonreesdk.hostdemo.common.view.RecyclerAdapter",
+                        "e":"onClick(空指针,0xffffffff)"
+                     }
+
+                  ],
+                  "4.2.0_20200119"
+               ],
+              [
+                  2025000,
+                  "com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                  "",
+                  10184000,
+                  [
+                     {
+                        "st":10095000,
+                        "c":"com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                        "e":"onCreate"
+                     },
+                     {
+                        "st":10184000,
+                        "c":"com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                        "e":"onResume"
+                     },
+                     {
+                        "st":11381000,
+                        "c":"com.bonreesdk.hostdemo.common.view.RecyclerAdapter",
+                        "e":"onClick(空指针,0xffffffff)"
+                     }
+
+                  ],
+                  "4.2.0_20200119"
+               ],[
+                  2025000,
+                  "com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                  "",
+                  10184000,
+                  [
+                     {
+                        "st":10095000,
+                        "c":"com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                        "e":"onCreate"
+                     },
+                     {
+                        "st":10184000,
+                        "c":"com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+                        "e":"onResume"
+                     },
+                     {
+                        "st":11381000,
+                        "c":"com.bonreesdk.hostdemo.common.view.RecyclerAdapter",
+                        "e":"onClick(空指针,0xffffffff)"
+                     }
+
+                  ],
+                  "4.2.0_20200119"
+               ]
+
+
+            ],
+			"ed": "caused by:caused by:*** -[__NSSingleObjectArrayI objectAtIndex:]: index 2 beyond bounds [0 .. 0] 22ccc172-5eb3-4f90-821c-6e5c38f54f5e\r\ncallStackSymbols: {\r\n0   CoreFoundation  0x0000000181d3ad8c 0x0000000181bf5000 + 1334668\r\n1   libobjc.A.dylib  0x0000000180ef45ec 0x0000000180eec000 + 34284\r\n2   CoreFoundation  0x0000000181cd3d80 0x0000000181bf5000 + 912768\r\n3   AdAemo  0x00000001000e1e84 0x00000001000dc000 + 24196\r\n4   AdAemo  0x000000010012d4e4 0x00000001000dc000 + 333028\r\n5   UIKit  0x000000018b955e64 0x000000018b903000 + 339556\r\n6   UIKit  0x000000018b955a50 0x000000018b903000 + 338512\r\n7   UIKit  0x000000018bc93380 0x000000018b903000 + 3736448\r\n8   UIKit  0x000000018ba02a4c 0x000000018b903000 + 1047116\r\n9   UIKit  0x000000018ba026a4 0x000000018b903000 + 1046180\r\n10  UIKit  0x000000018b9f63a8 0x000000018b903000 + 996264\r\n11  UIKit  0x00000001a1e052ec 0x00000001a1d6d000 + 623340\r\n12  UIKit  0x000000018b94e6f4 0x000000018b903000 + 308980\r\n13  QuartzCore  0x0000000185ec3e54 0x0000000185da1000 + 1191508\r\n14  QuartzCore  0x0000000185ec7fe4 0x0000000185da1000 + 1208292\r\n15  QuartzCore  0x0000000185e346c8 0x0000000185da1000 + 603848\r\n16  QuartzCore  0x0000000185e5c1b0 0x0000000185da1000 + 766384\r\n17  UIKit  0x000000018bc0c598 0x000000018b903000 + 3184024\r\n18  CoreFoundation  0x0000000181ce2910 0x0000000181bf5000 + 973072\r\n19  CoreFoundation  0x0000000181ce0238 0x0000000181bf5000 + 963128\r\n20  CoreFoundation  0x0000000181ce0884 0x0000000181bf5000 + 964740\r\n21  CoreFoundation  0x0000000181c00da8 0x0000000181bf5000 + 48552\r\n22  GraphicsServices  0x0000000183be6020 0x0000000183bdb000 + 45088\r\n23  UIKit  0x000000018bc20758 0x000000018b903000 + 3266392\r\n24  AdAemo  0x00000001000e341c 0x00000001000dc000 + 29724\r\n25  libdyld.dylib  0x0000000181691fc0 0x0000000181691000 + 4032\r\n}",
+			"en": "any-door-ExceptionHUYIDAOtest00101234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789",
+			"is": {
+				"ba": "0x0000000100014000",
+				"bi": "libobjc.A.dylib:arm64;85f3b59b96243690b138ce96e663bf4b;0x0000000183328000\r\nJavaScriptCore:arm64;0548a22a0c4d306d92572ad10b73b703;0x00000001887a5000\r\nCFNetwork:arm64;90d5c0c0c2813113ada33291569dd779;0x0000000184ed6000\r\nCoreFoundation:arm64;719044f95fe23ee0ab14504def42b100;0x00000001847a2000\r\nGraphicsServices:arm64;b5749f3fa6f13ce689683db33f23256c;0x0000000186209000\r\nWebCore:arm64;71643ec5512a3bf5b4b3926bff6107a0;0x000000018943a000\r\nFoundation:arm64;b301584673973341a35216f9c24a4a8b;0x00000001852b9000\r\nlibc++.1.dylib:arm64;da0f6a86db853140b2d79e3b36f28795;0x00000001832b2000\r\nlibsystem_kernel.dylib:arm64;98ea0e581e203a67a8436a5bbba44e35;0x00000001838aa000\r\niOSDemo:arm64;a32188d3ecff32a3a9cb5fa7c886a1a5;0x0000000100014000\r\nlibsystem_pthread.dylib:arm64;a9496f189b713c25962a892a4b055b2b;0x000000018398e000\r\nUIKit:arm64;314063bdf85f321d88d6e24a0de464a2;0x000000018a9f1000\r\nlibdyld.dylib:arm64;e514c9464eed3be5943a2c61d9241fad;0x00000001837b5000",
+				"eu": "a32188d3ecff32a3a9cb5fa7c886a1a5"
+			},
+			"st": 1573814814950000,
+			"ti": 771,
+			"tn": "adr-glide-source-thread-1"
+		}],
+		"ds": {
+			"ac": 78,
+			"ame": 312,
+			"gla": 123,
+			"glo": 39,
+			"ib": false,
+			"igo": true,
+			"io": true,
+			"kv": "{\"userinfoKEY\":\"userinfoVALUE\"}",
+			"mi": "memberid",
+			"ot": 1,
+			"sa": 1024,
+			"sab": 96,
+			"sas": 1024,
+			"sc": 29
+		},
+		"emt": 1573814214948,
+		"gi": "N",
+		"nsi": {
+			"am": 0,
+			"ns": "IWLAN",
+			"nt": 0,
+			"s": 77
+		},
+		"r": false
+	},
+	"h": {
+		"sv": "4.4.5",
+		"di": {
+			"ch": "hi3660",
+			"di": "860044044868450",
+			"ci": "arm64-v8a",
+			"ov": "9",
+			"ir": false,
+			"cm": "AArch64 Processor rev 1 (aarch64)",
+			"cov": "EMUI 9.1.0",
+			"bn": "HUAWEI",
+			"l": "zh",
+			"an": "com.bonreesdk.hostdemo",
+			"m": "VTR-AL00",
+			"ds": "1080*1920",
+			"av": "1.0-debug(12)",
+			"pi": "应用宝",
+			"tm": 3715.48
+		},
+		"ai": "aa1d57c4-b30b-4917-b8ae-b1c15f3e20cd",
+		"dip": 2005480509
+	}
+}

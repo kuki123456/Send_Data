@@ -1,0 +1,277 @@
+{
+"udr": {
+	"tu": {
+		"mu": 0,
+		"wu": 2411
+	},
+	"d": [{
+			"asr": null,
+			"nr": [
+				[
+					"ru",
+					"si",
+					"tp",
+					"st",
+					"dt",
+					"ct",
+					"sti",
+					"rt",
+					"rti",
+					"dti",
+					"et",
+					"rh",
+					"rd",
+					"rhe",
+					"rds",
+					"ib",
+					"mt",
+					"rg",
+					"rgu",
+					"iw",
+					"lc",
+					"s",
+					"mi",
+					"kv",
+					"pt",
+					"cna",
+					"tip",
+					"dsip",
+					"ns",
+					"ec",
+					"em",
+					"cb",
+					"eop"
+				],
+				[
+					"http://test20817",
+					0,
+					30035,
+					4827267000,
+					0,
+					0,
+					0,
+					1000,
+					48000,
+					54000,
+					4827367000,
+					"",
+					1329,
+					"",
+					46,
+					false,
+					"application/octet-stream;charset=UTF-8",
+					"",
+					"",
+					true,
+					"devtest.ibr.cc",
+					38,
+					"4.2.0_20200221 10:48",
+					"{\"bonree1\":\"test1\",\"bonree2\":\"test2\",\"bonree3\":\"test3\",\"bonree4\":\"test4\"}",
+					1,
+					[
+					"devtest.ibr.cc"
+					],
+				    "118.194.54.130",
+				    "116.116.116.116",
+				    "WiFi",
+				    89,
+				    "",
+				    "",
+					0
+		]
+	],
+	"nsi": {
+		"s": 39,
+		"ns": "WiFi"
+	},
+	"i": [
+
+	],
+	"amt": 1582641850399,
+	"cmt": 1582641853859,
+	"dci": [
+
+	],
+	"l": [
+
+	],
+	"we": [["pvid", "url", "name", "msg", "line", "col", "file", "en", "sta", "flag", "et"],["d84922df-c16f-4bfa-bd5d-90173dc09025", "applewebdata://WebviewError0545ac5d-0fe0-4eeb-b7f6-16a72c75310a", "URIError", "URIError: bonreeJsBridge.addCrashTrace is not a function. (In 'bonreeJsBridge.addCrashTrace(['homePage','just run a test'])', 'bonreeJsBridge.addCrashTrace' is undefined)", 14, 45, "applewebdata", 10, "myclick@file:///var/containers/Bundle/Application/970595C7-194A-45F7-B3A2-E9C301469E74/iOSDemo.app/test.htm:14:45\nonclick@file:///var/containers/Bundle/Application/970595C7-194A-45F7-B3A2-E9C301469E74/iOSDemo.app/test.htm:8:8", 1, 1574687493894]],
+	"ar": [{
+			"ct": 128000,
+			"st": 1141000,
+			"ai": "27fa3ae0471c38b2f344785acf89cef8",
+			"iq": false,
+			"lt": 900000,
+			"fr": [
+
+			],
+			"an": "com.meiji.toutiao.MainActivity",
+			"et": 138357000
+		},
+		{
+			"ct": 138389000,
+			"st": 138846000,
+			"ai": "21fffffcab5656b12408fa12703cbcc6",
+			"iq": false,
+			"lt": 457000,
+			"fr": [{
+					"ct": 138444000,
+					"st": 138858000,
+					"fn": "com.meiji.toutiao.module.news.content.NewsContentFragment",
+					"lt": 415000,
+					"et": 4879419000
+				}
+
+			],
+			"an": "com.meiji.toutiao.module.news.content.NewsContentActivity",
+			"et": 0
+		},
+		{
+			"ct": 138389000,
+			"st": 138846000,
+			"ai": "21fffffcab5656b12408fa12703cbcc6",
+			"iq": true,
+			"lt": 457000,
+			"fr": [
+
+			],
+			"an": "com.meiji.toutiao.module.news.content.NewsContentActivity",
+			"et": 4879419000
+		}
+
+	],
+	"wi": [
+				["pvid", "url", "wn", "wpt", "wr", "we", "jen","mi"],
+				["5b359ae9-fbe1-48f6-9a84-a564afa61e98", "http://test20817", ",WN_23", {
+						"ce": 14000,
+						"cs": 13000,
+						"dc": 7000,
+						"dclee": 5000,
+						"dcles": 4000,
+						"di": 6000,
+						"dl": 8000,
+						"dle": 16000,
+						"dls": 15000,
+						"fs": 1000,
+						"lee": 9000,
+						"les": 10000,
+						"ns": 1574687493894,
+						"rde": 18000,
+						"rds": 17000,
+						"reqs": 2000,
+						"rsps": 3000,
+						"scs": 19000,
+						"uee": 12000,
+						"ues": 11000
+					},
+					[],
+					[
+						["pvid", "url", "name", "msg", "line", "col", "file", "en", "sta", "flag", "et"],
+						["5b359ae9-fbe1-48f6-9a84-a564afa61e98", "http://test20817", "TypeError", "TypeError: bonreeJsBridge.addCrashTrace is not a function. (In 'bonreeJsBridge.addCrashTrace(['homePage','just run a test'])', 'bonreeJsBridge.addCrashTrace' is undefined)", 14, 45, "linlh.error.h5.filename", 1, "myclick@file:///var/containers/Bundle/Application/970595C7-194A-45F7-B3A2-E9C301469E74/iOSDemo.app/test.htm:14:45\nonclick@file:///var/containers/Bundle/Application/970595C7-194A-45F7-B3A2-E9C301469E74/iOSDemo.app/test.htm:8:8", 1, 1574687493894]
+					], 0,"15672617352"
+				]
+
+            ],
+	"s": [
+
+	],
+	"car": [
+
+	],
+	"ti": [
+
+	],
+	"si": "4:2:d8b57ad8-a1b0-4b85-8111-61b8992c578e",
+	"ut": [
+		[
+			"st",
+			"an",
+			"fn",
+			"utst",
+			"f",
+			"mi"
+		],
+		[
+			4740561000,
+			"com.meiji.toutiao.module.news.content.NewsContentActivity",
+			"com.meiji.toutiao.module.news.content.NewsContentFragment",
+			138858000, [{
+					"st": 138444000,
+					"c": "com.meiji.toutiao.module.news.content.NewsContentFragment",
+					"e": "onCreate"
+				},
+				{
+					"st": 138858000,
+					"c": "com.meiji.toutiao.module.news.content.NewsContentFragment",
+					"e": "onResume"
+				},
+				{
+					"st": 4879419000,
+					"c": "com.meiji.toutiao.module.news.content.NewsContentFragment",
+					"e": "onPause"
+				}
+
+			],
+			"4.2.0_20200221 10:48"
+		],
+		[
+			4740573000,
+			"com.meiji.toutiao.module.news.content.NewsContentActivity",
+			"",
+			138846000, [{
+					"st": 138389000,
+					"c": "com.meiji.toutiao.module.news.content.NewsContentActivity",
+					"e": "onCreate"
+				},
+				{
+					"st": 138846000,
+					"c": "com.meiji.toutiao.module.news.content.NewsContentActivity",
+					"e": "onResume"
+				},
+				{
+					"st": 138977000,
+					"c": "com.jakewharton.rxbinding2.view.ViewClickObservable",
+					"e": "onClick(Touch on CardView,0xffffffff)"
+			},
+			{
+				"st": 4879412000,
+				"c": "com.meiji.toutiao.module.news.content.NewsContentActivity",
+				"e": "onPause"
+			}
+
+		],
+		"4.2.0_20200221 10:48"
+	]
+
+]
+
+}
+
+],
+"iat": true
+},
+"h": {
+		"ai": "e414f1aa-f7ef-495f-b8c2-0531c19200fe",
+		"di": {
+			"an": "BusinessTrip",
+			"av": "5.34",
+			"bn": "huawei",
+			"ch": "mt6752",
+			"ci": "ARM64v8",
+			"cm": "ARM64v8",
+			"di": "linlh_default12",
+			"dia": ["128e556fbc1be6bf93c49838aeb73930", "3ca30921d0a6759fbc8fb803a8199725", "04c7f8d392f3f5e2325da26055f7b1f0", "9396ad5d3657be1eaf3dd3b913344c1e"],
+			"ds": "750*1334",
+			"ir": false,
+			"l": "zh-Hans-CN",
+			"m": "",
+			"ov": "TopN_OsVersion_9.93",
+			"pi": "qudao_test",
+			"pm": "TopN model 94",
+			"tm": 2048
+		},
+		"dip": 977453569,
+		"sv": "4.4.5"
+	},
+"cr": null
+}

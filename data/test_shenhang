@@ -1,0 +1,267 @@
+{
+	"udr": {
+		"tu": {
+			"mu": 0,
+			"wu": 66063
+		},
+		"d": [{
+			"nr": [
+				["ru", "si", "tp", "st", "dt", "ct", "sti", "rt", "rti", "dti", "et", "rh", "rd", "rhe", "rds", "ib", "mt", "rg", "rgu", "iw", "lc", "s", "mi", "kv", "pt", "cna", "tip", "dsip", "ns", "ec", "em", "cb", "eop"],
+				["https://sdkupload.bonree.com/upload?key=1cd810d6-901e-4002-8d63-b840244f5280_EBA056F7-E9CB-4C7A-BF69-38F3C6E91F1D", 0, 443, 126085724, 0, 0, 0, 217, 177385, 1104, 126085941, "", 3382, "", 98, false, "application/octet-stream", "", "", false, "upload.p.popupgrade.com", 14, "", "", "4", ["sdkupload.bonree.com", "upload.p.popupgrade.com"], "118.194.54.198", "192.168.2.1", "WiFi", 200, "", "", 0],
+				["https://sdkupload.bonree.com/upload?key=1cd810d6-901e-4002-8d63-b840244f5280_EBA056F7-E9CB-4C7A-BF69-38F3C6E91F1D", 0, 443, 126277693, 0, 0, 0, 999, 999, 999, 126278692, "", 3364, "", 250, false, "application/octet-stream", "", "", false, "upload.p.popupgrade.com", 14, "", "", "2", ["sdkupload.bonree.com", "upload.p.popupgrade.com"], "118.194.54.198", "192.168.2.1", "WiFi", 200, "", "", 0],
+				["https://mobile.shenzhenair.com/szairMobileWS/FetchCalendarPriceServlet?m=getCalendarPrice&dptcity=SZX&arrcity=JIL&dptdate=2020-06-30", 0, 443, 130180404, 0, 0, 0, 192, 198284, 1183, 130180596, "", 1122, "", 233, false, "text/xml", "", "", false, "mobile.shenzhenair.com.wswebpic.com", 14, "", "", "4", ["mobile.shenzhenair.com", "mobile.shenzhenair.com.wswebpic.com"], "36.49.16.243", "192.168.2.1", "WiFi", 200, "", "", 0],
+				["https://mobile.shenzhenair.com/szairMobileWS/FetchCalendarPriceServlet?m=getCalendarPrice&dptcity=SZX&arrcity=JIL&dptdate=2020-06-30", 0, 443, 130528443, 0, 0, 0, 999, 999, 999, 130529442, "", 0, "", 308, false, "text/xml", "", "", false, "mobile.shenzhenair.com.wswebpic.com", 14, "", "", "2", ["mobile.shenzhenair.com", "mobile.shenzhenair.com.wswebpic.com"], "36.49.16.243", "192.168.2.1", "WiFi", 200, "", "", 0],
+				["https://mobile.shenzhenair.com/szairMobileWS/services/couponWebService", 0, 443, 130212880, 0, 0, 0, 208, 289322, 999, 130213088, "", 1173, "", 440, false, "text/xml", "", "", false, "mobile.shenzhenair.com.wswebpic.com", 14, "", "", "4", ["mobile.shenzhenair.com", "mobile.shenzhenair.com.wswebpic.com"], "36.49.16.243", "192.168.2.1", "WiFi", 200, "", "", 0],
+				["https://mobile.shenzhenair.com/szairMobileWS/services/couponWebService", 0, 443, 130603842, 0, 0, 0, 999, 999, 999, 130604841, "", 1343, "", 196, false, "text/xml", "", "", false, "mobile.shenzhenair.com.wswebpic.com", 14, "", "", "2", ["mobile.shenzhenair.com", "mobile.shenzhenair.com.wswebpic.com"], "36.49.16.243", "192.168.2.1", "WiFi", 200, "", "", 0],
+				["https://mobile.shenzhenair.com/szairMobileWS/services/mobileMsgWebService", 0, 443, 130211642, 0, 0, 0, 196, 305635, 999, 130211838, "", 1311, "", 654, false, "text/xml", "", "", false, "mobile.shenzhenair.com.wswebpic.com", 14, "", "", "4", ["mobile.shenzhenair.com", "mobile.shenzhenair.com.wswebpic.com"], "36.49.16.243", "192.168.2.1", "WiFi", 200, "", "", 0],
+				["https://mobile.shenzhenair.com/szairMobileWS/services/mobileMsgWebService", 0, 443, 130614788, 0, 0, 0, 999, 999, 999, 130615787, "", 1383, "", 196, false, "text/xml", "", "", false, "mobile.shenzhenair.com.wswebpic.com", 14, "", "", "2", ["mobile.shenzhenair.com", "mobile.shenzhenair.com.wswebpic.com"], "36.49.16.243", "192.168.2.1", "WiFi", 200, "", "", 0],
+				["http://47.95.172.102:8106/sa?project=production", 0, 8106, 135405686, 0, 0, 0, 1065, 290099, 1386, 135406751, "", 1903, "", 282, false, "text/plain", "", "", false, "", 14, "", "", "1", [], "47.95.172.102", "192.168.2.1", "WiFi", 200, "", "", 0],
+				["http://47.95.172.102:8106/sa?project=production", 0, 8106, 135708125, 0, 0, 0, 999, 999, 999, 135709124, "", 1278, "", 287, false, "text/plain", "", "", false, "", 14, "", "", "1", [], "47.95.172.102", "192.168.2.1", "WiFi", 200, "", "", 0],
+				["https://mobile.shenzhenair.com/szairMobileWS/FetchCalendarPriceServlet?m=getCalendarPrice&dptcity=SZX&arrcity=CGQ&dptdate=2020-06-30", 0, 443, 138407026, 0, 0, 0, 111, 284136, 1510, 138407137, "", 578, "", 544, false, "text/xml", "", "", false, "mobile.shenzhenair.com.wswebpic.com", 14, "", "", "4", ["mobile.shenzhenair.com", "mobile.shenzhenair.com.wswebpic.com"], "36.49.16.243", "192.168.2.1", "WiFi", 200, "", "", 0],
+				["https://mobile.shenzhenair.com/szairMobileWS/FetchCalendarPriceServlet?m=getCalendarPrice&dptcity=SZX&arrcity=CGQ&dptdate=2020-06-30", 0, 443, 138702984, 0, 0, 0, 999, 999, 999, 138703983, "", 0, "", 308, false, "text/xml", "", "", false, "mobile.shenzhenair.com.wswebpic.com", 14, "", "", "2", ["mobile.shenzhenair.com", "mobile.shenzhenair.com.wswebpic.com"], "36.49.16.243", "192.168.2.1", "WiFi", 200, "", "", 0],
+				["https://mobile.shenzhenair.com/szairMobileWS/services/couponWebService", 0, 443, 138438119, 0, 0, 0, 182, 286170, 999, 138438301, "", 1178, "", 440, false, "text/xml", "", "", false, "mobile.shenzhenair.com.wswebpic.com", 14, "", "", "4", ["mobile.shenzhenair.com", "mobile.shenzhenair.com.wswebpic.com"], "36.49.16.243", "192.168.2.1", "WiFi", 200, "", "", 0],
+				["https://mobile.shenzhenair.com/szairMobileWS/services/couponWebService", 0, 443, 138734121, 0, 0, 0, 999, 999, 999, 138735120, "", 1343, "", 196, false, "text/xml", "", "", false, "mobile.shenzhenair.com.wswebpic.com", 14, "", "", "2", ["mobile.shenzhenair.com", "mobile.shenzhenair.com.wswebpic.com"], "36.49.16.243", "192.168.2.1", "WiFi", 200, "", "", 0],
+				["https://mobile.shenzhenair.com/szairMobileWS/services/mobileMsgWebService", 0, 443, 138443502, 0, 0, 0, 347, 292585, 999, 138443849, "", 1215, "", 654, false, "text/xml", "", "", false, "mobile.shenzhenair.com.wswebpic.com", 14, "", "", "4", ["mobile.shenzhenair.com", "mobile.shenzhenair.com.wswebpic.com"], "36.49.16.243", "192.168.2.1", "WiFi", 200, "", "", 0],
+				["https://mobile.shenzhenair.com/szairMobileWS/services/mobileMsgWebService", 0, 443, 138743584, 0, 0, 0, 999, 999, 999, 138744583, "", 1383, "", 196, false, "text/xml", "", "", false, "mobile.shenzhenair.com.wswebpic.com", 14, "", "", "2", ["mobile.shenzhenair.com", "mobile.shenzhenair.com.wswebpic.com"], "36.49.16.243", "192.168.2.1", "WiFi", 200, "", "", 0],
+				["http://47.95.172.102:8106/sa?project=production", 0, 8106, 150408782, 0, 0, 0, 1272, 198709, 1161, 150410054, "", 1867, "", 282, false, "text/plain", "", "", false, "", 13, "", "", "1", [], "47.95.172.102", "192.168.2.1", "WiFi", 200, "", "", 0],
+				["http://47.95.172.102:8106/sa?project=production", 0, 8106, 150620469, 0, 0, 0, 999, 999, 999, 150621468, "", 1242, "", 287, false, "text/plain", "", "", false, "", 13, "", "", "1", [], "47.95.172.102", "192.168.2.1", "WiFi", 200, "", "", 0],
+				["http://47.95.172.102:8106/sa?project=production", 0, 8106, 165398907, 0, 0, 0, 945, 292331, 1046, 165399852, "", 1367, "", 282, false, "text/plain", "", "", false, "", 13, "", "", "1", [], "47.95.172.102", "192.168.2.1", "WiFi", 200, "", "", 0],
+				["http://47.95.172.102:8106/sa?project=production", 0, 8106, 165703406, 0, 0, 0, 999, 999, 999, 165704405, "", 744, "", 287, false, "text/plain", "", "", false, "", 13, "", "", "1", [], "47.95.172.102", "192.168.2.1", "WiFi", 200, "", "", 0],
+				["https://mobile.shenzhenair.com/szairMobileWS/services//shenzhenMemberWebService", 0, 443, 171647932, 0, 0, 0, 388, 474009, 999, 171648320, "", 1417, "", 667, false, "text/xml", "", "", false, "mobile.shenzhenair.com.wswebpic.com", 9, "test", "", "4", ["mobile.shenzhenair.com", "mobile.shenzhenair.com.wswebpic.com"], "36.49.16.243", "192.168.2.1", "WiFi", 1234, "", "", 0],
+				["https://mobile.shenzhenair.com/szairMobileWS/services//shenzhenMemberWebService", 0, 443, 172144259, 0, 0, 0, 999, 999, 999, 172145258, "", 1575, "", 196, false, "text/xml", "", "", false, "mobile.shenzhenair.com.wswebpic.com", 9, "test", "", "2", ["mobile.shenzhenair.com", "mobile.shenzhenair.com.wswebpic.com"], "36.49.16.243", "192.168.2.1", "WiFi", 200, "", "", 0],
+				["http://47.95.172.102:8106/sa?project=production", 0, 8106, 180404076, 0, 0, 0, 948, 181527, 1153, 180405024, "", 1360, "", 282, false, "text/plain", "", "", false, "", 9, "test", "", "1", [], "47.95.172.102", "192.168.2.1", "WiFi", 200, "", "", 0],
+				["http://47.95.172.102:8106/sa?project=production", 0, 8106, 180597734, 0, 0, 0, 999, 999, 999, 180598733, "", 737, "", 287, false, "text/plain", "", "", false, "", 9, "test", "", "1", [], "47.95.172.102", "192.168.2.1", "WiFi", 200, "", "", 0],
+				["https://mobile.shenzhenair.com/szairMobileWS/services/shenzhenMemberWebService", 0, 443, 180976650, 0, 0, 0, 1029, 526292, 1004, 180977679, "", 1669, "", 484, false, "text/xml", "", "", false, "mobile.shenzhenair.com.wswebpic.com", 9, "test", "", "4", ["mobile.shenzhenair.com", "mobile.shenzhenair.com.wswebpic.com"], "36.49.16.243", "192.168.2.1", "WiFi", null, "dgfhdkjhasfjk", "", 0],
+				["https://mobile.shenzhenair.com/szairMobileWS/services/shenzhenMemberWebService", 0, 443, 181517255, 0, 0, 0, 999, 999, 999, 181518254, "", 1576, "", 196, false, "text/xml", "", "", false, "mobile.shenzhenair.com.wswebpic.com", 9, "test", "", "2", ["mobile.shenzhenair.com", "mobile.shenzhenair.com.wswebpic.com"], "36.49.16.243", "192.168.2.1", "WiFi", 666, "", "", 0]
+			],
+			"nsi": {
+				"s": 9,
+				"ns": "WiFi"
+			},
+			"amt": 1591093535716,
+			"i": [],
+			"cmt": 1591093541757,
+			"l": [],
+			"we": [],
+			"ar": [{
+				"st": 117384662,
+				"ct": 116799270,
+				"lt": 585392,
+				"ai": 1629354320,
+				"iq": false,
+				"fr": [],
+				"an": "CityListVC",
+				"et": 130757974
+			}, {
+				"st": 130764251,
+				"ct": 130207245,
+				"lt": 557006,
+				"ai": 1395820563,
+				"iq": false,
+				"fr": [],
+				"an": "NewTopBannerViewController",
+				"et": 134096778
+			}, {
+				"st": 130764764,
+				"ct": 130207343,
+				"lt": 557421,
+				"ai": 2883196547,
+				"iq": false,
+				"fr": [],
+				"an": "NewMainBussViewController",
+				"et": 134096987
+			}, {
+				"st": 130765253,
+				"ct": 130207485,
+				"lt": 557768,
+				"ai": 1955168004,
+				"iq": false,
+				"fr": [],
+				"an": "BookingTicketViewController",
+				"et": 134097335
+			}, {
+				"st": 130767896,
+				"ct": 130207665,
+				"lt": 560231,
+				"ai": 1955168004,
+				"iq": false,
+				"fr": [],
+				"an": "BookingTicketViewController",
+				"et": 134097478
+			}, {
+				"st": 130768380,
+				"ct": 130207723,
+				"lt": 560657,
+				"ai": 3025142705,
+				"iq": false,
+				"fr": [],
+				"an": "MultiPassBookingVC",
+				"et": 134097583
+			}, {
+				"st": 130770627,
+				"ct": 130207826,
+				"lt": 562801,
+				"ai": 2654847784,
+				"iq": false,
+				"fr": [],
+				"an": "MainBussFunctionViewController",
+				"et": 134097844
+			}, {
+				"st": 130776553,
+				"ct": 130207932,
+				"lt": 568621,
+				"ai": 2215836874,
+				"iq": false,
+				"fr": [],
+				"an": "NewActivityViewController",
+				"et": 134097948
+			}, {
+				"st": 130776934,
+				"ct": 130208022,
+				"lt": 568912,
+				"ai": 3229123135,
+				"iq": false,
+				"fr": [],
+				"an": "NewInsuranceVC",
+				"et": 134098042
+			}, {
+				"st": 130777171,
+				"ct": 130208122,
+				"lt": 569049,
+				"ai": 3002848637,
+				"iq": false,
+				"fr": [],
+				"an": "NewMembersIVC",
+				"et": 134098122
+			}, {
+				"st": 134098298,
+				"ct": 133507845,
+				"lt": 590453,
+				"ai": 1629354320,
+				"iq": false,
+				"fr": [],
+				"an": "CityListVC",
+				"et": 138993956
+			}, {
+				"st": 139001996,
+				"ct": 138432637,
+				"lt": 569359,
+				"ai": 1395820563,
+				"iq": false,
+				"fr": [],
+				"an": "NewTopBannerViewController",
+				"et": 146909139
+			}, {
+				"st": 139002496,
+				"ct": 138432829,
+				"lt": 569667,
+				"ai": 2883196547,
+				"iq": false,
+				"fr": [],
+				"an": "NewMainBussViewController",
+				"et": 146909189
+			}, {
+				"st": 139003166,
+				"ct": 138432938,
+				"lt": 570228,
+				"ai": 1955168004,
+				"iq": false,
+				"fr": [],
+				"an": "BookingTicketViewController",
+				"et": 146909324
+			}, {
+				"st": 139005554,
+				"ct": 138433132,
+				"lt": 572422,
+				"ai": 1955168004,
+				"iq": false,
+				"fr": [],
+				"an": "BookingTicketViewController",
+				"et": 146909364
+			}, {
+				"st": 139006084,
+				"ct": 138433205,
+				"lt": 572879,
+				"ai": 3025142705,
+				"iq": false,
+				"fr": [],
+				"an": "MultiPassBookingVC",
+				"et": 146909392
+			}, {
+				"st": 139008234,
+				"ct": 138433303,
+				"lt": 574931,
+				"ai": 2654847784,
+				"iq": false,
+				"fr": [],
+				"an": "MainBussFunctionViewController",
+				"et": 146909466
+			}, {
+				"st": 139013560,
+				"ct": 138433401,
+				"lt": 580159,
+				"ai": 2215836874,
+				"iq": false,
+				"fr": [],
+				"an": "NewActivityViewController",
+				"et": 146909504
+			}, {
+				"st": 139013865,
+				"ct": 138433517,
+				"lt": 580348,
+				"ai": 3229123135,
+				"iq": false,
+				"fr": [],
+				"an": "NewInsuranceVC",
+				"et": 146909532
+			}, {
+				"st": 142732781,
+				"ct": 142722260,
+				"lt": 10521,
+				"ai": 3002848637,
+				"iq": false,
+				"fr": [],
+				"an": "NewMembersIVC",
+				"et": 146909552
+			}, {
+				"st": 146909596,
+				"ct": 146869602,
+				"lt": 39994,
+				"ai": 114498143,
+				"iq": false,
+				"fr": [],
+				"an": "SwichNewLoginViewController",
+				"et": 172188510
+			}],
+			"wi": [],
+			"s": [],
+			"ti": [],
+			"car": [],
+			"si": "4:2:07c9de30-7109-40a4-b1a0-ced1aa56a287",
+			"ut": []
+		}],
+		"iat": true
+	},
+	"h": {
+		"sv": "4.4.5",
+		"di": {
+			"ch": "hi3660",
+			"di": "860044044868450",
+			"ci": "arm64-v8a",
+			"ov": "9",
+			"ir": false,
+			"cm": "AArch64 Processor rev 1 (aarch64)",
+			"cov": "EMUI 9.1.0",
+			"bn": "HUAWEI",
+			"l": "zh",
+			"an": "com.bonreesdk.hostdemo",
+			"m": "VTR-AL00",
+			"ds": "1080*1920",
+			"av": "1.0-debug(12)",
+			"pi": "应用宝",
+			"tm": 3715.48
+		},
+		"ai": "1cd810d6-901e-4002-8d63-b840244f5280",
+		"dip": 2095711410
+	}
+}

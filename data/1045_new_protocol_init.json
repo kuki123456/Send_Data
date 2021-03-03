@@ -1,0 +1,322 @@
+{
+"udr": {
+	"tu": {
+		"mu": 0,
+		"wu": 2411
+	},
+	"d": [{
+			"asr": null,
+			"nr": [
+				[
+					"ru",
+					"si",
+					"tp",
+					"st",
+					"dt",
+					"ct",
+					"sti",
+					"rt",
+					"rti",
+					"dti",
+					"et",
+					"rh",
+					"rd",
+					"rhe",
+					"rds",
+					"ib",
+					"mt",
+					"rg",
+					"rgu",
+					"iw",
+					"lc",
+					"s",
+					"mi",
+					"kv",
+					"pt",
+					"cna",
+					"tip",
+					"dsip",
+					"ns",
+					"ec",
+					"em",
+					"cb",
+					"eop"
+				],
+				[
+					"http://alsa.ibr.cc:30035/upload?key=df62a91c-6c7f-4eee-bc14-31eebd9b55da\n_83e46c04211af6c6",
+					0,
+					30035,
+					4827267000,
+					0,
+					0,
+					0,
+					1000,
+					48000,
+					54000,
+					4827367000,
+					"",
+					1329,
+					"",
+					46,
+					false,
+					"application/octet-stream;charset=UTF-8",
+					"",
+					"",
+					false,
+					"devtest.ibr.cc",
+					38,
+					"4.2.0_20200221 10:48",
+					"{\"bonree1\":\"test1\",\"bonree2\":\"test2\",\"bonree3\":\"test3\",\"bonree4\":\"test4\"}",
+					1,
+					[
+					"devtest.ibr.cc"
+					],
+				    "118.194.54.130",
+				    "116.116.116.116",
+				    "WiFi",
+					404,
+				    "hqtesterrormessage",
+				    "{\"Agent\":\" con.con.order.con\",\"Host\":\" devtest.ibr.cc\",\"Bgent\":\" gzip\"}",
+					0
+		], [
+					"http://alsa.ibr.cc:30035/config/83e46c04211af6c629",
+					0,
+					30035,
+					4827267000,
+					0,
+					0,
+					0,
+					1000,
+					48000,
+					54000,
+					4827367000,
+					"",
+					1329,
+					"",
+					46,
+					false,
+					"application/octet-stream;charset=UTF-8",
+					"",
+					"",
+					false,
+					"devtest.ibr.cc",
+					38,
+					"4.2.0_20200221 10:48",
+					"{\"bonree1\":\"test1\",\"bonree2\":\"test2\",\"bonree3\":\"test3\",\"bonree4\":\"test4\"}",
+					1,
+					[
+					"devtest.ibr.cc"
+					],
+				    "118.194.54.130",
+				    "116.116.116.116",
+				    "WiFi",
+				    200,
+				    "",
+				    "{\"Agent\":\" con.con.order.con\",\"Host\":\" devtest.ibr.cc\",\"Bgent\":\" gzip\"}",
+					1
+		], [
+					"http://webview.ibr.cc:30035/config/83e46c04211af6c622",
+					0,
+					30035,
+					4827267000,
+					0,
+					0,
+					0,
+					1000,
+					48000,
+					54000,
+					4827367000,
+					"",
+					1329,
+					"",
+					46,
+					false,
+					"application/octet-stream;charset=UTF-8",
+					"",
+					"",
+					true,
+					"devtest.ibr.cc",
+					38,
+					"4.2.0_20200221 10:48",
+					"{\"bonree1\":\"test1\",\"bonree2\":\"test2\",\"bonree3\":\"test3\",\"bonree4\":\"test4\"}",
+					1,
+					[
+					"devtest.ibr.cc"
+					],
+				    "118.194.54.130",
+				    "116.116.116.116",
+				    "WiFi",
+				    200,
+				    "",
+				    "{\"Agent-1\":\" con.con.order.con.devtest.ibr.cc\",\"Host-2\":\" devtest.ibr.cc\",\"Bgent-3\":\" gzip.devtest.ibr.cc.devtest.ibr.cc.devtest.ibr.cc.devtest.ibr.cc.devtest.ibr.cc\"}",
+					1
+		]
+	],
+	"nsi": {
+		"s": 39,
+		"ns": "WiFi"
+	},
+	"i": [
+
+	],
+	"amt": 1582641850399,
+	"cmt": 1582641853859,
+	"dci": [
+
+	],
+	"l": [
+
+	],
+	"we": [
+
+	],
+	"ar": [{
+			"ct": 128000,
+			"st": 1141000,
+			"ai": "27fa3ae0471c38b2f344785acf89cef8",
+			"iq": false,
+			"lt": 900000,
+			"fr": [
+
+			],
+			"an": "com.meiji.toutiao.MainActivity",
+			"et": 138357000
+		},
+		{
+			"ct": 138389000,
+			"st": 138846000,
+			"ai": "21fffffcab5656b12408fa12703cbcc6",
+			"iq": false,
+			"lt": 457000,
+			"fr": [{
+					"ct": 138444000,
+					"st": 138858000,
+					"fn": "com.meiji.toutiao.module.news.content.NewsContentFragment",
+					"lt": 415000,
+					"et": 4879419000
+				}
+
+			],
+			"an": "com.meiji.toutiao.module.news.content.NewsContentActivity",
+			"et": 0
+		},
+		{
+			"ct": 138389000,
+			"st": 138846000,
+			"ai": "21fffffcab5656b12408fa12703cbcc6",
+			"iq": true,
+			"lt": 457000,
+			"fr": [
+
+			],
+			"an": "com.meiji.toutiao.module.news.content.NewsContentActivity",
+			"et": 4879419000
+		}
+
+	],
+	"wi": [
+
+	],
+	"s": [
+
+	],
+	"car": [
+
+	],
+	"ti": [
+
+	],
+	"si": "4:2:d8b57ad8-a1b0-4b85-8111-61b8992c578e",
+	"ut": [
+		[
+			"st",
+			"an",
+			"fn",
+			"utst",
+			"f",
+			"mi"
+		],
+		[
+			4740561000,
+			"com.meiji.toutiao.module.news.content.NewsContentActivity",
+			"com.meiji.toutiao.module.news.content.NewsContentFragment",
+			138858000, [{
+					"st": 138444000,
+					"c": "com.meiji.toutiao.module.news.content.NewsContentFragment",
+					"e": "onCreate"
+				},
+				{
+					"st": 138858000,
+					"c": "com.meiji.toutiao.module.news.content.NewsContentFragment",
+					"e": "onResume"
+				},
+				{
+					"st": 4879419000,
+					"c": "com.meiji.toutiao.module.news.content.NewsContentFragment",
+					"e": "onPause"
+				}
+
+			],
+			"4.2.0_20200221 10:48"
+		],
+		[
+			4740573000,
+			"com.meiji.toutiao.module.news.content.NewsContentActivity",
+			"",
+			138846000, [{
+					"st": 138389000,
+					"c": "com.meiji.toutiao.module.news.content.NewsContentActivity",
+					"e": "onCreate"
+				},
+				{
+					"st": 138846000,
+					"c": "com.meiji.toutiao.module.news.content.NewsContentActivity",
+					"e": "onResume"
+				},
+				{
+					"st": 138977000,
+					"c": "com.jakewharton.rxbinding2.view.ViewClickObservable",
+					"e": "onClick(Touch on CardView,0xffffffff)"
+			},
+			{
+				"st": 4879412000,
+				"c": "com.meiji.toutiao.module.news.content.NewsContentActivity",
+				"e": "onPause"
+			}
+
+		],
+		"4.2.0_20200221 10:48"
+	]
+
+]
+
+}
+
+],
+"iat": true
+},
+"h": {
+		"ai": "e414f1aa-f7ef-495f-b8c2-0531c19200fe",
+		"di": {
+			"an": "BusinessTrip",
+			"av": "5.34",
+			"bn": "huawei",
+			"ch": "mt6752",
+			"ci": "ARM64v8",
+			"cm": "ARM64v8",
+			"di": "linlh_default12",
+			"dia": ["128e556fbc1be6bf93c49838aeb73930", "3ca30921d0a6759fbc8fb803a8199725", "04c7f8d392f3f5e2325da26055f7b1f0", "9396ad5d3657be1eaf3dd3b913344c1e"],
+			"ds": "750*1334",
+			"ir": false,
+			"l": "zh-Hans-CN",
+			"m": "",
+			"ov": "TopN_OsVersion_9.93",
+			"pi": "qudao_test",
+			"pm": "TopN model 94",
+			"tm": 2048
+		},
+		"dip": 977453569,
+		"sv": "4.4.5"
+	},
+"cr": null
+}

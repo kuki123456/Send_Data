@@ -1,0 +1,167 @@
+{
+	"udr": {
+		"tu": {
+			"mu": 0,
+			"wu": 66063
+		},
+		"d": [{
+			"asr":{"lt":4200000,"ic": true},
+			"nr": [],
+			"nsi": {
+				"s": 9,
+				"ns": "WiFi"
+			},
+			"amt": 1591093535716,
+			"i": [{
+				"ar": {
+					"an": "NotActivityNameOnly",
+					"ct": 191382,
+					"et": 762544,
+					"fr": [{
+						"ct": 191382,
+						"fn": "NotActivityNameOnly_fragment7",
+						"lt": 764333,
+						"st": 245641
+					}],
+					"iq": false,
+					"lt": 755333,
+					"st": 245641
+				},
+				"ds": {
+					"ac": 78,
+					"ame": 312,
+					"gla": 123,
+					"glo": 39,
+					"ib": false,
+					"igo": true,
+					"io": true,
+					"kv": "{\"userinfoKEY\":\"userinfoVALUE\"}",
+					"mi": "memberid",
+					"ot": 1,
+					"sa": 1024,
+					"sab": 96,
+					"sas": 1024,
+					"sc": 29
+				},
+				"mc": [
+					["st", "am", "ac"],
+					[436557071, 38.56317, 9.7],
+					[436659526, 225.2038, 34.97268],
+					[659656000, 29.810547, 24.175825],
+					[659665000, 29.53418, 50.0],
+					[660022000, 29.771484, 8.1081085],
+					[659934000, 29.751953, 25.0],
+					[660022000, 29.771484, 8.1081085],
+					[660085000, 29.771484, 5.263158],
+					[660152000, 30.030273, 31.666666],
+					[660259000, 30.970703, 21.212122],
+					[660374000, 30.99414, 17.647058],
+					[158726000, 30.873047, 33.333332]
+				],
+				"mi": [
+					["st", "et", "n", "t", "ru", "rg", "rgu"],
+					[436639845, 436639945, "BehaviorMethodViewController/viewDidLoad", 20089, "", "", ""],
+					[436640063, 436640116, "BRHomeViewController/viewWillDisappear:", 20089, "", "", ""],
+					[436640213, 436640231, "BehaviorMethodViewController/viewWillAppear:", 20089, "", "", ""],
+					[436648923, 436648927, "ZHConfigBaseNavigationController/viewDidLayoutSubviews", 20089, "", "", ""],
+					[436650610, 436650614, "BehaviorMethodViewController/viewWillLayoutSubviews", 20089, "", "", ""],
+					[437161233, 437161351, "BehaviorMethodViewController/viewDidLayoutSubviews", 20089, "", "", ""],
+					[437161233, 437161351, "BRHomeViewController/viewDidDisappear:", 20089, "", "", ""],
+					[437161792, 437161902, "BehaviorMethodViewController/viewDidAppear:", 20089, "", "", ""],
+					[437642850, 437642871, "BehaviorMethodViewController/viewWillLayoutSubviews", 20089, "", "", ""],
+					[437645017, 437645033, "BehaviorMethodViewController/viewDidLayoutSubviews", 20089, "", "", ""],
+					[438343274, 438844380, "BehaviorMethodViewController/connection:willSendRequest:redirectResponse:", 20089, "https://www.baidu.com/", "", ""],
+					[438847018, 438847037, "BehaviorMethodViewController/viewWillLayoutSubviews", 20089, "", "", ""],
+					[438849505, 438849521, "BehaviorMethodViewController/viewDidLayoutSubviews", 20089, "", "", ""],
+					[438991531, 439492607, "BehaviorMethodViewController/connection:didReceiveResponse:", 20089, "https://www.baidu.com/", "", ""],
+					[439493000, 439994103, "BehaviorMethodViewController/connection:didReceiveData:", 20089, "https://www.baidu.com", "", ""],
+					[439995067, 440496163, "BehaviorMethodViewController/connectionDidFinishLoading:", 20089, "https://www.baidu.com", "", ""],
+					[440498298, 440498317, "BehaviorMethodViewController/viewWillLayoutSubviews", 20089, "", "", ""],
+					[440500359, 440500374, "BehaviorMethodViewController/viewDidLayoutSubviews", 20089, "", "", ""]
+				],
+				"ns": "EDGE",
+				"ti": [
+					["ti", "t", "n"],
+					[20087, 0, "HQTESTEDGE"],
+					[20089, 1, "glide-source-thread-3"],
+					[20090, 1, "com.tmsdual-shark-http-send"],
+					[20091, 1, "glide-source-thread-1"],
+					[20092, 1, "glide-source-thread-2"],
+					[20093, 1, "pool-2-thread-2"],
+					[20094, 1, "Timer-1"]
+				],
+				"ut": [
+					["st", "an", "fn", "mi", "f", "utst"],
+					[70434000, "com.sdk.demo.HomeActivity", "", "", [{}], 5000],
+					[70292000, "com.sdk.demo.HomeActivity", "com.sdk.demo.business.MainFragment", "", [{}], 5000],
+					[70174000, "com.sdk.demo.HomeActivity", "com.sdk.demo.business.SettingsFragment", "", [{}], 5000],
+					[934000, "com.sdk.demo.business.interact.InteractActivity", "", "", [{}], 5000],
+					[658000, "com.sdk.demo.HomeActivity", "", "", [{}], 5000],
+					[656000, "com.sdk.demo.HomeActivity", "com.sdk.demo.business.MainFragment", "", [{}], 5000],
+					[657000, "com.sdk.demo.HomeActivity", "com.sdk.demo.business.SettingsFragment", "", [{}], 5000],
+					[736000, "com.sdk.demo.business.network.NetworkActivity", "", "", [{}], 5000],
+					[4602000, "com.sdk.demo.business.network.NativeHttpActivity", "", "", [{}], 5000],
+					[3564000, "com.sdk.demo.business.network.NativeHttpActivity", "", "", [{}], 5000],
+					[-130618000, "com.sdk.demo.business.network.NativeHttpActivity", "", "", [{}], 5000],
+					[2398000, "com.sdk.demo.business.network.NetworkActivity", "", "", [{}], 5000],
+					[1069000, "com.sdk.demo.business.network.NetworkActivity", "", "", [{}], 5000],
+					[6225000, "com.sdk.demo.business.network.NativeHttpActivity", "", "", [{}], 5000],
+					[1145000, "com.sdk.demo.business.network.NetworkActivity", "", "", [{}], 5000],
+					[9223000, "com.sdk.demo.HomeActivity", "", "", [{}], 5000],
+					[9217000, "com.sdk.demo.HomeActivity", "com.sdk.demo.business.MainFragment", "", [{}], 5000],
+					[9217000, "com.sdk.demo.HomeActivity", "com.sdk.demo.business.SettingsFragment", "", [{}], 5000],
+					[1280000, "com.sdk.demo.business.interact.InteractActivity", "", "", [{}], 5000],
+					[49853000, "com.sdk.demo.business.interact.BitmapFactoryTestActivity", "", "", [{}], 5000]
+				]
+			}],
+			"cmt": 1591093541757,
+			"l": [],
+			"we":[],
+			"ar":[{
+				"st": 732544,
+				"ct": 138433517,
+				"lt": 610000,
+				"ai": 3229123135,
+				"iq": false,
+				"fr": [{
+					"ct": 100407,
+					"et": 310923856,
+					"fn": "zhangTOPNFragment_fragment_98",
+					"lt": 500000,
+					"st": 210923856
+				}],
+				"an": "HQtest_ACTIVITY",
+				"et": 742544
+			}],
+			"wi" : [],
+			"s": [],
+			"ti": [],
+			"car": [],
+			"si": "4:2:07c9de30-7109-40a4-b1a0-ced1aa56a287",
+			"ut": []
+		}],
+		"iat": true
+	},
+	"h": {
+		"sv": "4.4.5",
+		"di": {
+			"ch": "hi3660",
+			"di": "3e9303d00ae594677398acd5450b9328ee2b655d28aa0e0006d2653192fa32f5",
+			"ci": "arm64-v8a",
+			"ov": "9",
+			"ir": false,
+			"cm": "AArch64 Processor rev 1 (aarch64)",
+			"cov": "EMUI 9.1.0",
+			"bn": "HUAWEI",
+			"l": "zh",
+			"an": "com.bonreesdk.hostdemo",
+			"m": "VTR-AL00",
+			"ds": "1080*1920",
+			"av": "1.0-debug(12)",
+			"pi": "应用宝",
+			"tm": 3715.48
+		},
+		"ai": "1cd810d6-901e-4002-8d63-b840244f5280",
+		"dip": 2095711410
+	}
+}

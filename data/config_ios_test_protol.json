@@ -1,0 +1,148 @@
+{
+  "cr" : {
+    "ci" : [
+      {
+        "av" : "1.8(1.0)",
+        "cg" : "C59FA7C8-DF33-4221-A11E-5D4AF7CF815B",
+        "cst" : 642111857,
+        "ds" : {
+          "ac" : 23.700000762939453,
+          "ame" : 318.4075927734375,
+          "gla" : 0,
+          "glo" : 0,
+          "ib" : false,
+          "igo" : true,
+          "io" : false,
+          "kv" : "{\"memberID\":\"zhiliang\"}",
+          "mi" : "zhiliang",
+          "ot" : 1,
+          "sa" : 614.234375,
+          "sab" : 100,
+          "sas" : 115791,
+          "sc" : 28.808864593505859
+        },
+        "ed" : "caused by:Application received signal 13ncallStackSymbols: {\r\nn1   libsystem_pthread.dylib  0x0000000184c2dafc 0x0000000184c2b000 + 000\r\nn0    hahaha  libsystem_kernel.dylib  0x0000000184bb50e4 0x0000000184b91000 + 889\r\nn3   sdk  0x000000010093fdf8 0x00000001008f4000 + 666666\r\nn0  demo  hahaha  libsystem_kernel.dylib  0x0000000184bb50e4 0x0000000184b91000 + 996\r\nn4   UIKitCore  0x00000001b2f0f51c 0x00000001b23cd000 + 11805980\r\nn5 sdk 0x000000010427aee4 __77-[SMethodEngine hookTableViewDidSelectRowAtIndexPathWithTableViewDelegate:]_block_invoke_2 (in sdk) (SMethodEngine.m:608)}",
+       "cb" : "*** Collection <__NSArrayM: 0x281d86340> was mutated while being enumerated.",
+        "en" : "Application :exception error :signal13",
+        "is" : {
+	        "ba" : "0x00000001008f4000",
+            "bi" : "demo:arm64;2DD75E54-9FE5-3EDC-BB53-F750D644FC7F;0x00000001008f4000nlibc++.1.dylib:arm64e;3C721833-0149-3E08-A5F8-D31EA0AE9EF2;0x00000001841ac000nlibsystem_pthread.dylib:arm64e;E692C011-A051-36C0-B0BB-6394503A9BEB;0x0000000184c2b000nlibsystem_kernel.dylib:arm64e;F3C6C1C7-3CCD-343F-ABA8-13BF8A3C630F;0x0000000184b91000nlibdyld.dylib:arm64e;7D0CEA57-D240-32E6-A23F-A52F86D644CA;0x0000000184a64000nlibsystem_c.dylib:arm64e;07BACB80-53AE-39C5-8CFC-75A723C84584;0x0000000184ab3000nlibdispatch.dylib:arm64e;3DB462A3-43A4-3727-A568-721A3C9A9DFA;0x0000000184a29000nFoundation:arm64e;601542D4-B828-3B4C-A7B2-A40AF5CAF90D;0x00000001859ae000nCoreFoundation:arm64e;29CAA11B-9FB2-33C5-A43D-FA1DD28EE777;0x0000000184f08000nCFNetwork:arm64e;172D66E8-EB52-3137-AB0D-8CA75E6547E2;0x00000001855db000nGraphicsServices:arm64e;2A382439-EE3E-3FCF-AA4F-355B2E7E8EBD;0x000000018725c000nAVFAudio:arm64e;E9DC4E36-C863-3EB5-91B8-147D895F1516;0x000000018b011000nUIKitCore:arm64e;8CE6174B-6FFD-3866-8681-91642225D9ED;0x00000001b23cd000nJavaScriptCore:arm64e;BE43CAC0-2CB8-3F1F-8252-61F58ECCBF79;0x000000018c42c000nWebCore:arm64e;912E88AA-AA11-378B-8DF3-A3FA45FDFFE1;0x000000018db1a000nWebCore:arm64e;9C467395-A169-3B53-9F3A-22290C37AD2B;0x00000001a66d6000n",
+            "eu" : "2DD75E54-9FE5-3EDC-BB53-F750D644FC7F",
+            "sbv" : "12.1.4(16D57)"
+        },
+        "lav" : "",
+        "ns" : "WiFi",
+        "ot" : [
+
+        ],
+        "st" : 1589011430860806,
+        "sv" : "6.5.0",
+        "ti" : 771,
+        "tn" : "#0 Thread",
+        "ut" : [
+          [
+            "st",
+            "an",
+            "fn",
+            "utst",
+            "f",
+            "mi"
+          ],
+          [
+            8601362,
+            "WebViewViewController",
+            "",
+            353222434,
+            [
+              {
+                "c" : "WebViewViewController",
+                "e" : "viewDidLoad",
+                "st" : 353222434
+              },
+              {
+                "c" : "_UINavigationBarContentView",
+                "e" : "__backButtonAction:(_UIButtonBarButton:{{0, 0}, {69, 44}},tag=0)",
+                "st" : 361284207
+              },
+              {
+                "c" : "WebViewViewController",
+                "e" : "viewDidDisappear:",
+                "st" : 361823796
+              }
+            ],
+            "zhiliang"
+          ],
+          [
+            2849336,
+            "demo.ThirdWebViewListController",
+            "",
+            361311660,
+            [
+              {
+                "c" : "demo.ThirdWebViewListController",
+                "e" : "viewWillAppear:",
+                "st" : 361311660
+              },
+              {
+                "c" : "demo.ThirdWebViewListController",
+                "e" : "tableView:didSelectRowAtIndexPath:(UITableView:{{0, 119}, {414, 743}},tag=0,section=0,row=1)",
+                "st" : 363606978
+              },
+              {
+                "c" : "demo.ThirdWebViewListController",
+                "e" : "viewDidDisappear:",
+                "st" : 364160996
+              }
+            ],
+            "zhiliang"
+          ]
+        ]
+      }
+    ],
+    "ds" : {
+      "ac" : 22.600002288818359,
+      "ame" : 9.3443832397460938,
+      "gla" : 0,
+      "glo" : 0,
+      "ib" : false,
+      "igo" : true,
+      "io" : false,
+      "kv" : "{\"memberID\":\"zhiliang\"}",
+      "mi" : "zhiliang",
+      "ot" : 1,
+      "sa" : 1678.015625,
+      "sab" : 100,
+      "sas" : 115792,
+      "sc" : 8.169921875
+    },
+    "emt" : 1589011429574,
+    "gi" : "noGray",
+    "nsi" : {
+      "ns" : "WiFi",
+      "s" : 0
+    },
+    "r" : false
+  },
+  "h" : {
+    "ai" : "6e39f445-0e0d-4248-b8ae-e3ef7f699631",
+    "di" : {
+      "an" : "demo",
+      "av" : "1.8(1.0)",
+      "bn" : "apple",
+      "ch" : "apple",
+      "ci" : "armv7",
+      "cm" : "armv7",
+      "di" : "3925AC3E-91DB-49EC-86E1-A1D90FA1B3C6",
+      "ds" : "828*1792",
+      "ir" : false,
+      "l" : "zh-Hans-CN",
+      "m" : "iPhone XR",
+      "ov" : "12.1.5",
+      "pi" : "apple",
+      "pm" : "iPhone11,8",
+      "tm" : 2813
+    },
+    "dip" :2005480509,
+    "sv" : "6.5.0"
+  }
+}

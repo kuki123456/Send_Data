@@ -1,0 +1,652 @@
+{
+  "cr" : {
+    "ci" : [
+      {
+        "av" : "1.0(6.4.9.0)",
+        "cb" : "Application received signal 5",
+        "cg" : "5F02A2DA-3431-447D-844C-69EF1B0B0B1F",
+        "cst" : 36064723,
+        "ds" : {
+          "ac" : 71.5,
+          "ame" : 231.81423950195312,
+          "gla" : 0,
+          "glo" : 0,
+          "ib" : false,
+          "igo" : true,
+          "io" : false,
+          "kv" : "",
+          "mi" : "",
+          "ot" : 1,
+          "sa" : 374.84375,
+          "sab" : 100,
+          "sas" : 9850,
+          "sc" : 59.166667938232422
+        },
+        "ed" : "caused by:Application received signal 5ncallStackSymbols: {n0   WebCore  0x00000001918f1760 0x000000018fe33000 + 28043104n1   WebCore  0x00000001918f1760 0x000000018fe33000 + 28043104n2   WebCore  0x0000000190225bc0 0x000000018fe33000 + 4139968n3   WebCore  0x0000000190226900 0x000000018fe33000 + 4143360n4   JavaScriptCore  0x0000000197a11fe0 0x0000000196fe1000 + 10686432n5   JavaScriptCore  0x0000000197a11cb8 0x0000000196fe1000 + 10685624n6   JavaScriptCore  0x00000001972557dc 0x0000000196fe1000 + 2574300n7   JavaScriptCore  0x0000000196fe2f1c 0x0000000196fe1000 + 7964n8   libobjc.A.dylib  0x00000001880116d0 0x0000000187ff0000 + 136912n9   libobjc.A.dylib  0x00000001880115c8 0x0000000187ff0000 + 136648n10  JavaScriptCore  0x000000019722ee74 0x0000000196fe1000 + 2416244n11  JavaScriptCore  0x0000000197224468 0x0000000196fe1000 + 2372712n12  JavaScriptCore  0x00000001976c8158 0x0000000196fe1000 + 7237976n13  JavaScriptCore  0x00000001976c54a0 0x0000000196fe1000 + 7226528n14  JavaScriptCore  0x00000001976c5ce0 0x0000000196fe1000 + 7228640n15  JavaScriptCore  0x00000001976a7c94 0x0000000196fe1000 + 7105684n16  JavaScriptCore  0x0000000197012558 0x0000000196fe1000 + 202072n17  JavaScriptCore  0x0000000197013030 0x0000000196fe1000 + 204848n18  JavaScriptCore  0x0000000196fec688 0x0000000196fe1000 + 46728n19  JavaScriptCore  0x000000019702b734 0x0000000196fe1000 + 304948n20  JavaScriptCore  0x000000019702d2a4 0x0000000196fe1000 + 311972n21  libsystem_pthread.dylib  0x0000000187fe9d8c 0x0000000187fdf000 + 44428n}",
+        "en" : "mach",
+        "is" : {
+          "ba" : "0x0000000100594000",
+          "bi" : "TzyjApp:arm64;6C166FA2-B8BA-39A4-8206-ABE175E652F8;0x0000000100594000nlibc++.1.dylib:arm64;6BC32E62-1105-31EE-BCDE-AB97B76D5507;0x000000018810a000nlibobjc.A.dylib:arm64;A697479D-4C5C-391E-B117-85B894AB94C6;0x0000000187ff0000nCFNetwork:arm64;59B74C73-DCC3-3A99-9647-189B124B265B;0x000000018b50f000nCoreFoundation:arm64;7519E999-1053-3367-B9D5-8844F6D3BDC6;0x00000001881a3000nFoundation:arm64;7B1733B1-74C9-3A33-8A58-853B0A029826;0x000000018857f000nJavaScriptCore:arm64;C87FA51E-B103-3902-A963-FAAEDB228C86;0x0000000196fe1000nlibShanXiZhengQuanDylib.dylib:arm64;0C192936-40C3-39B6-8830-BA612B50ACAF;0x0000000103c10000nGraphicsServices:arm64;CEFBBC61-FDB3-3DB7-86BF-337E511616DB;0x00000001921e4000nUIKitCore:arm64;D7630067-7A00-3CB7-99E1-E7F6C55D85C5;0x000000018b951000nWebKitLegacy:arm64;E259406B-03A4-3977-A227-FCAE8DF2BC95;0x00000001941e2000nWebCore:arm64;83A4A191-11A0-3138-97DC-EF1313F78BAE;0x000000018fe33000nlibdispatch.dylib:arm64;B9D95EAB-9269-367D-B2F4-C2B45821A32D;0x0000000187f3f000nlibdyld.dylib:arm64;7B531A15-3E73-3185-90E2-B88D9476DA5E;0x00000001880cf000nlibsystem_c.dylib:arm64;61459536-A83B-36A0-9004-5D168317D2A6;0x0000000187ec2000nlibsystem_kernel.dylib:arm64;1B7D7184-05D6-3A83-BB1B-F9AF6AEF61F3;0x00000001880a1000nlibsystem_pthread.dylib:arm64;1FF7A2FB-9F28-37B7-AF39-344206A322BD;0x0000000187fdf000nlibcycript.dylib:arm64;6D4E0176-1599-3A32-9828-E7AB2A93E7AB;0x0000000103ee4000n",
+          "eu" : "6C166FA2-B8BA-39A4-8206-ABE175E652F8",
+          "sbv" : "13.3.1(17D50)"
+        },
+        "lav" : "",
+        "ns" : "WiFi",
+        "ot" : [
+          {
+            "st" : "0   libsystem_kernel.dylib  0x00000001880a4634 0x00000001880a1000 + 13876n1   libsystem_kernel.dylib  0x00000001880a3aa0 0x00000001880a1000 + 10912n2   CoreFoundation  0x000000018824c288 0x00000001881a3000 + 692872n3   CoreFoundation  0x00000001882473a8 0x00000001881a3000 + 672680n4   CoreFoundation  0x0000000188246adc 0x00000001881a3000 + 670428n5   GraphicsServices  0x00000001921e7328 0x00000001921e4000 + 13096n6   UIKitCore  0x000000018c35463c 0x000000018b951000 + 10499644n7   TzyjApp  0x00000001005a0818 0x0000000100594000 + 51224n8   libdyld.dylib  0x00000001880d0360 0x00000001880cf000 + 4960n",
+            "ti" : 1287,
+            "tn" : "#0 Thread"
+          },
+          {
+            "st" : "0   libsystem_kernel.dylib  0x00000001880a4688 0x00000001880a1000 + 13960n1   libdispatch.dylib  0x0000000187f4190c 0x0000000187f3f000 + 10508n2   libdispatch.dylib  0x0000000187f41e90 0x0000000187f3f000 + 11920n3   libShanXiZhengQuanDylib.dylib  0x0000000103c9a848 0x0000000103c10000 + 567368n4   libdispatch.dylib  0x0000000187f9a610 0x0000000187f3f000 + 374288n5   libdispatch.dylib  0x0000000187f9b184 0x0000000187f3f000 + 377220n6   libdispatch.dylib  0x0000000187f47404 0x0000000187f3f000 + 33796n7   libdispatch.dylib  0x0000000187f47df8 0x0000000187f3f000 + 36344n8   libdispatch.dylib  0x0000000187f51314 0x0000000187f3f000 + 74516n9   libsystem_pthread.dylib  0x0000000187feab88 0x0000000187fdf000 + 48008n",
+            "ti" : 5387,
+            "tn" : "#1 Thread"
+          },
+          {
+            "st" : "0   libsystem_kernel.dylib  0x00000001880c6a7c 0x00000001880a1000 + 154236n1   libsystem_pthread.dylib  0x0000000187feabd4 0x0000000187fdf000 + 48084n",
+            "ti" : 10243,
+            "tn" : "#2 Thread"
+          },
+          {
+            "st" : "0   libsystem_kernel.dylib  0x00000001880c6acc 0x00000001880a1000 + 154316n1   libsystem_c.dylib  0x0000000187f01abc 0x0000000187ec2000 + 260796n2   libsystem_c.dylib  0x0000000187ec35d4 0x0000000187ec2000 + 5588n3   libsystem_c.dylib  0x0000000187efb6fc 0x0000000187ec2000 + 235260n4   libsystem_c.dylib  0x0000000187efb36c 0x0000000187ec2000 + 234348n5   libShanXiZhengQuanDylib.dylib  0x0000000103ca9844 0x0000000103c10000 + 628804n6   libShanXiZhengQuanDylib.dylib  0x0000000103cbe9bc 0x0000000103c10000 + 715196n7   CoreFoundation  0x000000018831bd74 0x00000001881a3000 + 1543540n8   CoreFoundation  0x00000001881a57dc 0x00000001881a3000 + 10204n9   libShanXiZhengQuanDylib.dylib  0x0000000103cbdd5c 0x0000000103c10000 + 712028n10  libShanXiZhengQuanDylib.dylib  0x0000000103cbda74 0x0000000103c10000 + 711284n11  libdispatch.dylib  0x0000000187f9a610 0x0000000187f3f000 + 374288n12  libdispatch.dylib  0x0000000187f9b184 0x0000000187f3f000 + 377220n13  libdispatch.dylib  0x0000000187f47404 0x0000000187f3f000 + 33796n14  libdispatch.dylib  0x0000000187f47df8 0x0000000187f3f000 + 36344n15  libdispatch.dylib  0x0000000187f51314 0x0000000187f3f000 + 74516n16  libsystem_pthread.dylib  0x0000000187feab88 0x0000000187fdf000 + 48008n",
+            "ti" : 7431,
+            "tn" : "#3 Thread"
+          },
+          {
+            "st" : "0   libsystem_kernel.dylib  0x00000001880a4670 0x00000001880a1000 + 13936n1   libdispatch.dylib  0x0000000187f41890 0x0000000187f3f000 + 10384n2   libdispatch.dylib  0x0000000187f41ed4 0x0000000187f3f000 + 11988n3   libdispatch.dylib  0x0000000187f9a610 0x0000000187f3f000 + 374288n4   libdispatch.dylib  0x0000000187f9b184 0x0000000187f3f000 + 377220n5   libdispatch.dylib  0x0000000187f47404 0x0000000187f3f000 + 33796n6   libdispatch.dylib  0x0000000187f47df8 0x0000000187f3f000 + 36344n7   libdispatch.dylib  0x0000000187f51314 0x0000000187f3f000 + 74516n8   libsystem_pthread.dylib  0x0000000187feab88 0x0000000187fdf000 + 48008n",
+            "ti" : 8451,
+            "tn" : "#4 Thread"
+          },
+          {
+            "st" : "0   libsystem_kernel.dylib  0x00000001880c6a7c 0x00000001880a1000 + 154236n1   libsystem_pthread.dylib  0x0000000187feabd4 0x0000000187fdf000 + 48084n",
+            "ti" : 7951,
+            "tn" : "#5 Thread"
+          },
+          {
+            "st" : "0   libsystem_kernel.dylib  0x00000001880c5c94 0x00000001880a1000 + 150676n1   libsystem_pthread.dylib  0x0000000187fe2cf8 0x0000000187fdf000 + 15608n2   libc++.1.dylib  0x0000000188118840 0x000000018810a000 + 59456n3   JavaScriptCore  0x000000019706dfd4 0x0000000196fe1000 + 577492n4   JavaScriptCore  0x000000019706cdcc 0x0000000196fe1000 + 572876n5   JavaScriptCore  0x000000019706ca44 0x0000000196fe1000 + 571972n6   JavaScriptCore  0x000000019706dd50 0x0000000196fe1000 + 576848n7   libsystem_pthread.dylib  0x0000000187fe9d8c 0x0000000187fdf000 + 44428n",
+            "ti" : 10755,
+            "tn" : "#6 JavaScriptCore bmalloc scavenger"
+          },
+          {
+            "st" : "0   libdyld.dylib  0x00000001880d2a88 0x00000001880cf000 + 14984n1   libdyld.dylib  0x00000001880d2a54 0x00000001880cf000 + 14932n2   libobjc.A.dylib  0x0000000188011b4c 0x0000000187ff0000 + 138060n3   libobjc.A.dylib  0x0000000187fff2f8 0x0000000187ff0000 + 62200n4   libobjc.A.dylib  0x000000018800352c 0x0000000187ff0000 + 79148n5   CoreFoundation  0x00000001882dab94 0x00000001881a3000 + 1276820n6   CoreFoundation  0x00000001881a9bb0 0x00000001881a3000 + 27568n7   WebCore  0x0000000190226520 0x000000018fe33000 + 4142368n8   WebKitLegacy  0x000000019429cd54 0x00000001941e2000 + 765268n9   WebKitLegacy  0x00000001942b5250 0x00000001941e2000 + 864848n10  WebCore  0x0000000191000214 0x000000018fe33000 + 18666004n11  WebCore  0x0000000191013100 0x000000018fe33000 + 18743552n12  WebCore  0x000000019100b218 0x000000018fe33000 + 18711064n13  WebCore  0x00000001917f0208 0x000000018fe33000 + 26989064n14  JavaScriptCore  0x0000000197007b5c 0x0000000196fe1000 + 158556n15  Foundation  0x00000001886b7224 0x000000018857f000 + 1278500n16  CoreFoundation  0x000000018824ca00 0x00000001881a3000 + 694784n17  CoreFoundation  0x000000018824c958 0x00000001881a3000 + 694616n18  CoreFoundation  0x000000018824c0f0 0x00000001881a3000 + 692464n19  CoreFoundation  0x000000018824723c 0x00000001881a3000 + 672316n20  CoreFoundation  0x0000000188246adc 0x00000001881a3000 + 670428n21  WebCore  0x000000019022a0f0 0x000000018fe33000 + 4157680n22  libsystem_pthread.dylib  0x0000000187fe9d8c 0x0000000187fdf000 + 44428n",
+            "ti" : 11779,
+            "tn" : "#7 WebThread"
+          },
+          {
+            "st" : "0   libsystem_kernel.dylib  0x00000001880a4634 0x00000001880a1000 + 13876n1   libsystem_kernel.dylib  0x00000001880a3aa0 0x00000001880a1000 + 10912n2   CoreFoundation  0x000000018824c288 0x00000001881a3000 + 692872n3   CoreFoundation  0x00000001882473a8 0x00000001881a3000 + 672680n4   CoreFoundation  0x0000000188246adc 0x00000001881a3000 + 670428n5   Foundation  0x0000000188586784 0x000000018857f000 + 30596n6   Foundation  0x0000000188586664 0x000000018857f000 + 30308n7   UIKitCore  0x000000018c3ece80 0x000000018b951000 + 11124352n8   Foundation  0x00000001886b709c 0x000000018857f000 + 1278108n9   libsystem_pthread.dylib  0x0000000187fe9d8c 0x0000000187fdf000 + 44428n",
+            "ti" : 13315,
+            "tn" : "#8 com.apple.uikit.eventfetch-thread"
+          },
+          {
+            "st" : "0   libsystem_kernel.dylib  0x00000001880c6a7c 0x00000001880a1000 + 154236n1   libsystem_pthread.dylib  0x0000000187feabd4 0x0000000187fdf000 + 48084n",
+            "ti" : 38147,
+            "tn" : "#9 Thread"
+          },
+          {
+            "st" : "0   libsystem_kernel.dylib  0x00000001880a4634 0x00000001880a1000 + 13876n1   libsystem_kernel.dylib  0x00000001880a3aa0 0x00000001880a1000 + 10912n2   CoreFoundation  0x000000018824c288 0x00000001881a3000 + 692872n3   CoreFoundation  0x00000001882473a8 0x00000001881a3000 + 672680n4   CoreFoundation  0x0000000188246adc 0x00000001881a3000 + 670428n5   Foundation  0x0000000188586784 0x000000018857f000 + 30596n6   TzyjApp  0x00000001005da434 0x0000000100594000 + 287796n7   Foundation  0x00000001886b709c 0x000000018857f000 + 1278108n8   libsystem_pthread.dylib  0x0000000187fe9d8c 0x0000000187fdf000 + 44428n",
+            "ti" : 28419,
+            "tn" : "#10 GCDAsyncSocket-CFStream"
+          },
+          {
+            "st" : "0   libsystem_kernel.dylib  0x00000001880a4634 0x00000001880a1000 + 13876n1   libsystem_kernel.dylib  0x00000001880a3aa0 0x00000001880a1000 + 10912n2   CoreFoundation  0x000000018824c288 0x00000001881a3000 + 692872n3   CoreFoundation  0x00000001882473a8 0x00000001881a3000 + 672680n4   CoreFoundation  0x0000000188246adc 0x00000001881a3000 + 670428n5   CFNetwork  0x000000018b5104e8 0x000000018b50f000 + 5352n6   Foundation  0x00000001886b709c 0x000000018857f000 + 1278108n7   libsystem_pthread.dylib  0x0000000187fe9d8c 0x0000000187fdf000 + 44428n",
+            "ti" : 29963,
+            "tn" : "#11 com.apple.NSURLConnectionLoader"
+          },
+          {
+            "st" : "0   libsystem_kernel.dylib  0x00000001880c6150 0x00000001880a1000 + 151888n1   CoreFoundation  0x0000000188259d5c 0x00000001881a3000 + 748892n2   libsystem_pthread.dylib  0x0000000187fe9d8c 0x0000000187fdf000 + 44428n",
+            "ti" : 35843,
+            "tn" : "#12 com.apple.CFSocket.private"
+          },
+          {
+            "st" : "0   libsystem_kernel.dylib  0x00000001880c6240 0x00000001880a1000 + 152128n1   libsystem_c.dylib  0x0000000187f32660 0x0000000187ec2000 + 460384n2   Foundation  0x00000001885e7ab4 0x000000018857f000 + 428724n3   TzyjApp  0x0000000101e641a4 0x0000000100594000 + 26018212n4   Foundation  0x00000001886b709c 0x000000018857f000 + 1278108n5   libsystem_pthread.dylib  0x0000000187fe9d8c 0x0000000187fdf000 + 44428n",
+            "ti" : 31503,
+            "tn" : "#13 Thread"
+          },
+          {
+            "st" : "0   libsystem_kernel.dylib  0x00000001880c6240 0x00000001880a1000 + 152128n1   libsystem_c.dylib  0x0000000187f32660 0x0000000187ec2000 + 460384n2   Foundation  0x00000001885e7ab4 0x000000018857f000 + 428724n3   TzyjApp  0x0000000101e641a4 0x0000000100594000 + 26018212n4   Foundation  0x00000001886b709c 0x000000018857f000 + 1278108n5   libsystem_pthread.dylib  0x0000000187fe9d8c 0x0000000187fdf000 + 44428n",
+            "ti" : 31747,
+            "tn" : "#14 Thread"
+          },
+          {
+            "st" : "0   libsystem_kernel.dylib  0x00000001880c6240 0x00000001880a1000 + 152128n1   libsystem_c.dylib  0x0000000187f32660 0x0000000187ec2000 + 460384n2   Foundation  0x00000001885e7ab4 0x000000018857f000 + 428724n3   TzyjApp  0x0000000101e641a4 0x0000000100594000 + 26018212n4   Foundation  0x00000001886b709c 0x000000018857f000 + 1278108n5   libsystem_pthread.dylib  0x0000000187fe9d8c 0x0000000187fdf000 + 44428n",
+            "ti" : 32003,
+            "tn" : "#15 Thread"
+          },
+          {
+            "st" : "0   libsystem_kernel.dylib  0x00000001880c4958 0x00000001880a1000 + 145752n1   libcycript.dylib  0x0000000103f3c210 0x0000000103ee4000 + 360976n2   libcycript.dylib  0x0000000103f3bb9c 0x0000000103ee4000 + 359324n3   libsystem_pthread.dylib  0x0000000187fe9d8c 0x0000000187fdf000 + 44428n",
+            "ti" : 47139,
+            "tn" : "#16 Thread"
+          },
+          {
+            "st" : "0   libsystem_kernel.dylib  0x00000001880c6240 0x00000001880a1000 + 152128n1   libsystem_c.dylib  0x0000000187f32660 0x0000000187ec2000 + 460384n2   libsystem_c.dylib  0x0000000187f32460 0x0000000187ec2000 + 459872n3   libShanXiZhengQuanDylib.dylib  0x0000000103cecfb4 0x0000000103c10000 + 905140n4   libsystem_pthread.dylib  0x0000000187fe9d8c 0x0000000187fdf000 + 44428n",
+            "ti" : 83459,
+            "tn" : "#17 Thread"
+          },
+          {
+            "st" : "0   libsystem_kernel.dylib  0x00000001880a4634 0x00000001880a1000 + 13876n1   libsystem_kernel.dylib  0x00000001880a3aa0 0x00000001880a1000 + 10912n2   libShanXiZhengQuanDylib.dylib  0x0000000103cca634 0x0000000103c10000 + 763444n3   libsystem_pthread.dylib  0x0000000187fe9d8c 0x0000000187fdf000 + 44428n",
+            "ti" : 83203,
+            "tn" : "#18 BRSCrash Exception Handler (Secondary)"
+          },
+          {
+            "st" : "",
+            "ti" : 82947,
+            "tn" : "#19 BRSCrash Exception Handler (Primary)"
+          },
+          {
+            "st" : "0   libsystem_kernel.dylib  0x00000001880c6a7c 0x00000001880a1000 + 154236n1   libsystem_pthread.dylib  0x0000000187feabd4 0x0000000187fdf000 + 48084n",
+            "ti" : 48131,
+            "tn" : "#20 Thread"
+          },
+          {
+            "st" : "0   libsystem_kernel.dylib  0x00000001880c6a7c 0x00000001880a1000 + 154236n1   libsystem_pthread.dylib  0x0000000187feabd4 0x0000000187fdf000 + 48084n",
+            "ti" : 48911,
+            "tn" : "#21 Thread"
+          },
+          {
+            "st" : "0   libsystem_kernel.dylib  0x00000001880c6a7c 0x00000001880a1000 + 154236n1   libsystem_pthread.dylib  0x0000000187feabd4 0x0000000187fdf000 + 48084n",
+            "ti" : 80139,
+            "tn" : "#22 Thread"
+          },
+          {
+            "st" : "0   libsystem_kernel.dylib  0x00000001880a4634 0x00000001880a1000 + 13876n1   libsystem_kernel.dylib  0x00000001880a3aa0 0x00000001880a1000 + 10912n2   CoreFoundation  0x000000018824c288 0x00000001881a3000 + 692872n3   CoreFoundation  0x00000001882473a8 0x00000001881a3000 + 672680n4   CoreFoundation  0x0000000188246adc 0x00000001881a3000 + 670428n5   CFNetwork  0x000000018b5104e8 0x000000018b50f000 + 5352n6   Foundation  0x00000001886b709c 0x000000018857f000 + 1278108n7   libsystem_pthread.dylib  0x0000000187fe9d8c 0x0000000187fdf000 + 44428n",
+            "ti" : 76807,
+            "tn" : "#23 com.apple.CFNetwork.CustomProtocols"
+          },
+          {
+            "st" : "0   libsystem_kernel.dylib  0x00000001880c6a7c 0x00000001880a1000 + 154236n1   libsystem_pthread.dylib  0x0000000187feabd4 0x0000000187fdf000 + 48084n",
+            "ti" : 93955,
+            "tn" : "#24 Thread"
+          },
+          {
+            "st" : "0   libsystem_kernel.dylib  0x00000001880c5c94 0x00000001880a1000 + 150676n1   libsystem_pthread.dylib  0x0000000187fe2cf8 0x0000000187fdf000 + 15608n2   JavaScriptCore  0x000000019702dabc 0x0000000196fe1000 + 314044n3   JavaScriptCore  0x00000001970139a8 0x0000000196fe1000 + 207272n4   WebKitLegacy  0x0000000194282d84 0x00000001941e2000 + 658820n5   WebKitLegacy  0x00000001942859b8 0x00000001941e2000 + 670136n6   WebKitLegacy  0x000000019428509c 0x00000001941e2000 + 667804n7   JavaScriptCore  0x000000019702b734 0x0000000196fe1000 + 304948n8   JavaScriptCore  0x000000019702d2a4 0x0000000196fe1000 + 311972n9   libsystem_pthread.dylib  0x0000000187fe9d8c 0x0000000187fdf000 + 44428n",
+            "ti" : 99087,
+            "tn" : "#25 Thread"
+          },
+          {
+            "st" : "0   libsystem_kernel.dylib  0x00000001880c5c94 0x00000001880a1000 + 150676n1   libsystem_pthread.dylib  0x0000000187fe2cf8 0x0000000187fdf000 + 15608n2   JavaScriptCore  0x000000019702dabc 0x0000000196fe1000 + 314044n3   JavaScriptCore  0x00000001970139a8 0x0000000196fe1000 + 207272n4   JavaScriptCore  0x0000000196fec264 0x0000000196fe1000 + 45668n5   JavaScriptCore  0x0000000196ff36bc 0x0000000196fe1000 + 75452n6   JavaScriptCore  0x0000000196ff34f8 0x0000000196fe1000 + 75000n7   JavaScriptCore  0x000000019702b734 0x0000000196fe1000 + 304948n8   JavaScriptCore  0x000000019702d2a4 0x0000000196fe1000 + 311972n9   libsystem_pthread.dylib  0x0000000187fe9d8c 0x0000000187fdf000 + 44428n",
+            "ti" : 107267,
+            "tn" : "#26 Thread"
+          },
+          {
+            "st" : "0   libsystem_kernel.dylib  0x00000001880c6a7c 0x00000001880a1000 + 154236n1   libsystem_pthread.dylib  0x0000000187feabd4 0x0000000187fdf000 + 48084n",
+            "ti" : 53283,
+            "tn" : "#28 Thread"
+          },
+          {
+            "st" : "0   libsystem_kernel.dylib  0x00000001880c6a7c 0x00000001880a1000 + 154236n1   libsystem_pthread.dylib  0x0000000187feabd4 0x0000000187fdf000 + 48084n",
+            "ti" : 74155,
+            "tn" : "#29 Thread"
+          },
+          {
+            "st" : "",
+            "ti" : 163383,
+            "tn" : "#30 Thread"
+          }
+        ],
+        "st" : 1584529895015050,
+        "sv" : "6.4.0",
+        "ti" : 105487,
+        "tn" : "#27 Thread",
+        "ut" : [
+          [
+            "st",
+            "an",
+            "fn",
+            "utst",
+            "f",
+            "mi"
+          ],
+          [
+            1557431,
+            "HsHomeViewController",
+            "",
+            21754748,
+            [
+              {
+                "c" : "HsHomeViewController",
+                "e" : "viewWillAppear:",
+                "st" : 21754748
+              },
+              {
+                "c" : "HsHomeViewController",
+                "e" : "viewDidDisappear:",
+                "st" : 23312179
+              }
+            ],
+            ""
+          ],
+          [
+            1261121,
+            "HsWebPage",
+            "",
+            22761121,
+            [
+              {
+                "c" : "HsWebPage",
+                "e" : "viewDidLoad",
+                "st" : 22761121
+              },
+              {
+                "c" : "_UIButtonBarTargetAction",
+                "e" : "_invoke:forEvent:(_UIButtonBarButton:{{0, 0}, {41, 44}},tag=0)",
+                "st" : 23504772
+              },
+              {
+                "c" : "HsWebPage",
+                "e" : "viewDidDisappear:",
+                "st" : 24022242
+              }
+            ],
+            ""
+          ],
+          [
+            1570666,
+            "HsHybridTabBarController",
+            "",
+            23506528,
+            [
+              {
+                "c" : "HsHybridTabBarController",
+                "e" : "viewWillAppear:",
+                "st" : 23506528
+              },
+              {
+                "c" : "HsHybridTabBarController",
+                "e" : "viewDidDisappear:",
+                "st" : 25077194
+              }
+            ],
+            ""
+          ],
+          [
+            1570675,
+            "HsHomeViewController",
+            "",
+            23506569,
+            [
+              {
+                "c" : "HsHomeViewController",
+                "e" : "viewWillAppear:",
+                "st" : 23506569
+              },
+              {
+                "c" : "HsHomeViewController",
+                "e" : "viewDidDisappear:",
+                "st" : 25077244
+              }
+            ],
+            ""
+          ],
+          [
+            1407862,
+            "HsWebPage",
+            "",
+            24517278,
+            [
+              {
+                "c" : "HsWebPage",
+                "e" : "viewDidLoad",
+                "st" : 24517278
+              },
+              {
+                "c" : "_UIButtonBarTargetAction",
+                "e" : "_invoke:forEvent:(_UIButtonBarButton:{{0, 0}, {41, 44}},tag=0)",
+                "st" : 25403506
+              },
+              {
+                "c" : "HsWebPage",
+                "e" : "viewDidDisappear:",
+                "st" : 25925140
+              }
+            ],
+            ""
+          ],
+          [
+            1623434,
+            "HsHybridTabBarController",
+            "",
+            25405397,
+            [
+              {
+                "c" : "HsHybridTabBarController",
+                "e" : "viewWillAppear:",
+                "st" : 25405397
+              },
+              {
+                "c" : "HsHybridTabBarController",
+                "e" : "viewDidDisappear:",
+                "st" : 27028831
+              }
+            ],
+            ""
+          ],
+          [
+            1623439,
+            "HsHomeViewController",
+            "",
+            25405439,
+            [
+              {
+                "c" : "HsHomeViewController",
+                "e" : "viewWillAppear:",
+                "st" : 25405439
+              },
+              {
+                "c" : "HsHomeViewController",
+                "e" : "viewDidDisappear:",
+                "st" : 27028878
+              }
+            ],
+            ""
+          ],
+          [
+            1723863,
+            "HsWebPage",
+            "",
+            26483455,
+            [
+              {
+                "c" : "HsWebPage",
+                "e" : "viewDidLoad",
+                "st" : 26483455
+              },
+              {
+                "c" : "_UIButtonBarTargetAction",
+                "e" : "_invoke:forEvent:(_UIButtonBarButton:{{0, 0}, {41, 44}},tag=0)",
+                "st" : 27688541
+              },
+              {
+                "c" : "HsWebPage",
+                "e" : "viewDidDisappear:",
+                "st" : 28207318
+              }
+            ],
+            ""
+          ],
+          [
+            1600335,
+            "HsHybridTabBarController",
+            "",
+            27690299,
+            [
+              {
+                "c" : "HsHybridTabBarController",
+                "e" : "viewWillAppear:",
+                "st" : 27690299
+              },
+              {
+                "c" : "HsHybridTabBarController",
+                "e" : "viewDidDisappear:",
+                "st" : 29290634
+              }
+            ],
+            ""
+          ],
+          [
+            1600389,
+            "HsHomeViewController",
+            "",
+            27690342,
+            [
+              {
+                "c" : "HsHomeViewController",
+                "e" : "viewWillAppear:",
+                "st" : 27690342
+              },
+              {
+                "c" : "HsHomeViewController",
+                "e" : "viewDidDisappear:",
+                "st" : 29290731
+              }
+            ],
+            ""
+          ],
+          [
+            1344842,
+            "HsWebPage",
+            "",
+            28732991,
+            [
+              {
+                "c" : "HsWebPage",
+                "e" : "viewDidLoad",
+                "st" : 28732991
+              },
+              {
+                "c" : "_UIButtonBarTargetAction",
+                "e" : "_invoke:forEvent:(_UIButtonBarButton:{{0, 0}, {41, 44}},tag=0)",
+                "st" : 29553976
+              },
+              {
+                "c" : "HsWebPage",
+                "e" : "viewDidDisappear:",
+                "st" : 30077833
+              }
+            ],
+            ""
+          ],
+          [
+            2801132,
+            "HsHybridTabBarController",
+            "",
+            29558038,
+            [
+              {
+                "c" : "HsHybridTabBarController",
+                "e" : "viewWillAppear:",
+                "st" : 29558038
+              },
+              {
+                "c" : "HsHybridTabBarController",
+                "e" : "viewDidDisappear:",
+                "st" : 32359170
+              }
+            ],
+            ""
+          ],
+          [
+            2801152,
+            "HsHomeViewController",
+            "",
+            29558086,
+            [
+              {
+                "c" : "HsHomeViewController",
+                "e" : "viewWillAppear:",
+                "st" : 29558086
+              },
+              {
+                "c" : "HsHomeViewController",
+                "e" : "viewDidDisappear:",
+                "st" : 32359238
+              }
+            ],
+            ""
+          ],
+          [
+            1252212,
+            "HsWebPage",
+            "",
+            31788848,
+            [
+              {
+                "c" : "HsWebPage",
+                "e" : "viewDidLoad",
+                "st" : 31788848
+              },
+              {
+                "c" : "_UIButtonBarTargetAction",
+                "e" : "_invoke:forEvent:(_UIButtonBarButton:{{0, 0}, {41, 44}},tag=0)",
+                "st" : 32520881
+              },
+              {
+                "c" : "HsWebPage",
+                "e" : "viewDidDisappear:",
+                "st" : 33041060
+              }
+            ],
+            ""
+          ],
+          [
+            1579650,
+            "HsHybridTabBarController",
+            "",
+            32522500,
+            [
+              {
+                "c" : "HsHybridTabBarController",
+                "e" : "viewWillAppear:",
+                "st" : 32522500
+              },
+              {
+                "c" : "HsHybridTabBarController",
+                "e" : "viewDidDisappear:",
+                "st" : 34102150
+              }
+            ],
+            ""
+          ],
+          [
+            1579653,
+            "HsHomeViewController",
+            "",
+            32522539,
+            [
+              {
+                "c" : "HsHomeViewController",
+                "e" : "viewWillAppear:",
+                "st" : 32522539
+              },
+              {
+                "c" : "HsHomeViewController",
+                "e" : "viewDidDisappear:",
+                "st" : 34102192
+              }
+            ],
+            ""
+          ],
+          [
+            1289519,
+            "HsWebPage",
+            "",
+            33552148,
+            [
+              {
+                "c" : "HsWebPage",
+                "e" : "viewDidLoad",
+                "st" : 33552148
+              },
+              {
+                "c" : "_UIButtonBarTargetAction",
+                "e" : "_invoke:forEvent:(_UIButtonBarButton:{{0, 0}, {41, 44}},tag=0)",
+                "st" : 34321714
+              },
+              {
+                "c" : "HsWebPage",
+                "e" : "viewDidDisappear:",
+                "st" : 34841667
+              }
+            ],
+            ""
+          ],
+          [
+            1591116,
+            "HsHybridTabBarController",
+            "",
+            34323200,
+            [
+              {
+                "c" : "HsHybridTabBarController",
+                "e" : "viewWillAppear:",
+                "st" : 34323200
+              },
+              {
+                "c" : "HsHybridTabBarController",
+                "e" : "viewDidDisappear:",
+                "st" : 35914316
+              }
+            ],
+            ""
+          ],
+          [
+            1591152,
+            "HsHomeViewController",
+            "",
+            34323245,
+            [
+              {
+                "c" : "HsHomeViewController",
+                "e" : "viewWillAppear:",
+                "st" : 34323245
+              },
+              {
+                "c" : "HsHomeViewController",
+                "e" : "viewDidDisappear:",
+                "st" : 35914397
+              }
+            ],
+            ""
+          ],
+          [
+            696633,
+            "HsWebPage",
+            "",
+            35367925,
+            [
+              {
+                "c" : "HsWebPage",
+                "e" : "viewDidLoad",
+                "st" : 35367925
+              }
+            ],
+            ""
+          ]
+        ]
+      }
+    ],
+    "ds" : {
+      "ac" : 69.999992370605469,
+      "ame" : 40.766448974609375,
+      "gla" : 0,
+      "glo" : 0,
+      "ib" : false,
+      "igo" : true,
+      "io" : false,
+      "ot" : 1,
+      "sa" : 1129.15625,
+      "sab" : 100,
+      "sas" : 9792,
+      "sc" : 15.68818187713623
+    },
+    "emt" : 1584529893777,
+    "gi" : "0",
+    "nsi" : {
+      "ns" : "WiFi",
+      "s" : 0
+    },
+    "r" : false
+  },
+  "h" : {
+    "ai" : "bc04cd7b-a9e5-4611-ae1e-982a20e9f644",
+    "di" : {
+      "an" : "TzyjApp",
+      "av" : "1.0(6.4.9.0)",
+      "bn" : "apple",
+      "ch" : "apple",
+      "ci" : "ARM64v8",
+      "cm" : "ARM64v8",
+      "di" : "186AFFEE-496C-4DA0-B2F7-3833FDF7D5B0",
+      "ds" : "1242*2208",
+      "ir" : false,
+      "l" : "zh-Hans-CN",
+      "m" : "iPhone 7 Plus",
+      "ov" : "iOS, 13.3.1",
+      "pi" : "apple",
+      "pm" : "iPhone9,2",
+      "tm" : 3000
+    },
+    "dip" : 0,
+    "sv" : "6.4.0"
+  }
+}

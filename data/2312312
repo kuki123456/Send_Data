@@ -1,0 +1,125 @@
+{
+	"udr": {
+		"tu": {
+			"mu": 0,
+			"wu": 66063
+		},
+		"d": [{
+			"asr": {
+				"lt": 4200000,
+				"ic": true
+			},
+			"nr":[["ru", "si", "tp", "st", "dt", "ct", "sti", "rt", "rti", "dti", "et", "rh", "rd", "rhe", "rds", "ei", "se", "ib", "mt", "rg", "rgu", "iw", "lc", "s", "mi", "kv", "pt", "cna", "tip", "dsip", "ns"],
+				  ["http://100.194.54.130/data/v1/df/weare",  0, 39999, 98352,  17999, 12000, 0, 425, 2225326, 408, 98777, "", 804, "", 27, 695, 100, false, "text/plain", "", "", true, "gd-stats.jpush.cn", 10, "1qaz2wsx3edc4rfv", "", "1", ["gd-stats.jpush.cn"], "100.194.54.130", "192.168.3.1", "4G"]
+			] ,
+			"nsi": {
+				"s": 9,
+				"ns": "WiFi"
+			},
+			"amt": 1591093535716,
+			"i": [],
+			"cmt": 1591093541757,
+			"l": [],
+			"we": [],
+			"ar": [{
+				"st": 136909532,
+				"ct": 138433517,
+				"lt": 610000,
+				"ai": 3229123135,
+				"iq": false,
+				"fr": [{
+					"ct": 100407,
+					"et": 310923856,
+					"fn": "zhangTOPNFragment_fragment_98",
+					"lt": 500000,
+					"st": 210923856
+				}],
+				"an": "HQtest_ACTIVITY",
+				"et": 137909532
+			}],
+			"wi": [
+				["pvid", "url", "wn", "wpt", "wr", "we", "jen", "mi"],
+				["29d3bab5-13d6-4f0c-974a-d92a48bad87a", "applewebdata://60000003.h5apptest202_equal565.cm/www/index.html/test/!123", "MTBookTicketViewController", {
+						"ce": 0,
+						"cs": 0,
+						"dc": 525,
+						"dclee": 1400,
+						"dcles": 2000,
+						"di": 485,
+						"dl": 168,
+						"dle": 0,
+						"dls": 0,
+						"fs": 0,
+						"lee": 60000,
+						"les": 525,
+						"ns": 1590485944685,
+						"rde": -1,
+						"rds": -1,
+						"reqs": 0,
+						"rspe": 167,
+						"rsps": 0,
+						"scs": -1,
+						"uee": -1,
+						"ues": -1
+					},
+					[],
+					[], 0, ""
+				],
+				["51d53c55-903f-467a-9993-cd9ce2acc092", "http://60000002.h5apptest201_less.cm/www/index.html/test/#123", "MTBookTicketViewController", {
+						"ce": 0,
+						"cs": 0,
+						"dc": 558,
+						"dclee": 473,
+						"dcles": 472,
+						"di": 472,
+						"dl": 167,
+						"dle": 0,
+						"dls": 0,
+						"fs": 0,
+						"lee": 558,
+						"les": 558,
+						"ns": 1590485944674,
+						"rde": -1,
+						"rds": -1,
+						"reqs": 0,
+						"rspe": 166,
+						"rsps": 0,
+						"scs": -1,
+						"uee": -1,
+						"ues": -1
+					},
+					[],
+					[], 0, ""
+				]
+			],
+			"s": [],
+			"ti": [],
+			"car": [],
+			"si": "4:2:07c9de30-7109-40a4-b1a0-ced1aa56a287",
+			"ut": []
+		}],
+		"iat": true
+	},
+	"h": {
+		"sv": "4.4.5",
+		"di": {
+			"ch": "hi3660",
+			"di": "3e9303d00ae594677398acd5450b9328ee2b655d28aa0e0006d2653192fa32f5",
+			"ci": "arm64-v8a",
+			"ov": "9",
+			"ir": false,
+			"cm": "AArch64 Processor rev 1 (aarch64)",
+			"cov": "EMUI 9.1.0",
+			"bn": "HUAWEI",
+			"l": "zh",
+			"an": "com.bonreesdk.hostdemo",
+			"m": "VTR-AL00",
+			"ds": "1080*1920",
+			"av": "1.0-debug(12)",
+			"pi": "应用宝",
+			"tm": 3715.48
+		},
+		"ai": "1cd810d6-901e-4002-8d63-b840244f5280",
+		"dip": 2095711410
+	}
+}

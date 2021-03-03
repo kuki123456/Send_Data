@@ -1,0 +1,131 @@
+{"h": {
+		"sv": "4.4.5",
+		"di": {
+			"ch": "hi3660",
+			"di": "860044044868450",
+			"ci": "arm64-v8a",
+			"ov": "9",
+			"ir": false,
+			"cm": "AArch64 Processor rev 1 (aarch64)",
+			"cov": "EMUI 9.1.0",
+			"bn": "HUAWEI",
+			"l": "zh",
+			"an": "com.bonreesdk.hostdemo",
+			"m": "VTR-AL00",
+			"ds": "1080*1920",
+			"av": "1.0-debug(12)",
+			"pi": "应用宝",
+			"tm": 3715.48
+		},
+		"ai": "aa1d57c4-b30b-4917-b8ae-b1c15f3e20cd",
+		"dip": 2005480509
+	},
+	"udr": {
+		"d": [{
+			"amt": 0,
+			"ar": [{
+				"ai": "2642441277",
+				"an": "BRHomeViewController",
+				"ct": 367496,
+				"et": 39392146,
+				"iq": true,
+				"lt": 93896,
+				"st": 461392
+			}],
+			"cmt": 1584307669677,
+			"dl": [null],
+			"l": [null],
+			"mt": 1584427669677,
+			"nr": [
+				["ru", "si", "tp", "st", "dt", "ct", "sti", "rt", "rti", "dti", "et", "rh", "rd", "rhe", "rds", "ei", "se", "ib", "mt", "rg", "rgu", "iw", "lc", "s", "mi", "kv", "pt", "cna", "tip", "dsip", "ns"],
+                ["https://hjj.jpush.cn/v3/report",  0, 443, 98352,  17999, 12000, 0, 425, 8869, 408, 98777, "", 804, "", 27, 652, -1005, false, "text/plain", "", "", false, "gd-stats.jpush.cn", 10, "", "", "4", ["gd-stats.jpush.cn"], "118.194.54.130", "192.168.3.1", "WiFi"],
+				["https://308hjj.jpush.cn/v3/report",  0, 443, 98352,  17999, 12000, 0, 425, 8869, 408, 98777, "", 804, "", 27, 308, 308, false, "text/plain", "", "", false, "gd-stats.jpush.cn", 10, "", "", "4", ["gd-stats.jpush.cn"], "118.194.54.130", "192.168.3.1", "WiFi"],
+				["https://208hjj.jpush.cn/v3/report",  0, 443, 98352,  17999, 12000, 0, 425, 8869, 408, 98777, "", 804, "", 27, 208, 208, false, "text/plain", "", "", false, "gd-stats.jpush.cn", 10, "", "", "4", ["gd-stats.jpush.cn"], "118.194.54.130", "192.168.3.1", "WiFi"],
+				["https://300hjj.jpush.cn/v3/report",  0, 443, 98352,  17999, 12000, 0, 425, 8869, 408, 98777, "", 804, "", 27, 300, 300, false, "text/plain", "", "", false, "gd-stats.jpush.cn", 10, "", "", "4", ["gd-stats.jpush.cn"], "118.194.54.130", "192.168.3.1", "WiFi"],
+				["https://56hjj.jpush.cn/v3/report",  0, 443, 98352,  17999, 12000, 0, 425, 8869, 408, 98777, "", 804, "", 27, 652, 56, false, "text/plain", "", "", true, "gd-stats.jpush.cn", 10, "", "", "4", ["gd-stats.jpush.cn"], "118.194.54.130", "192.168.3.1", "WiFi"],
+				["http://2646401.jpush.com/v3/report",  0, 443, 98352,  17999, 12000, 0, 425, 8869, 408, 98777, "", 804, "", 27, 204, 204, false, "text/plain", "", "", false, "gd-stats.jpush.cn", 10, "", "", "1", ["gd-stats.jpush.cn"], "0.0.0.0", "192.168.3.1", "WiFi"],
+				["https://2646402.jpush.com/v3/report",  0, 443, 98352,  17999, 12000, 0, 425, 8869, 408, 98777, "", 804, "", 27, 204, 204, false, "text/plain", "", "", false, "gd-stats.jpush.cn", 10, "", "", "2", ["gd-stats.jpush.cn"], "0.0.0.0", "192.168.3.1", "WiFi"],
+				["http://2646403.jpush.com/v3/report",  0, 443, 98352,  17999, 12000, 0, 425, 8869, 408, 98777, "", 804, "", 27, 204, 204, false, "text/plain", "", "", false, "gd-stats.jpush.cn", 10, "", "", "3", ["gd-stats.jpush.cn"], "0.0.0.0", "192.168.3.1", "WiFi"],
+				["https://2646404.jpush.com/v3/report",  0, 443, 98352,  17999, 12000, 0, 425, 8869, 408, 98777, "", 804, "", 27, 204, 204, false, "text/plain", "", "", false, "gd-stats.jpush.cn", 10, "", "", "4", ["gd-stats.jpush.cn"], "0.0.0.0", "192.168.3.1", "WiFi"],
+				["ws:264640405.com/test",  0, 443, 98352,  17999, 12000, 0, 425, 8869, 408, 98777, "", 804, "", 27, 204, 204, false, "text/plain", "", "", false, "gd-stats.jpush.cn", 10, "", "", "5", ["gd-stats.jpush.cn"], "0.0.0.0", "192.168.3.1", "WiFi"],
+				["wss:264640406.com/test",  0, 443, 98352,  17999, 12000, 0, 425, 8869, 408, 98777, "", 804, "", 27, 204, 204, false, "text/plain", "", "", false, "gd-stats.jpush.cn", 10, "", "", "6", ["gd-stats.jpush.cn"], "0.0.0.0", "192.168.3.1", "WiFi"],
+				["socket264640407.com:9013/test",  0, 443, 98352,  17999, 12000, 0, 425, 8869, 408, 98777, "", 804, "", 27, -1104, -1104, false, "text/plain", "", "", false, "gd-stats.jpush.cn", 10, "", "", "7", ["gd-stats.jpush.cn"], "0.0.0.0", "192.168.3.1", "WiFi"],
+                ["http://27112.jpush1.com/test",  0, 443, 98352,  17999, 30000000, 120, 425, 8869, -408, 98777, "", 804, "", 27, 503, 503, false, "text/plain", "", "", false, "gd-stats.jpush.cn", 10, "", "", "1", ["gd-stats.jpush.cn"], "118.194.54.130", "192.168.3.1", "WiFi"],
+				["https://27112.jpush2.com/test",  0, 443, 98352,  17999, 30000000, 120, 425, 8869, -408, 98777, "", 804, "", 27, 503, 503, false, "text/plain", "", "", false, "gd-stats.jpush.cn", 10, "", "", "2", ["gd-stats.jpush.cn"], "118.194.54.130", "192.168.3.1", "WiFi"],
+				["http://27112.jpush3.com/test",  0, 443, 98352,  17999, 30000000, 120, 425, 8869, -408, 98777, "", 804, "", 27, 503, 503, false, "text/plain", "", "", false, "gd-stats.jpush.cn", 10, "", "", "3", ["gd-stats.jpush.cn"], "118.194.54.130", "192.168.3.1", "WiFi"],
+				["https://27112.jpush4.com/test",  0, 443, 98352,  17999, 30000000,120, 425, 8869, -408, 98777, "", 804, "", 27, 503, 503, false, "text/plain", "", "", false, "gd-stats.jpush.cn", 10, "", "", "4", ["gd-stats.jpush.cn"], "118.194.54.130", "192.168.3.1", "WiFi"],
+				["ws://27112.jpush5.com/test",  0, 443, 98352, 17999, 30000000, 120, 425, 8869, -408, 98777, "", 804, "", 27, 503, 503, false, "text/plain", "", "", false, "gd-stats.jpush.cn", 10, "", "", "5", ["gd-stats.jpush.cn"], "118.194.54.130", "192.168.3.1", "WiFi"],
+				["wss://27112.jpush6.com/test",  0, 443, 98352, 30000000, 12000, 120, 425, 8869, -408, 98777, "", 804, "", 27, 503, 503, false, "text/plain", "", "", false, "gd-stats.jpush.cn", 10, "", "", "6", ["gd-stats.jpush.cn"], "118.194.54.130", "192.168.3.1", "WiFi"],
+				["27112.jpush7.com/test",  0, 443, 98352,  17999, 30000000,120, 425, 8869, -408, 98777, "", 804, "", 27, 503,503, false, "text/plain", "", "", false, "27112.jpush7.com", 10, "", "", "7", ["27112.jpush7.com"], "118.194.54.130", "192.168.3.1", "WiFi"]
+			],
+			"s": [],
+			"si": "4:2:52aac50a-9275-4c92-8bfd-931b95c138ee",
+			"wi": [
+				["pvid", "url", "wn", "wpt", "wr", "we", "jen"],
+				["590ca9cb-e3c1-42c1-83c3-076b66e31834", "https://56hjj.jpush.cn/v3/report", "webview01", {
+						"ce": 14000,
+						"cs": 13000,
+						"dc": 7000,
+						"dclee": 5000,
+						"dcles": 4000,
+						"di": 6000,
+						"dl": 8000,
+						"dle": 16000,
+						"dls": 15000,
+						"fs": 1000,
+						"lee": 9000,
+						"les": 10000,
+						"ns": 1584427669679,
+						"rde": 18000,
+						"rds": 17000,
+						"reqs": 2000,
+						"rspe": 0,
+						"rsps": 3000,
+						"scs": 19000,
+						"uee": 12000,
+						"ues": 11000
+					},
+					[],
+					[
+						["pvid", "url", "name", "msg", "line", "col", "file", "en", "sta", "flag", "et"],
+						[]
+					], 0
+				],["590ca9cb-e3c1-42c1-83c3-076b66e31344", "https://304H5_yemiancuowu_01.hqtest.com/cas/user", "webview01", {
+						"ce": 14000,
+						"cs": 13000,
+						"dc": 7000,
+						"dclee": 5000,
+						"dcles": 4000,
+						"di": 6000,
+						"dl": 8000,
+						"dle": 16000,
+						"dls": 15000,
+						"fs": 1000,
+						"lee": 9000,
+						"les": 10000,
+						"ns": 1584427669679,
+						"rde": 18000,
+						"rds": 17000,
+						"reqs": 2000,
+						"rspe": 0,
+						"rsps": 3000,
+						"scs": 19000,
+						"uee": 12000,
+						"ues": 11000
+					},
+					[],
+					[
+						["pvid", "url", "name", "msg", "line", "col", "file", "en", "sta", "flag", "et"],
+						[]
+					], 0
+				]
+
+			]
+		}],
+		"iat": false,
+		"tu": {
+			"mu": 2070,
+			"wu": 102400
+		}
+	}
+}

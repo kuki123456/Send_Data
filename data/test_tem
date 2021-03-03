@@ -1,0 +1,224 @@
+{
+	"udr": {
+		"tu": {
+			"mu": 0,
+			"wu": 66063
+		},
+		"d": [{
+			"asr":{"lt":4200000,"ic": true},
+			"nr": [
+				["ru", "si", "tp", "st", "dt", "ct", "sti", "rt", "rti", "dti", "et", "rh", "rd", "rhe", "rds", "ib", "mt", "rg", "rgu", "iw", "lc", "s", "mi", "kv", "pt", "cna", "tip", "dsip", "ns", "ec", "em", "cb", "eop"],
+                ["https://sdkupload.bonree03.com/upload?key=1cd810d6-901e-4002-8d63-b840244f5280_EBA056F7-E9CB-4C7A-BF69-38F3C6E91F1D", 0, 443, 126085724, 0, 0, 0, 0, 5300000, 0, 126085941, "", 3382, "", 52224, false, "application/octet-stream", "", "", false, "upload.p.popupgrade.com", 14, "", "", "4", ["sdkupload.bonree.com", "upload.p.popupgrade.com"], "118.194.54.198", "192.168.2.1", "WiFi", 200, "", "", 0],
+				["https://sdkupload.bonree04.com/upload?key=1cd810d6-901e-4002-8d63-b840244f5280_EBA056F7-E9CB-4C7A-BF69-38F3C6E91F1D", 0, 443, 126085724, 0, 0, 0, 0, 177385, 0, 126085941, "", 3382, "", 52224, false, "application/octet-stream", "", "", false, "upload.p.popupgrade.com", 14, "", "", "4", ["sdkupload.bonree.com", "upload.p.popupgrade.com"], "118.194.54.198", "192.168.2.1", "WiFi", 200, "", "", 0],
+                ["https://sdkupload.bonree05.com/upload?key=1cd810d6-901e-4002-8d63-b840244f5280_EBA056F7-E9CB-4C7A-BF69-38F3C6E91F1D", 0, 443, 126085724, 0, 0, 0, 0, 5000000, 0, 126085941, "", 3382, "", 52224, false, "application/octet-stream", "", "", false, "upload.p.popupgrade.com", 14, "", "", "4", ["sdkupload.bonree.com", "upload.p.popupgrade.com"], "118.194.54.198", "192.168.2.1", "WiFi", 200, "", "", 0],
+                ["https://sdkupload.bonree06.com/upload?key=1cd810d6-901e-4002-8d63-b840244f5280_EBA056F7-E9CB-4C7A-BF69-38F3C6E91F1D", 0, 443, 126085724, 0, 0, 0, 0, 5300000, 0, 126085941, "", 3382, "", 52224, false, "application/octet-stream", "", "", false, "upload.p.popupgrade.com", 14, "", "", "4", ["sdkupload.bonree.com", "upload.p.popupgrade.com"], "118.194.54.198", "192.168.2.1", "WiFi", 200, "", "", 0],
+                ["https://huyidao.com/hehe", 0, 443, 126085724, 0, 0, 0, 0, 5300000, 0, 126085941, "", 3382, "", 52224, false, "application/octet-stream", "", "", false, "upload.p.popupgrade.com", 14, "", "", "4", ["sdkupload.bonree.com", "upload.p.popupgrade.com"], "118.194.54.198", "192.168.2.1", "WiFi", 200, "", "", 0],
+                ["https://huyidao.com/hehe", 0, 443, 126085724, 0, 0, 0, 0, 5300000, 0, 126085941, "", 3382, "", 52224, false, "application/octet-stream", "", "", false, "upload.p.popupgrade.com", 14, "", "", "4", ["sdkupload.bonree.com", "upload.p.popupgrade.com"], "118.194.54.198", "192.168.2.1", "WiFi", 200, "", "", 0]
+
+			],
+			"nsi": {
+				"s": 9,
+				"ns": "WiFi"
+			},
+			"amt": 1591093535716,
+			"i": [],
+			"cmt": 1591093541757,
+			"l": [],
+			"we": [],
+			"ar": [ {
+				"st": 139013865,
+				"ct": 138433517,
+				"lt": 400000,
+				"ai": 3229123135,
+				"iq": false,
+				"fr": [{
+					"ct": 100407,
+					"et": 310923856,
+					"fn": "zhangTOPNFragment_fragment_equal",
+					"lt": 500000,
+					"st": 211011
+				}],
+				"an": "NewInsuranceVC_equal",
+				"et": 146909532
+			}, {
+				"st": 142732781,
+				"ct": 142722260,
+				"lt": 420000,
+				"ai": 3002848637,
+				"iq": false,
+				"fr": [{
+					"ct": 100407,
+					"et": 310923856,
+					"fn": "zhangTOPNFragment_fragment_than",
+					"lt": 600000,
+					"st": 211011
+				}],
+				"an": "NewMembersIVC_than",
+				"et": 146909552
+			}, {
+				"st": 146909596,
+				"ct": 146869602,
+				"lt": 300000,
+				"ai": 114498143,
+				"iq": false,
+				"fr": [{
+					"ct": 100407,
+					"et": 310923856,
+					"fn": "zhangTOPNFragment_fragment_less",
+					"lt": 400000,
+					"st": 211011
+				}],
+				"an": "SwichNewLoginViewController_less",
+				"et": 172188510
+			}],
+			"wi" : [
+          [
+            "pvid",
+            "url",
+            "wn",
+            "wpt",
+            "wr",
+            "we",
+            "jen",
+            "mi"
+          ],
+          [
+            "8f02ede2-23d3-4caf-811c-3f94e668ffcf",
+            "https://www.alipaytest203_than1234.com/huyidao/test/hufei",
+            "MTBookTicketViewController",
+            {
+              "ce" : 0,
+              "cs" : 0,
+              "dc" : 112,
+              "dclee" : 1500,
+              "dcles" : 2500,
+              "di" : 111,
+              "dl" : 48,
+              "dle" : 0,
+              "dls" : 0,
+              "fs" : 0,
+              "lee" : 700,
+              "les" : 112,
+              "ns" : 1590485944659,
+              "rde" : -1,
+              "rds" : -1,
+              "reqs" : 0,
+              "rspe" : 47,
+              "rsps" : 0,
+              "scs" : -1,
+              "uee" : -1,
+              "ues" : -1
+            },
+            [
+
+            ],
+            [
+
+            ],
+            0,
+            ""
+          ],
+          [
+            "29d3bab5-13d6-4f0c-974a-d92a48bad87a",
+            "http://60000003.h5apptest202_equal565.cm/www/index.html/test/!123",
+            "MTBookTicketViewController",
+            {
+              "ce" : 0,
+              "cs" : 0,
+              "dc" : 525,
+              "dclee" : 1400,
+              "dcles" : 2000,
+              "di" : 485,
+              "dl" : 168,
+              "dle" : 0,
+              "dls" : 0,
+              "fs" : 0,
+              "lee" : 6000,
+              "les" : 525,
+              "ns" : 1590485944685,
+              "rde" : -1,
+              "rds" : -1,
+              "reqs" : 0,
+              "rspe" : 167,
+              "rsps" : 0,
+              "scs" : -1,
+              "uee" : -1,
+              "ues" : -1
+            },
+            [
+
+            ],
+            [
+
+            ],
+            0,
+            ""
+          ],
+          [
+            "51d53c55-903f-467a-9993-cd9ce2acc092",
+            "http://60000002.h5apptest201_less.cm/www/index.html/test/#123",
+            "MTBookTicketViewController",
+            {
+              "ce" : 0,
+              "cs" : 0,
+              "dc" : 558,
+              "dclee" : 473,
+              "dcles" : 472,
+              "di" : 472,
+              "dl" : 167,
+              "dle" : 0,
+              "dls" : 0,
+              "fs" : 0,
+              "lee" : 558,
+              "les" : 558,
+              "ns" : 1590485944674,
+              "rde" : -1,
+              "rds" : -1,
+              "reqs" : 0,
+              "rspe" : 166,
+              "rsps" : 0,
+              "scs" : -1,
+              "uee" : -1,
+              "ues" : -1
+            },
+            [
+
+            ],
+            [
+
+            ],
+            0,
+            ""
+          ]
+        ],
+			"s": [],
+			"ti": [],
+			"car": [],
+			"si": "4:2:07c9de30-7109-40a4-b1a0-ced1aa56a287",
+			"ut": []
+		}],
+		"iat": true
+	},
+	"h":  {
+		"sv": "4.4.5",
+		"di": {
+			"ch": "hi3660",
+			"di": "3e9303d00ae594677398acd5450b9328ee2b655d28aa0e0006d2653192fa32f5",
+			"ci": "arm64-v8a",
+			"ov": "9",
+			"ir": false,
+			"cm": "AArch64 Processor rev 1 (aarch64)",
+			"cov": "EMUI 9.1.0",
+			"bn": "HUAWEI",
+			"l": "zh",
+			"an": "com.bonreesdk.hostdemo",
+			"m": "VTR-AL00",
+			"ds": "1080*1920",
+			"av": "1.0-debug(12)",
+			"pi": "应用宝",
+			"tm": 3715.48
+		},
+		"ai": "1cd810d6-901e-4002-8d63-b840244f5280",
+		"dip": 2095711410
+	}
+}

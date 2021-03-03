@@ -1,0 +1,437 @@
+{
+   "udr":
+   {
+      "tu":
+      {
+         "mu":0,
+         "wu":2682
+      },
+      "d":
+      [
+         {
+            "asr":null,
+            "nr":
+            [
+               [
+                  "ru",
+                  "si",
+                  "tp",
+                  "st",
+                  "dt",
+                  "ct",
+                  "sti",
+                  "rt",
+                  "rti",
+                  "dti",
+                  "et",
+                  "rh",
+                  "rd",
+                  "rhe",
+                  "rds",
+                  "ib",
+                  "mt",
+                  "rg",
+                  "rgu",
+                  "iw",
+                  "lc",
+                  "s",
+                  "mi",
+                  "kv",
+                  "pt",
+                  "cna",
+                  "tip",
+                  "dsip",
+                  "ns",
+                  "ec",
+                  "em",
+                  "cb",
+                  "eop",
+                  "idm"
+               ],
+               [
+                  "http://devtest.ibr.cc:30035/upload?key=cf192583-26a7-4359-8b52-b4a795582e92_1",
+                  0,
+                  30035,
+                  62497000,
+                  0,
+                  0,
+                  0,
+                  1000,
+                  23000,
+                  29000,
+                  62550000,
+                  "",
+                  1910,
+                  "",
+                  26,
+                  false,
+                  "text/plain;charset=UTF-8",
+                  "",
+                  "",
+                  false,
+                  "devtest.ibr.cc",
+                  0,
+                  "",
+                  "",
+                  1,
+                  [
+                     "devtest.ibr.cc"
+                  ],
+                  "118.194.54.130",
+                  "124.207.160.106",
+                  "WiFi",
+                  200,
+                  "",
+                  "",
+                  0,
+                  false
+               ]
+
+            ],
+            "nsi":
+            {
+               "s":0,
+               "ns":"WiFi"
+            },
+            "i":
+            [
+
+            ],
+            "amt":1595907278600,
+            "cmt":1595907280894,
+            "dci":
+            [
+
+            ],
+            "l":
+            [
+
+            ],
+            "we":
+            [
+
+            ],
+            "ar":
+            [
+               {
+                  "ct":336000,
+                  "st":1395000,
+                  "s":
+                  {
+                     "ns":"WiFi",
+                     "ti":
+                     [
+                        [
+                           "et",
+                           "st",
+                           "ti",
+                           "t",
+                           "n"
+                        ],
+                        [
+                           0,
+                           0,
+                           6348,
+                           1,
+                           "pool-9-thread-1"
+                        ],
+                        [
+                           0,
+                           0,
+                           2,
+                           0,
+                           "main"
+                        ],
+                        [
+                           0,
+                           0,
+                           6328,
+                           1,
+                           "TbsHandlerThread"
+                        ],
+                        [
+                           0,
+                           0,
+                           6376,
+                           1,
+                           "pool-10-thread-1"
+                        ]
+
+                     ],
+                     "ni":
+                     [
+                        {
+                           "st":495000,
+                           "isResponse":true,
+                           "url":"http://cfg.imtt.qq.com/tbs?v=2&mk=58773e974808f2a185d982f849706829bfe24119bfe1d70c5c3229f4c9e193e96f28e1f761415d0df2d454d1729b12ec62a9886198118566ec3cbc8e688d6ade18c629f9e5f8ace2e70f23d29dca2b23102c865b41bf36c48ec3850dc87ed00dabcbea3a412e30903d83f7bc736162873bc0eec71242156178bef3df18dcab84",
+                           "et":602000
+                        },
+                        {
+                           "st":778000,
+                           "isResponse":true,
+                           "url":"http://cfg.imtt.qq.com/tbs?v=2&mk=58773e974808f2a185d982f849706829bfe24119bfe1d70c5c3229f4c9e193e96f28e1f761415d0df2d454d1729b12ec62a9886198118566ec3cbc8e688d6ade18c629f9e5f8ace2e70f23d29dca2b23102c865b41bf36c48ec3850dc87ed00dabcbea3a412e30903d83f7bc736162873bc0eec71242156178bef3df18dcab84",
+                           "et":891000
+                        }
+
+                     ],
+                     "mi":
+                     [
+                        [
+                           "st",
+                           "et",
+                           "n",
+                           "t",
+                           "ru",
+                           "rg",
+                           "rgu"
+                        ],
+                        [
+                           382000,
+                           383000,
+                           "MainActivity/JSONObject/toString",
+                           6348,
+                           "",
+                           "",
+                           ""
+                        ],
+                        [
+                           336000,
+                           383000,
+                           "MainActivity/onCreate",
+                           2,
+                           "",
+                           "",
+                           ""
+                        ],
+                        [
+                           387000,
+                           389000,
+                           "MainActivity/onStart",
+                           2,
+                           "",
+                           "",
+                           ""
+                        ],
+                        [
+                           393000,
+                           393000,
+                           "MainActivity/JSONObject/toString",
+                           6348,
+                           "",
+                           "",
+                           ""
+                        ],
+                        [
+                           451000,
+                           451000,
+                           "MainActivity/JSONArray/toString",
+                           6328,
+                           "",
+                           "",
+                           ""
+                        ],
+                        [
+                           453000,
+                           453000,
+                           "MainActivity/JSONObject/toString",
+                           6376,
+                           "",
+                           "",
+                           ""
+                        ],
+                        [
+                           468000,
+                           469000,
+                           "MainActivity/JSONObject/toString",
+                           6328,
+                           "",
+                           "",
+                           ""
+                        ],
+                        [
+                           477000,
+                           477000,
+                           "MainActivity/JSONObject/toString",
+                           6328,
+                           "",
+                           "",
+                           ""
+                        ],
+                        [
+                           495000,
+                           505000,
+                           "MainActivity/URLConnection/openConnection",
+                           6328,
+                           "http://cfg.imtt.qq.com/tbs?v=2&mk=58773e974808f2a185d982f849706829bfe24119bfe1d70c5c3229f4c9e193e96f28e1f761415d0df2d454d1729b12ec62a9886198118566ec3cbc8e688d6ade18c629f9e5f8ace2e70f23d29dca2b23102c865b41bf36c48ec3850dc87ed00dabcbea3a412e30903d83f7bc736162873bc0eec71242156178bef3df18dcab84",
+                           "",
+                           ""
+                        ],
+                        [
+                           742000,
+                           742000,
+                           "MainActivity/JSONArray/toString",
+                           6328,
+                           "",
+                           "",
+                           ""
+                        ],
+                        [
+                           765000,
+                           766000,
+                           "MainActivity/JSONObject/toString",
+                           6328,
+                           "",
+                           "",
+                           ""
+                        ],
+                        [
+                           776000,
+                           776000,
+                           "MainActivity/JSONObject/toString",
+                           6328,
+                           "",
+                           "",
+                           ""
+                        ],
+                        [
+                           778000,
+                           779000,
+                           "MainActivity/URLConnection/openConnection",
+                           6328,
+                           "http://cfg.imtt.qq.com/tbs?v=2&mk=58773e974808f2a185d982f849706829bfe24119bfe1d70c5c3229f4c9e193e96f28e1f761415d0df2d454d1729b12ec62a9886198118566ec3cbc8e688d6ade18c629f9e5f8ace2e70f23d29dca2b23102c865b41bf36c48ec3850dc87ed00dabcbea3a412e30903d83f7bc736162873bc0eec71242156178bef3df18dcab84",
+                           "",
+                           ""
+                        ],
+                        [
+                           390000,
+                           1395000,
+                           "MainActivity/onResume",
+                           2,
+                           "",
+                           "",
+                           ""
+                        ]
+
+                     ],
+                     "ds":
+                     {
+                        "ac":4.81,
+                        "sas":90690.984,
+                        "ot":1,
+                        "io":false,
+                        "kv":"",
+                        "glo":0,
+                        "sa":2165.1602,
+                        "igo":false,
+                        "sc":0,
+                        "sab":100,
+                        "ame":26.228516,
+                        "ib":false,
+                        "mi":"",
+                        "gla":0
+                     }
+
+                  },
+                  "t":1,
+                  "ai":"190b13f44da9bf2a50f3629c3500dc0c",
+                  "iq":true,
+                  "lt":1059000,
+                  "fr":
+                  [
+                    {
+					"ct": 100407,
+					"et": 310923856,
+					"fn": "zhangTOPNFragment_fragment",
+					"lt": 1138720,
+					"st": 211011
+				}
+                  ],
+                  "an":"com.sdkdemo.hostdemo.MainActivity",
+                  "et":117041000
+               }
+
+            ],
+            "wi":
+            [
+
+            ],
+            "s":
+            [
+
+            ],
+            "car":
+            [
+
+            ],
+            "ti":
+            [
+
+            ],
+            "si":"4:2:be73616d-9430-475f-855d-ed7ba8bf7659",
+            "ut":
+            [
+               [
+                  "st",
+                  "an",
+                  "fn",
+                  "utst",
+                  "f",
+                  "mi"
+               ],
+               [
+                  116651000,
+                  "com.sdkdemo.hostdemo.MainActivity",
+                  "",
+                  390000,
+                  [
+                     {
+                        "st":336000,
+                        "c":"com.sdkdemo.hostdemo.MainActivity",
+                        "e":"onCreate"
+                     },
+                     {
+                        "st":390000,
+                        "c":"com.sdkdemo.hostdemo.MainActivity",
+                        "e":"onResume"
+                     },
+                     {
+                        "st":117039000,
+                        "c":"com.sdkdemo.hostdemo.MainActivity",
+                        "e":"onPause"
+                     }
+
+                  ],
+                  ""
+               ]
+
+            ]
+
+         }
+
+      ],
+      "iat":true
+   },
+   "h": {
+		"sv": "4.4.5",
+		"di": {
+			"ch": "hi3660",
+			"di": "860044044868450",
+			"ci": "arm64-v8a",
+			"ov": "9",
+			"ir": false,
+			"cm": "AArch64 Processor rev 1 (aarch64)",
+			"cov": "EMUI 9.1.0",
+			"bn": "HUAWEI",
+			"l": "zh",
+			"an": "com.bonreesdk.hostdemo",
+			"m": "VTR-AL00",
+			"ds": "1080*1920",
+			"av": "1.0-debug(12)",
+			"pi": "应用宝",
+			"tm": 3715.48
+		},
+		"ai": "aa1d57c4-b30b-4917-b8ae-b1c15f3e20cd",
+		"dip": 2005480509
+	},
+   "cr":null
+}

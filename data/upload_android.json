@@ -1,0 +1,535 @@
+{
+	"cr":{},
+	"h": {
+		"sv": "4.5.1",
+		"di": {
+			"ch": "hi3660",
+			"di": "860044044868450",
+			"ci": "arm64-v8a",
+			"ov": "android9",
+			"ir": false,
+			"cm": "AArch64 Processor rev 1 (aarch64)",
+			"cov": "EMUI 9.1.0",
+			"bn": "HUAWEI",
+			"l": "zh",
+			"an": "com.bonreesdk.hostdemo",
+			"m": "VTR-AL00",
+			"ds": "1080*1920",
+			"av": "1.0-debug(12)",
+			"pi": "应用宝",
+			"tm": 3715.48
+		},
+		"ai": "aa1d57c4-b30b-4917-b8ae-b1c15f3e20cd",
+		"dip": 2005480509
+	},
+	"udr": {
+		"d": [{
+			"asr": {
+				"lt": 4500000,
+				"ic": false
+			},
+			"amt": 0,
+			"ar": [{
+				"an": "zhangTOPNFragment",
+				"ct": 10040722,
+				"et": 1689857275,
+				"iq": false,
+				"lt": 1129720,
+				"st": 1589857275,
+				"ai": "513123",
+				"fr": [{
+					"ct": 191382,
+					"fn": "NotActivityNameOnly_fragment7",
+					"lt": 764333,
+					"st": 1579857275,
+					"et": 1689857275
+				}]
+			}],
+			"cmt": 1574205493894,
+			"nr": [
+				["ru", "si", "li", "lp", "ti", "tp", "st", "dt", "ct", "sti", "rt", "rti", "dti", "et", "rh", "rd", "rhe", "rds", "ei", "se", "ib", "mt", "dsi", "rg", "rgu", "iw", "lc", "am", "s", "nt", "mi", "kv", "pt", "cna", "tip", "dsip", "ns"],
+				["http://dcs.coohua.com/data/v1", 0, 0, 52898, 0, 80, 421016928, 16304, 39012, 235907, 287, 2182834, 1296928, 103680000, "POST /maam/getPluginListV2.do?appId=PA01100000000_01_SDK&osVersion=4.4.4&dataVersion=&appVersion=3.10&deviceType=android_MI4LTE&userId=&deviceId=396def37d7d3a8ec3523076392bf4f752&sdkVersion=4.2.0.643 HTTP/1.1\r\nUser-Agent: linlh\r\nContent-Length: 0\r\nHost: maam-dmzstg2.linlh.com.cn:9041\r\nConnection: Keep-Alive\r\nAccept-Encoding: gzip\r\nCookie: BIGipServermaam-core_http_DMZ_Stg2Pool=478614700.5034.0000\r\n\r\n", 406, "HTTP/1.1 200 OK\r\nCache-Control: no-cache\r\nCache-Control: no-store\r\nDate: Mon, 27 Aug 2018 13:02:44 GMT\r\nPragma: no-cache\r\nTransfer-Encoding: chunked\r\nContent-Type: text/html; charset=UTF-8\r\nExpires: Thu, 01 Jan 1970 00:00:00 GMT\r\n\r\n", 123333, 404, 404, false, "application/x-gzip", 0, "", "", false, "devtest.ibr.cc", 3, 33333333333333, -1, "", "", 1, [], "60.205.86.218", "202.102.213.68", "CTRadioAccessTechnologyHSDPA"],
+				["https://www.baidu123.com", 0, 0, 52898, 0, 80, 421016928, 16304, 39012, 235907, 287, 1884701, 193918, 103680000, "POST /maam/getPluginListV2.do?appId=PA01100000000_01_SDK&osVersion=4.4.4&dataVersion=&appVersion=3.10&deviceType=android_MI4LTE&userId=&deviceId=396def37d7d3a8ec3523076392bf4f752&sdkVersion=4.2.0.643 HTTP/1.1\r\nUser-Agent: linlh\r\nContent-Length: 0\r\nHost: maam-dmzstg2.linlh.com.cn:9041\r\nConnection: Keep-Alive\r\nAccept-Encoding: gzip\r\nCookie: BIGipServermaam-core_http_DMZ_Stg2Pool=478614700.5034.0000\r\n\r\n", 406, "HTTP/1.1 200 OK\r\nCache-Control: no-cache\r\nCache-Control: no-store\r\nDate: Mon, 27 Aug 2018 13:02:44 GMT\r\nPragma: no-cache\r\nTransfer-Encoding: chunked\r\nContent-Type: text/html; charset=UTF-8\r\nExpires: Thu, 01 Jan 1970 00:00:00 GMT\r\n\r\n", 123333, 503, 503, false, "application/x-gzip", 0, "", "", true, "devtest.ibr.cc", 3, 3, -1, "", "", 1, [], "60.205.86.218", "202.102.213.68", "HSUPA"],
+				["http://devtest.ibr.cc:20107/config", 0, 0, 52898, 0, 20025, 421016928, 16304, 39012, 235907, 287, 1969646, 674705, 103680000, "POST /maam/getPluginListV2.do?appId=PA01100000000_01_SDK&osVersion=4.4.4&dataVersion=&appVersion=3.10&deviceType=android_MI4LTE&userId=&deviceId=396def37d7d3a8ec3523076392bf4f752&sdkVersion=4.2.0.643 HTTP/1.1\r\nUser-Agent: linlh\r\nContent-Length: 0\r\nHost: maam-dmzstg2.linlh.com.cn:9041\r\nConnection: Keep-Alive\r\nAccept-Encoding: gzip\r\nCookie: BIGipServermaam-core_http_DMZ_Stg2Pool=478614700.5034.0000\r\n\r\n", 406, "HTTP/1.1 200 OK\r\nCache-Control: no-cache\r\nCache-Control: no-store\r\nDate: Mon, 27 Aug 2018 13:02:44 GMT\r\nPragma: no-cache\r\nTransfer-Encoding: chunked\r\nContent-Type: text/html; charset=UTF-8\r\nExpires: Thu, 01 Jan 1970 00:00:00 GMT\r\n\r\n", 123333, 200, 200, false, "application/x-gzip", 0, "", "", false, "devtest.ibr.cc", 3, 3, -1, "", "", 1, [], "60.205.86.218", "202.102.213.68", "CDMA - EvDo rev. B"],
+				["http://devtest.20190702.com:20107/config", 0, 0, 52898, 0, 20107, 421016928, 16304, 39012, 235907, 287, 2150549, 367980, 103680000, "POST /maam/getPluginListV2.do?appId=PA01100000000_01_SDK&osVersion=4.4.4&dataVersion=&appVersion=3.10&deviceType=android_MI4LTE&userId=&deviceId=396def37d7d3a8ec3523076392bf4f752&sdkVersion=4.2.0.643 HTTP/1.1\r\nUser-Agent: linlh\r\nContent-Length: 0\r\nHost: maam-dmzstg2.linlh.com.cn:9041\r\nConnection: Keep-Alive\r\nAccept-Encoding: gzip\r\nCookie: BIGipServermaam-core_http_DMZ_Stg2Pool=478614700.5034.0000\r\n\r\n", 406, "HTTP/1.1 200 OK\r\nCache-Control: no-cache\r\nCache-Control: no-store\r\nDate: Mon, 27 Aug 2018 13:02:44 GMT\r\nPragma: no-cache\r\nTransfer-Encoding: chunked\r\nContent-Type: text/html; charset=UTF-8\r\nExpires: Thu, 01 Jan 1970 00:00:00 GMT\r\n\r\n", 123333, 200, 200, false, "application/x-gzip", 0, "", "", false, "devtest.ibr.cc", 3, 3, -1, "", "", 1, [], "60.205.86.218", "202.102.213.68", "CDMA - EvDo rev. B"],
+				["https://www.apple.com/", 0, 0, 52898, 0, 443, 421016928, 16304, 39012, 235907, 287, 1733046, 575041, 103680000, "POST /maam/getPluginListV2.do?appId=PA01100000000_01_SDK&osVersion=4.4.4&dataVersion=&appVersion=3.10&deviceType=android_MI4LTE&userId=&deviceId=396def37d7d3a8ec3523076392bf4f752&sdkVersion=4.2.0.643 HTTP/1.1\r\nUser-Agent: linlh\r\nContent-Length: 0\r\nHost: maam-dmzstg2.linlh.com.cn:9041\r\nConnection: Keep-Alive\r\nAccept-Encoding: gzip\r\nCookie: BIGipServermaam-core_http_DMZ_Stg2Pool=478614700.5034.0000\r\n\r\n", 406, "HTTP/1.1 200 OK\r\nCache-Control: no-cache\r\nCache-Control: no-store\r\nDate: Mon, 27 Aug 2018 13:02:44 GMT\r\nPragma: no-cache\r\nTransfer-Encoding: chunked\r\nContent-Type: text/html; charset=UTF-8\r\nExpires: Thu, 01 Jan 1970 00:00:00 GMT\r\n\r\n", 123333, 200, 200, false, "text/html", 0, "", "", false, "www.apple.com.edgekey.net.globalredir.akadns.net", 3, 3, -1, "", "", 1, ["e6858.e19.s.tl88.net", "www.apple.com.edgekey.net", "www.apple.com.edgekey.net.globalredir.akadns.net"], "60.205.86.218", "202.102.213.68", "CDMA - EvDo rev. B"],
+				["https://www.yahoo.com/", 0, 0, 52898, 0, 443, 421016928, 16304, 39012, 235907, 287, 1385525, 2224002, 103680000, "POST /maam/getPluginListV2.do?appId=PA01100000000_01_SDK&osVersion=4.4.4&dataVersion=&appVersion=3.10&deviceType=android_MI4LTE&userId=&deviceId=396def37d7d3a8ec3523076392bf4f752&sdkVersion=4.2.0.643 HTTP/1.1\r\nUser-Agent: linlh\r\nContent-Length: 0\r\nHost: maam-dmzstg2.linlh.com.cn:9041\r\nConnection: Keep-Alive\r\nAccept-Encoding: gzip\r\nCookie: BIGipServermaam-core_http_DMZ_Stg2Pool=478614700.5034.0000\r\n\r\n", 406, "HTTP/1.1 200 OK\r\nCache-Control: no-cache\r\nCache-Control: no-store\r\nDate: Mon, 27 Aug 2018 13:02:44 GMT\r\nPragma: no-cache\r\nTransfer-Encoding: chunked\r\nContent-Type: text/html; charset=UTF-8\r\nExpires: Thu, 01 Jan 1970 00:00:00 GMT\r\n\r\n", 123333, 200, 200, false, "text/html", 0, "", "", false, "atsv2-fp-shed.wg1.b.yahoo.com", 3, 3, -1, "", "", 1, ["atsv2-fp-shed.wg1.b.yahoo.com"], "60.205.86.218", "202.102.213.68", "CDMA - EvDo rev. A"],
+				["ws://chatnode.xdysoftHQ.com:80", 0, 0, 52898, 0, 9123, 421016928, 16304, 39012, 235907, 287, 2492943, 1724386, 103680000, "POST /maam/getPluginListV2.do?appId=PA01100000000_01_SDK&osVersion=4.4.4&dataVersion=&appVersion=3.10&deviceType=android_MI4LTE&userId=&deviceId=396def37d7d3a8ec3523076392bf4f752&sdkVersion=4.2.0.643 HTTP/1.1\r\nUser-Agent: linlh\r\nContent-Length: 0\r\nHost: maam-dmzstg2.linlh.com.cn:9041\r\nConnection: Keep-Alive\r\nAccept-Encoding: gzip\r\nCookie: BIGipServermaam-core_http_DMZ_Stg2Pool=478614700.5034.0000\r\n\r\n", 406, "HTTP/1.1 200 OK\r\nCache-Control: no-cache\r\nCache-Control: no-store\r\nDate: Mon, 27 Aug 2018 13:02:44 GMT\r\nPragma: no-cache\r\nTransfer-Encoding: chunked\r\nContent-Type: text/html; charset=UTF-8\r\nExpires: Thu, 01 Jan 1970 00:00:00 GMT\r\n\r\n", 123333, 200, 200, false, "application/x-gzip", 0, "", "", false, "devtest.ibr.cc", 3, 3, -1, "", "", 5, [], "47.96.61.96", "60.13.16.240", "CDMA - EvDo rev. A"],
+				["ws://chatnode.20190702HQ.com:443", 0, 0, 52898, 0, 9123, 421016928, 16304, 39012, 235907, 287, 2683957, 1894898, 103680000, "POST /maam/getPluginListV2.do?appId=PA01100000000_01_SDK&osVersion=4.4.4&dataVersion=&appVersion=3.10&deviceType=android_MI4LTE&userId=&deviceId=396def37d7d3a8ec3523076392bf4f752&sdkVersion=4.2.0.643 HTTP/1.1\r\nUser-Agent: linlh\r\nContent-Length: 0\r\nHost: maam-dmzstg2.linlh.com.cn:9041\r\nConnection: Keep-Alive\r\nAccept-Encoding: gzip\r\nCookie: BIGipServermaam-core_http_DMZ_Stg2Pool=478614700.5034.0000\r\n\r\n", 406, "HTTP/1.1 200 OK\r\nCache-Control: no-cache\r\nCache-Control: no-store\r\nDate: Mon, 27 Aug 2018 13:02:44 GMT\r\nPragma: no-cache\r\nTransfer-Encoding: chunked\r\nContent-Type: text/html; charset=UTF-8\r\nExpires: Thu, 01 Jan 1970 00:00:00 GMT\r\n\r\n", 123333, 200, 200, false, "application/x-gzip", 0, "", "", false, "devtest.ibr.cc", 3, 3, -1, "", "", 5, [], "47.96.61.96", "60.13.16.240", "CTRadioAccessTechnologyCDMA1x"],
+				["https://info.coohua.com/api/type/list", 0, 0, 52898, 0, 80, 421016928, 16304, 39012, 235907, 287, 1393341, 1083304, 103680000, "POST /maam/getPluginListV2.do?appId=PA01100000000_01_SDK&osVersion=4.4.4&dataVersion=&appVersion=3.10&deviceType=android_MI4LTE&userId=&deviceId=396def37d7d3a8ec3523076392bf4f752&sdkVersion=4.2.0.643 HTTP/1.1\r\nUser-Agent: linlh\r\nContent-Length: 0\r\nHost: maam-dmzstg2.linlh.com.cn:9041\r\nConnection: Keep-Alive\r\nAccept-Encoding: gzip\r\nCookie: BIGipServermaam-core_http_DMZ_Stg2Pool=478614700.5034.0000\r\n\r\n", 406, "HTTP/1.1 200 OK\r\nCache-Control: no-cache\r\nCache-Control: no-store\r\nDate: Mon, 27 Aug 2018 13:02:44 GMT\r\nPragma: no-cache\r\nTransfer-Encoding: chunked\r\nContent-Type: text/html; charset=UTF-8\r\nExpires: Thu, 01 Jan 1970 00:00:00 GMT\r\n\r\n", 123333, 200, 200, false, "application/x-gzip", 0, "", "", true, "devtest.ibr.cc", 3, 3, -1, "", "", 2, [], "47.94.112.200", "192.168.0.1", "TD_SCDMA"],
+				["https://info.20190702.com/api/type/list", 0, 0, 52898, 0, 80, 421016928, 16304, 39012, 235907, 287, 1921327, 922361, 103680000, "POST /maam/getPluginListV2.do?appId=PA01100000000_01_SDK&osVersion=4.4.4&dataVersion=&appVersion=3.10&deviceType=android_MI4LTE&userId=&deviceId=396def37d7d3a8ec3523076392bf4f752&sdkVersion=4.2.0.643 HTTP/1.1\r\nUser-Agent: linlh\r\nContent-Length: 0\r\nHost: maam-dmzstg2.linlh.com.cn:9041\r\nConnection: Keep-Alive\r\nAccept-Encoding: gzip\r\nCookie: BIGipServermaam-core_http_DMZ_Stg2Pool=478614700.5034.0000\r\n\r\n", 406, "HTTP/1.1 200 OK\r\nCache-Control: no-cache\r\nCache-Control: no-store\r\nDate: Mon, 27 Aug 2018 13:02:44 GMT\r\nPragma: no-cache\r\nTransfer-Encoding: chunked\r\nContent-Type: text/html; charset=UTF-8\r\nExpires: Thu, 01 Jan 1970 00:00:00 GMT\r\n\r\n", 123333, 200, 200, false, "application/x-gzip", 0, "", "", true, "devtest.ibr.cc", 3, 3, -1, "", "", 2, [], "47.94.112.200", "192.168.0.1", "CTRadioAccessTechnologyCDMA1x"],
+				["https://www.20190702.error.com", 0, 0, 52898, 0, 80, 421016928, 16304, 39012, 235907, 287, 2670088, 2379143, 103680000, "POST /maam/getPluginListV2.do?appId=PA01100000000_01_SDK&osVersion=4.4.4&dataVersion=&appVersion=3.10&deviceType=android_MI4LTE&userId=&deviceId=396def37d7d3a8ec3523076392bf4f752&sdkVersion=4.2.0.643 HTTP/1.1\r\nUser-Agent: linlh\r\nContent-Length: 0\r\nHost: maam-dmzstg2.linlh.com.cn:9041\r\nConnection: Keep-Alive\r\nAccept-Encoding: gzip\r\nCookie: BIGipServermaam-core_http_DMZ_Stg2Pool=478614700.5034.0000\r\n\r\n", 406, "HTTP/1.1 200 OK\r\nCache-Control: no-cache\r\nCache-Control: no-store\r\nDate: Mon, 27 Aug 2018 13:02:44 GMT\r\nPragma: no-cache\r\nTransfer-Encoding: chunked\r\nContent-Type: text/html; charset=UTF-8\r\nExpires: Thu, 01 Jan 1970 00:00:00 GMT\r\n\r\n", 123333, 200, 200, false, "application/x-gzip", 0, "", "", true, "devtest.ibr.cc", 3, 3, -1, "", "", 1, [], "60.205.86.218", "202.102.213.68", "CDMA - EvDo rev. 0"],
+				["http://dcs.coohua.com/data/v1", 0, 0, 52898, 0, 80, 421016928, 16304, 39012, 235907, 287, 2476909, 328502, 103680000, "POST /maam/getPluginListV2.do?appId=PA01100000000_01_SDK&osVersion=4.4.4&dataVersion=&appVersion=3.10&deviceType=android_MI4LTE&userId=&deviceId=396def37d7d3a8ec3523076392bf4f752&sdkVersion=4.2.0.643 HTTP/1.1\r\nUser-Agent: linlh\r\nContent-Length: 0\r\nHost: maam-dmzstg2.linlh.com.cn:9041\r\nConnection: Keep-Alive\r\nAccept-Encoding: gzip\r\nCookie: BIGipServermaam-core_http_DMZ_Stg2Pool=478614700.5034.0000\r\n\r\n", 406, "HTTP/1.1 200 OK\r\nCache-Control: no-cache\r\nCache-Control: no-store\r\nDate: Mon, 27 Aug 2018 13:02:44 GMT\r\nPragma: no-cache\r\nTransfer-Encoding: chunked\r\nContent-Type: text/html; charset=UTF-8\r\nExpires: Thu, 01 Jan 1970 00:00:00 GMT\r\n\r\n", 123333, 503, 503, false, "application/x-gzip", 0, "", "", true, "devtest.ibr.cc", 3, 3, -1, "", "", 1, [], "60.205.86.218", "202.102.213.68", "CTRadioAccessTechnologyCDMAEVDORev0"],
+				["https://www.webview.error.com", 0, 0, 52898, 0, 80, 421016928, 16304, 39012, 235907, 287, 2144849, 347056, 103680000, "POST /maam/getPluginListV2.do?appId=PA01100000000_01_SDK&osVersion=4.4.4&dataVersion=&appVersion=3.10&deviceType=android_MI4LTE&userId=&deviceId=396def37d7d3a8ec3523076392bf4f752&sdkVersion=4.2.0.643 HTTP/1.1\r\nUser-Agent: linlh\r\nContent-Length: 0\r\nHost: maam-dmzstg2.linlh.com.cn:9041\r\nConnection: Keep-Alive\r\nAccept-Encoding: gzip\r\nCookie: BIGipServermaam-core_http_DMZ_Stg2Pool=478614700.5034.0000\r\n\r\n", 406, "HTTP/1.1 200 OK\r\nCache-Control: no-cache\r\nCache-Control: no-store\r\nDate: Mon, 27 Aug 2018 13:02:44 GMT\r\nPragma: no-cache\r\nTransfer-Encoding: chunked\r\nContent-Type: text/html; charset=UTF-8\r\nExpires: Thu, 01 Jan 1970 00:00:00 GMT\r\n\r\n", 123333, 404, 404, false, "application/x-gzip", 0, "", "", true, "devtest.ibr.cc", 3, 3, -1, "", "", 1, [], "60.205.86.218", "202.102.213.68", "HSPA"],
+				["https://www.20190702.error.com", 0, 0, 52898, 0, 80, 421016928, 16304, 39012, 235907, 287, 2582415, 1616755, 103680000, "POST /maam/getPluginListV2.do?appId=PA01100000000_01_SDK&osVersion=4.4.4&dataVersion=&appVersion=3.10&deviceType=android_MI4LTE&userId=&deviceId=396def37d7d3a8ec3523076392bf4f752&sdkVersion=4.2.0.643 HTTP/1.1\r\nUser-Agent: linlh\r\nContent-Length: 0\r\nHost: maam-dmzstg2.linlh.com.cn:9041\r\nConnection: Keep-Alive\r\nAccept-Encoding: gzip\r\nCookie: BIGipServermaam-core_http_DMZ_Stg2Pool=478614700.5034.0000\r\n\r\n", 406, "HTTP/1.1 200 OK\r\nCache-Control: no-cache\r\nCache-Control: no-store\r\nDate: Mon, 27 Aug 2018 13:02:44 GMT\r\nPragma: no-cache\r\nTransfer-Encoding: chunked\r\nContent-Type: text/html; charset=UTF-8\r\nExpires: Thu, 01 Jan 1970 00:00:00 GMT\r\n\r\n", 123333, 503, 503, false, "application/x-gzip", 0, "", "", true, "devtest.ibr.cc", 3, 3, -1, "", "", 1, [], "60.205.86.218", "202.102.213.68", "HSDPA"],
+				["https://www.20190702.error.com", 0, 0, 52898, 0, 80, 421016928, 16304, 39012, 235907, 287, 1617337, 1705947, 103680000, "POST /maam/getPluginListV2.do?appId=PA01100000000_01_SDK&osVersion=4.4.4&dataVersion=&appVersion=3.10&deviceType=android_MI4LTE&userId=&deviceId=396def37d7d3a8ec3523076392bf4f752&sdkVersion=4.2.0.643 HTTP/1.1\r\nUser-Agent: linlh\r\nContent-Length: 0\r\nHost: maam-dmzstg2.linlh.com.cn:9041\r\nConnection: Keep-Alive\r\nAccept-Encoding: gzip\r\nCookie: BIGipServermaam-core_http_DMZ_Stg2Pool=478614700.5034.0000\r\n\r\n", 406, "HTTP/1.1 200 OK\r\nCache-Control: no-cache\r\nCache-Control: no-store\r\nDate: Mon, 27 Aug 2018 13:02:44 GMT\r\nPragma: no-cache\r\nTransfer-Encoding: chunked\r\nContent-Type: text/html; charset=UTF-8\r\nExpires: Thu, 01 Jan 1970 00:00:00 GMT\r\n\r\n", 123333, 200, 200, false, "application/x-gzip", 0, "", "", false, "devtest.ibr.cc", 3, 3, -1, "", "", 1, [], "60.205.86.218", "202.102.213.68", "UMTS"],
+				["chatnode.xdysoft.com:9123", 45446541, 0, 52898, 0, 9123, 421016928, 16304, 39012, 235907, 287, 2085307, 2293851, 103680000, "POST /maam/getPluginListV2.do?appId=PA01100000000_01_SDK&osVersion=4.4.4&dataVersion=&appVersion=3.10&deviceType=android_MI4LTE&userId=&deviceId=396def37d7d3a8ec3523076392bf4f752&sdkVersion=4.2.0.643 HTTP/1.1\r\nUser-Agent: linlh\r\nContent-Length: 0\r\nHost: maam-dmzstg2.linlh.com.cn:9041\r\nConnection: Keep-Alive\r\nAccept-Encoding: gzip\r\nCookie: BIGipServermaam-core_http_DMZ_Stg2Pool=478614700.5034.0000\r\n\r\n", 406, "HTTP/1.1 200 OK\r\nCache-Control: no-cache\r\nCache-Control: no-store\r\nDate: Mon, 27 Aug 2018 13:02:44 GMT\r\nPragma: no-cache\r\nTransfer-Encoding: chunked\r\nContent-Type: text/html; charset=UTF-8\r\nExpires: Thu, 01 Jan 1970 00:00:00 GMT\r\n\r\n", 123333, 200, 200, false, "application/x-gzip", 0, "", "", false, "devtest.ibr.cc", 3, 3, -1, "", "", 7, [], "47.96.61.96", "60.13.16.240", "UMTS"],
+				["chatnode.20190702.com:9123", 56456456, 0, 52898, 0, 9123, 421016928, 16304, 39012, 235907, 287, 2259633, 1812673, 103680000, "POST /maam/getPluginListV2.do?appId=PA01100000000_01_SDK&osVersion=4.4.4&dataVersion=&appVersion=3.10&deviceType=android_MI4LTE&userId=&deviceId=396def37d7d3a8ec3523076392bf4f752&sdkVersion=4.2.0.643 HTTP/1.1\r\nUser-Agent: linlh\r\nContent-Length: 0\r\nHost: maam-dmzstg2.linlh.com.cn:9041\r\nConnection: Keep-Alive\r\nAccept-Encoding: gzip\r\nCookie: BIGipServermaam-core_http_DMZ_Stg2Pool=478614700.5034.0000\r\n\r\n", 406, "HTTP/1.1 200 OK\r\nCache-Control: no-cache\r\nCache-Control: no-store\r\nDate: Mon, 27 Aug 2018 13:02:44 GMT\r\nPragma: no-cache\r\nTransfer-Encoding: chunked\r\nContent-Type: text/html; charset=UTF-8\r\nExpires: Thu, 01 Jan 1970 00:00:00 GMT\r\n\r\n", 123333, 200, 200, false, "application/x-gzip", 0, "", "", false, "devtest.ibr.cc", 3, 3, -1, "", "", 7, [], "47.96.61.96", "60.13.16.240", "CDMA - EvDo rev. B"],
+				["https://ad.12306.cn/testsite/appService/webservice/rest/appService/btnview.json?placementNo=0054&billMaterialsId=f80f12cb9f2b428390b35b127e5e695f&clientType=1&productVersion=5.0.12", 0, 0, 52898, 0, 80, 421016928, 16304, 39012, 235907, 287, 2219549, 1120712, 103680000, "POST /maam/getPluginListV2.do?appId=PA01100000000_01_SDK&osVersion=4.4.4&dataVersion=&appVersion=3.10&deviceType=android_MI4LTE&userId=&deviceId=396def37d7d3a8ec3523076392bf4f752&sdkVersion=4.2.0.643 HTTP/1.1\r\nUser-Agent: linlh\r\nContent-Length: 0\r\nHost: maam-dmzstg2.linlh.com.cn:9041\r\nConnection: Keep-Alive\r\nAccept-Encoding: gzip\r\nCookie: BIGipServermaam-core_http_DMZ_Stg2Pool=478614700.5034.0000\r\n\r\n", 406, "HTTP/1.1 200 OK\r\nCache-Control: no-cache\r\nCache-Control: no-store\r\nDate: Mon, 27 Aug 2018 13:02:44 GMT\r\nPragma: no-cache\r\nTransfer-Encoding: chunked\r\nContent-Type: text/html; charset=UTF-8\r\nExpires: Thu, 01 Jan 1970 00:00:00 GMT\r\n\r\n", 123333, 200, 200, false, "application/x-gzip", 0, "", "", false, "devtest.ibr.cc", 3, 1500000, -1, "", "", 1, [], "1234:1234::2341:3421", "2222:2222:2222:2222:2222:2222:2222:2222", "CDMA - EvDo rev. 0"]
+			],
+			"s": [{
+				"ct": 8000000,
+				"kv": "a,b",
+				"nsi": {
+					"am": 0,
+					"ns": "CTRadioAccessTechnologyLTE",
+					"nt": 13,
+					"s": 77
+				},
+				"si": "120",
+				"sn": "event"
+			}, {
+				"ct": 8000000,
+				"kv": "a,b",
+				"nsi": {
+					"am": 0,
+					"ns": "CTRadioAccessTechnologyLTE",
+					"nt": 13,
+					"s": 77
+				},
+				"si": "120",
+				"sn": "event"
+			}, {
+				"ct": 8000000,
+				"kv": "a,b",
+				"nsi": {
+					"am": 0,
+					"ns": "IWLAN",
+					"nt": 0,
+					"s": 77
+				},
+				"si": "122",
+				"sn": "事件122"
+			}, {
+				"ct": 8000000,
+				"kv": "a,b",
+				"nsi": {
+					"am": 0,
+					"ns": "IWLAN",
+					"nt": 0,
+					"s": 77
+				},
+				"si": "123  ",
+				"sn": "事件123"
+			}],
+			"si": "4:2:0f606c22-a814-44b0-a5dd-b2d94e3a3560",
+			"we": [
+				["pvid", "url", "name", "msg", "line", "col", "file", "en", "sta", "flag", "et"],
+				["2f354799-6cbd-454a-8e30-e9bb97d8450a", "https://linlh.toutiao.com/error/test/aaaaa", "TypeError", "TypeError: bonreeJsBridge.addCrashTrace is not a function. (In 'bonreeJsBridge.addCrashTrace(['homePage','just run a test'])', 'bonreeJsBridge.addCrashTrace' is undefined)", 14, 45, "linlh.error.h5.filename", 1, "myclick@file:///var/containers/Bundle/Application/970595C7-194A-45F7-B3A2-E9C301469E74/iOSDemo.app/test.htm:14:45\nonclick@file:///var/containers/Bundle/Application/970595C7-194A-45F7-B3A2-E9C301469E74/iOSDemo.app/test.htm:8:8", 1, 1574687493894],
+				["645f7426-3085-41ee-918a-8858a2b0e614", "https://URIError.WebviewError.json/error/test/aaaaa", "URIError", "URIError: bonreeJsBridge.addCrashTrace is not a function. (In 'bonreeJsBridge.addCrashTrace(['homePage','just run a test'])', 'bonreeJsBridge.addCrashTrace' is undefined)", 14, 45, "URIError.error.h5.filename", 1, "myclick@file:///var/containers/Bundle/Application/970595C7-194A-45F7-B3A2-E9C301469E74/iOSDemo.app/test.htm:14:45\nonclick@file:///var/containers/Bundle/Application/970595C7-194A-45F7-B3A2-E9C301469E74/iOSDemo.app/test.htm:8:8", 1, 1574687493894],
+				["ee3e3721-7fab-4e8c-8655-c1e1d44f7883", "https://paicc-mfa.pingan.com.cn/linlh/anydoor", "URIError", "URIError: bonreeJsBridge.addCrashTrace is not a function. (In 'bonreeJsBridge.addCrashTrace(['homePage','just run a test'])', 'bonreeJsBridge.addCrashTrace' is undefined)", 14, 45, "anydoor.h5.filename", 1, "myclick@file:///var/containers/Bundle/Application/970595C7-194A-45F7-B3A2-E9C301469E74/iOSDemo.app/test.htm:14:45\nonclick@file:///var/containers/Bundle/Application/970595C7-194A-45F7-B3A2-E9C301469E74/iOSDemo.app/test.htm:8:8", 1, 1574687493894],
+				["d84922df-c16f-4bfa-bd5d-90173dc09025", "applewebdata://WebviewError0545ac5d-0fe0-4eeb-b7f6-16a72c75310a", "URIError", "URIError: bonreeJsBridge.addCrashTrace is not a function. (In 'bonreeJsBridge.addCrashTrace(['homePage','just run a test'])', 'bonreeJsBridge.addCrashTrace' is undefined)", 14, 45, "applewebdata", 1, "myclick@file:///var/containers/Bundle/Application/970595C7-194A-45F7-B3A2-E9C301469E74/iOSDemo.app/test.htm:14:45\nonclick@file:///var/containers/Bundle/Application/970595C7-194A-45F7-B3A2-E9C301469E74/iOSDemo.app/test.htm:8:8", 1, 1574687493894]
+			],
+			"wi": [
+				["pvid", "url", "wn", "wpt", "wr", "we", "jen", "mi"],
+				["8f02ede2-23d3-4caf-811c-3f94e668ffcf", "https://www.alipay.com/", "MTBookTicketViewController", {
+						"ce": 0,
+						"cs": 0,
+						"dc": 112,
+						"dclee": 111,
+						"dcles": 111,
+						"di": 111,
+						"dl": 48,
+						"dle": 0,
+						"dls": 0,
+						"fs": 0,
+						"lee": 112,
+						"les": 112,
+						"ns": 1590485944659,
+						"rde": -1,
+						"rds": -1,
+						"reqs": 0,
+						"rspe": 47,
+						"rsps": 0,
+						"scs": -1,
+						"uee": -1,
+						"ues": -1
+					},
+					[],
+					[], 0, "{\"user\"：\" admin\"}"
+				],
+				["29d3bab5-13d6-4f0c-974a-d92a48bad87a", "about://60000003.h5app.cm/www/index.html", "MTBookTicketViewController", {
+						"ce": 0,
+						"cs": 0,
+						"dc": 525,
+						"dclee": 486,
+						"dcles": 485,
+						"di": 485,
+						"dl": 168,
+						"dle": 0,
+						"dls": 0,
+						"fs": 0,
+						"lee": 526,
+						"les": 525,
+						"ns": 1590485944685,
+						"rde": -1,
+						"rds": -1,
+						"reqs": 0,
+						"rspe": 167,
+						"rsps": 0,
+						"scs": -1,
+						"uee": -1,
+						"ues": -1
+					},
+					[],
+					[], 0, "{\"user\"：\" HQTEST\"}"
+				],
+				["51d53c55-903f-467a-9993-cd9ce2acc092", "http://60000002.h5app.cm/www/index.html", "MTBookTicketViewController", {
+						"ce": 0,
+						"cs": 0,
+						"dc": 558,
+						"dclee": 473,
+						"dcles": 472,
+						"di": 472,
+						"dl": 167,
+						"dle": 0,
+						"dls": 0,
+						"fs": 0,
+						"lee": 558,
+						"les": 558,
+						"ns": 1590485944674,
+						"rde": -1,
+						"rds": -1,
+						"reqs": 0,
+						"rspe": 166,
+						"rsps": 0,
+						"scs": -1,
+						"uee": -1,
+						"ues": -1
+					},
+					[],
+					[], 0, ""
+				],
+				["44221fcd-c2dc-40df-9b34-f749f38db1e3", "http://60000004.h5app.cm/www/my12306Index.html", "MTBookTicketViewController", {
+						"ce": 0,
+						"cs": 0,
+						"dc": 547,
+						"dclee": 525,
+						"dcles": 524,
+						"di": 524,
+						"dl": 370,
+						"dle": 0,
+						"dls": 0,
+						"fs": 0,
+						"lee": 547,
+						"les": 547,
+						"ns": 1590485944704,
+						"rde": -1,
+						"rds": -1,
+						"reqs": 0,
+						"rspe": 370,
+						"rsps": 0,
+						"scs": -1,
+						"uee": -1,
+						"ues": -1
+					},
+					[],
+					[], 0, ""
+				],
+				["c6c39a85-ba70-40db-85ab-92fc6b5141ac", "http://60000007.12306.cn/www/integrationIndex.html", "MTBookTicketViewController", {
+						"ce": 0,
+						"cs": 0,
+						"dc": 562,
+						"dclee": 505,
+						"dcles": 503,
+						"di": 503,
+						"dl": 363,
+						"dle": 0,
+						"dls": 0,
+						"fs": 0,
+						"lee": 562,
+						"les": 562,
+						"ns": 1590485944695,
+						"rde": -1,
+						"rds": -1,
+						"reqs": 0,
+						"rspe": 363,
+						"rsps": 0,
+						"scs": -1,
+						"uee": -1,
+						"ues": -1
+					},
+					[],
+					[], 0, ""
+				]
+			],
+			 "l" : [
+          {
+            "ar" : {
+              "ai" : 142494750,
+              "an" : "MTBookTicketViewController",
+              "ct" : 1668073,
+              "et" : 17055830,
+              "fr" : [
+
+              ],
+              "iq" : false,
+              "lt" : 1082331,
+              "st" : 2750404
+            },
+            "cb" : "0   libobjc.A.dylib  0x00000001955d49bc 0x00000001955ca000 + 43452",
+            "cg" : "058D2808-F90A-4115-A9A5-B9AA59B68060",
+            "ds" : {
+              "ac" : 0,
+              "ame" : 66.266754150390625,
+              "gla" : 0,
+              "glo" : 0,
+              "ib" : false,
+              "igo" : true,
+              "io" : false,
+              "ot" : 1,
+              "sa" : 710.734375,
+              "sab" : 100,
+              "sas" : 32594,
+              "sc" : 4.8490843772888184
+            },
+            "ed" : "caused by:0   libobjc.A.dylib  0x00000001955d49bc 0x00000001955ca000 + 43452rncallStackSymbols: {rn0   libobjc.A.dylib  0x00000001955d49bc 0x00000001955ca000 + 43452rn1   libobjc.A.dylib  0x00000001955de6dc 0x00000001955ca000 + 83676rn2   Foundation  0x00000001db4a6000 0x0000000195b68000 + 1167319040rn}rn",
+            "is" : {
+              "ba" : "0x0000000104c40000",
+              "bi" : "libobjc.A.dylib:arm64e;b209ab438c8d31a79fdc1dd500f5c92e;0x00000001955ca000nFoundation:arm64e;672cf0cb49513b9189df55e953aea00f;0x0000000195b68000n",
+              "eu" : "12adeffdd3823e98b3c7a0e893ae85ce",
+              "sbv" : "13.1(17A844)"
+            },
+            "ns" : "WiFi",
+            "st" : 1590485944384361,
+            "ut" : [
+              [
+                "st",
+                "an",
+                "fn",
+                "utst",
+                "f",
+                "mi"
+              ],
+              [
+                16855628,
+                "DFNavigationController",
+                "",
+                199620,
+                [
+                  {
+                    "c" : "DFNavigationController",
+                    "e" : "viewDidLoad",
+                    "st" : 199620
+                  }
+                ],
+                ""
+              ],
+              [
+                15656051,
+                "MPTabBarController",
+                "",
+                1399197,
+                [
+                  {
+                    "c" : "MPTabBarController",
+                    "e" : "viewDidLoad",
+                    "st" : 1399197
+                  }
+                ],
+                ""
+              ],
+              [
+                15387175,
+                "MTBookTicketViewController",
+                "",
+                1668073,
+                [
+                  {
+                    "c" : "MTBookTicketViewController",
+                    "e" : "viewDidLoad",
+                    "st" : 1668073
+                  }
+                ],
+                ""
+              ]
+            ]
+          }
+        ],
+			"dci": [{
+				"st": 1573814814950000,
+				"is": {},
+				"cb": "caused by:*** -[__NSSingleObjectArrayI objectAtIndex:]: index 2 beyond bounds [0 .. 0] 22ccc172-5eb3-4f90-821c-6e5c38f54f5e",
+				"cg": "",
+				"ed": "caused by:caused by:*** -[__NSSingleObjectArrayI objectAtIndex:]: index 2 beyond bounds [0 .. 0] 22ccc172-5eb3-4f90-821c-6e5c38f54f5e\r\ncallStackSymbols: {\r\n0   CoreFoundation  0x0000000181d3ad8c 0x0000000181bf5000 + 1334668\r\n1   libobjc.A.dylib  0x0000000180ef45ec 0x0000000180eec000 + 34284\r\n2   CoreFoundation  0x0000000181cd3d80 0x0000000181bf5000 + 912768\r\n3   demo  0x00000001000e1e84 0x00000001000dc000 + 24196\r\n4   demo  0x000000010012d4e4 0x00000001000dc000 + 333028\r\n5   UIKit  0x000000018b955e64 0x000000018b903000 + 339556\r\n6   UIKit  0x000000018b955a50 0x000000018b903000 + 338512\r\n7   UIKit  0x000000018bc93380 0x000000018b903000 + 3736448\r\n8   UIKit  0x000000018ba02a4c 0x000000018b903000 + 1047116\r\n9   UIKit  0x000000018ba026a4 0x000000018b903000 + 1046180\r\n10  UIKit  0x000000018b9f63a8 0x000000018b903000 + 996264\r\n11  UIKit  0x00000001a1e052ec 0x00000001a1d6d000 + 623340\r\n12  UIKit  0x000000018b94e6f4 0x000000018b903000 + 308980\r\n13  QuartzCore  0x0000000185ec3e54 0x0000000185da1000 + 1191508\r\n14  QuartzCore  0x0000000185ec7fe4 0x0000000185da1000 + 1208292\r\n15  QuartzCore  0x0000000185e346c8 0x0000000185da1000 + 603848\r\n16  QuartzCore  0x0000000185e5c1b0 0x0000000185da1000 + 766384\r\n17  UIKit  0x000000018bc0c598 0x000000018b903000 + 3184024\r\n18  CoreFoundation  0x0000000181ce2910 0x0000000181bf5000 + 973072\r\n19  CoreFoundation  0x0000000181ce0238 0x0000000181bf5000 + 963128\r\n20  CoreFoundation  0x0000000181ce0884 0x0000000181bf5000 + 964740\r\n21  CoreFoundation  0x0000000181c00da8 0x0000000181bf5000 + 48552\r\n22  GraphicsServices  0x0000000183be6020 0x0000000183bdb000 + 45088\r\n23  UIKit  0x000000018bc20758 0x000000018b903000 + 3266392\r\n24  demo  0x00000001000e341c 0x00000001000dc000 + 29724\r\n25  libdyld.dylib  0x0000000181691fc0 0x0000000181691000 + 4032\r\n}",
+				"en": "testHQ-Exception",
+				"ds": {
+					"ac": 78,
+					"ame": 312,
+					"gla": 123,
+					"glo": 39,
+					"ib": false,
+					"igo": true,
+					"io": true,
+					"kv": "{\"userinfoKEY\":\"userinfoVALUE\"}",
+					"mi": "memberid",
+					"ot": 1,
+					"sa": 1024,
+					"sab": 96,
+					"sas": 1024,
+					"sc": 29
+				},
+				"sl": "--------- beginning of crash\n03-24 23:56:22.363 E/AndroidRuntime( 5937): FATAL EXCEPTION: main\n03-24 23:56:22.363 E/AndroidRuntime( 5937): Process: com.bonreesdk.hostdemo,PID: 5937\n03-24 23:56:22.363 E/AndroidRuntime( 5937): java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.String java.lang.String.toString()' on a null object reference\n03-24 23:56:22.363 E/AndroidRuntime( 5937): \tat com.bonreesdk.hostdemo.business.crash.JavaCrashActivity.realNullPointerCrash(JavaCrashActivity.java:243)\n03-24 23:56:22.363 E/AndroidRuntime( 5937): \tat com.bonreesdk.hostdemo.business.crash.JavaCrashActivity.makeNullPointerException(JavaCrashActivity.java:230)\n03-24 23:56:22.363 E/AndroidRuntime( 5937): \tat com.bonreesdk.hostdemo.business.crash.JavaCrashActivity.onItemClick(JavaCrashActivity.java:87)\n03-24 23:56:22.363 E/AndroidRuntime( 5937): \tat com.bonreesdk.hostdemo.common.view.RecyclerAdapter$1.onClick(RecyclerAdapter.java:29)\n03-24 23:56:22.363 E/AndroidRuntime( 5937): \tat android.view.View.performClick(View.java:6659)\n03-24 23:56:22.363 E/AndroidRuntime( 5937): \tat android.view.View.performClickInternal(View.java:6631)\n03-24 23:56:22.363 E/AndroidRuntime( 5937): \tat android.view.View.access$3100(View.java:790)\n03-24 23:56:22.363 E/AndroidRuntime( 5937): \tat android.view.View$PerformClick.run(View.java:26187)\n03-24 23:56:22.363 E/AndroidRuntime( 5937): \tat android.os.Handler.handleCallback(Handler.java:907)\n03-24 23:56:22.363 E/AndroidRuntime( 5937): \tat android.os.Handler.dispatchMessage(Handler.java:105)\n03-24 23:56:22.363 E/AndroidRuntime( 5937): \tat android.os.Looper.loop(Looper.java:216)\n03-24 23:56:22.363 E/AndroidRuntime( 5937): \tat android.app.ActivityThread.main(ActivityThread.java:7625)\n03-24 23:56:22.363 E/AndroidRuntime( 5937): \tat java.lang.reflect.Method.invoke(Native Method)\n03-24 23:56:22.363 E/AndroidRuntime( 5937): \tat com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)\n03-24 23:56:22.363 E/AndroidRuntime( 5937): \tat com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)\n03-25 10:35:43.178 E/AndroidRuntime(31397): FATAL EXCEPTION: pool-16-thread-1\n03-25 10:35:43.178 E/AndroidRuntime(31397): Process: com.bonreesdk.hostdemo,              PID: 31397\n03-25 10:35:43.178 E/AndroidRuntime(31397): java.lang.NumberFormatException: For input string: \"bonree\"\n03-25 10:35:43.178 E/AndroidRuntime(31397): \tat java.lang.Integer.parseInt(Integer.java:615)\n03-25 10:35:43.178 E/AndroidRuntime(31397): \tat java.lang.Integer.parseInt(Integer.java:650)\n03-25 10:35:43.178 E/AndroidRuntime(31397): \tat com.bonreesdk.hostdemo.business.crash.JavaCrashActivity$7.run(JavaCrashActivity.java:203)\n03-25 10:35:43.178 E/AndroidRuntime(31397): \tat java.util.concurrent.ThreadPoolExecutor.processTask(ThreadPoolExecutor.java:1187)\n03-25 10:35:43.178 E/AndroidRuntime(31397): \tat java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1152)\n03-25 10:35:43.178 E/AndroidRuntime(31397): \tat java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)\n03-25 10:35:43.178 E/AndroidRuntime(31397): \tat java.lang.Thread.run(Thread.java:784)\n--------- beginning of main\n03-29 13:32:37.096 I/chatty  ( 7982): uid=11094(com.bonreesdk.hostdemo) expire 115 lines\n--------- beginning of system\n03-29 13:32:37.134 D/ActivityThread( 7982): Attach thread to application\n03-29 13:32:37.166 I/chatty  ( 7982): uid=11094(com.bonreesdk.hostdemo) expire 4 lines\n03-29 13:32:37.569 I/chatty  ( 7982): uid=11094(com.bonreesdk.hostdemo) queued-work-loo expire 1 line\n03-29 13:32:37.664 I/chatty  ( 7982): uid=11094(com.bonreesdk.hostdemo) pool-1-thread-1 expire 2 lines\n03-29 13:32:37.688 I/chatty  ( 7982): uid=11094(com.bonreesdk.hostdemo) pool-2-thread-1 expire 2 lines\n03-29 13:32:37.720 I/chatty  ( 7982): uid=11094(com.bonreesdk.hostdemo) pool-4-thread-1 expire 4 lines\n03-29 13:32:37.731 I/chatty  ( 7982): uid=11094(com.bonreesdk.hostdemo) pool-6-thread-1 expire 7 lines\n03-29 13:32:37.738 I/chatty  ( 7982): uid=11094(com.bonreesdk.hostdemo) pool-7-thread-1 expire 4 lines\n03-29 13:32:37.740 I/chatty  ( 7982): uid=11094(com.bonreesdk.hostdemo) pool-8-thread-1 expire 10 lines\n03-29 13:32:37.752 I/chatty  ( 7982): uid=11094(com.bonreesdk.hostdemo) Chrome_ProcessL expire 2 lines\n03-29 13:32:37.777 E/ActivityThread( 7982): Failed to find provider info for com.nanfangjijin.app.DownloadProvider\n03-29 13:32:37.782 E/ActivityThread( 7982): Failed to find provider info for com.coohua.xinwenzhuan.DownloadProvider\n03-29 13:32:37.792 E/ActivityThread( 7982): Failed to find provider info for com.pingan.xueyuan.DownloadProvider\n03-29 13:32:37.803 E/ActivityThread( 7982): Failed to find provider info for com.air.sz.DownloadProvider\n03-29 13:32:37.807 E/ActivityThread( 7982): Failed to find provider info for com.junte.DownloadProvider\n03-29 13:32:37.812 E/ActivityThread( 7982): Failed to find provider info for cn.cisc.DownloadProvider\n03-29 13:32:37.816 E/ActivityThread( 7982): Failed to find provider info for com.fenqile.fenqile.DownloadProvider\n03-29 13:32:37.821 I/chatty  ( 7982): uid=11094(com.bonreesdk.hostdemo) BR_BRSDK-AgentI expire 22 lines\n03-29 13:32:37.825 E/ActivityThread( 7982): Failed to find provider info for com.pkufi.msales.uat.DownloadProvider\n03-29 13:32:37.828 E/ActivityThread( 7982): Failed to find provider info for com.youcash.ZYWallet.DownloadProvider\n03-29 13:32:37.830 E/ActivityThread( 7982): Failed to find provider info for com.xcar.activity.DownloadProvider\n03-29 13:32:37.831 D/HwCustConnectivityManagerImpl( 7982): isBlockNetworkRequestByNonAis,              INVALID_SUBSCRIPTION_ID\n03-29 13:32:37.833 D/HwCustConnectivityManagerImpl( 7982): isBlockNetworkRequestByNonAis,              INVALID_SUBSCRIPTION_ID\n03-29 13:32:37.840 I/chatty  ( 7982): uid=11094(com.bonreesdk.hostdemo) Thread-5 expire 2 lines\n03-29 13:32:37.843 V/ActivityThread( 7982): Skipping new config:             {                1.0 ?mcc?mnc [                   zh_CN_#Hans                ]  ldltr sw360dp w360dp h573dp 480dpi nrml port finger -keyb/v/h -nav/h winConfig={                    mBounds=Rect(0,                    0 - 0,                    0) mAppBounds=Rect(0,                    0 - 1080,                    1792) mWindowingMode=fullscreen mActivityType=undefined                }  nonFullScreen=0 suim:1 s.6             },              config:             {                1.0 ?mcc?mnc [                   zh_CN_#Hans                ]  ldltr sw360dp w360dp h573dp 480dpi nrml port finger -keyb/v/h -nav/h winConfig={                    mBounds=Rect(0,                    0 - 0,                    0) mAppBounds=Rect(0,                    0 - 1080,                    1792) mWindowingMode=fullscreen mActivityType=undefined                }  nonFullScreen=0 suim:1 s.6             }  for app:com.bonreesdk.hostdemo\n03-29 13:32:37.873 V/ActivityThread( 7982): callActivityOnCreate\n03-29 13:32:37.883 I/chatty  ( 7982): uid=11094(com.bonreesdk.hostdemo) expire 2 lines\n03-29 13:32:38.004 I/chatty  ( 7982): uid=11094(com.bonreesdk.hostdemo) pool-10-thread- expire 1 line\n03-29 13:32:38.018 D/ActivityThread( 7982): add activity client record,              r= ActivityRecord{                f8432bb token=android.os.BinderProxy@3902adb {                   com.bonreesdk.hostdemo/com.bonreesdk.hostdemo.MainActivity                }              }  token= android.os.BinderProxy@3902adb\n03-29 13:32:38.047 I/chatty  ( 7982): uid=11094(com.bonreesdk.hostdemo) expire 2 lines\n03-29 13:32:38.078 I/chatty  ( 7982): uid=11094(com.bonreesdk.hostdemo) expire 2 lines\n03-29 13:32:38.087 I/chatty  ( 7982): uid=11094(com.bonreesdk.hostdemo) FinalizerDaemon expire 1 line\n03-29 13:32:38.100 I/chatty  ( 7982): uid=11094(com.bonreesdk.hostdemo) RenderThread expire 6 lines\n03-29 13:32:38.150 I/chatty  ( 7982): uid=11094(com.bonreesdk.hostdemo) pool-20-thread- expire 1 line\n03-29 13:32:38.341 D/HwCustConnectivityManagerImpl( 7982): isBlockNetworkRequestByNonAis,              INVALID_SUBSCRIPTION_ID\n03-29 13:32:38.343 D/HwCustConnectivityManagerImpl( 7982): isBlockNetworkRequestByNonAis,              INVALID_SUBSCRIPTION_ID\n03-29 13:32:38.390 V/AudioManager( 7982): isWiredHeadsetOn...\n03-29 13:32:38.396 W/cr_media( 7982): Requires BLUETOOTH permission\n03-29 13:32:38.409 W/reesdk.hostdem( 7982): resources.arsc in APK '/data/app/com.guotai.dazhihui-4c-GvHpbl6u7jMo91s03GA==/base.apk' is compressed.\n03-29 13:32:38.470 W/VideoCapabilities( 7982): Unrecognized profile 4 for video/hevc\n03-29 13:32:38.472 W/VideoCapabilities( 7982): Unrecognized profile/level 0/0 for video/mpeg2\n03-29 13:32:38.472 W/VideoCapabilities( 7982): Unrecognized profile/level 0/2 for video/mpeg2\n03-29 13:32:38.472 W/VideoCapabilities( 7982): Unrecognized profile/level 0/3 for video/mpeg2\n03-29 13:32:38.472 I/VideoCapabilities( 7982): Unsupported profile 5 for video/mpeg2\n03-29 13:32:38.472 I/chatty  ( 7982): uid=11094(com.bonreesdk.hostdemo) Chrome_InProcGp identical 8 lines\n03-29 13:32:38.551 I/chatty  ( 7982): uid=11094(com.bonreesdk.hostdemo) pool-5-thread-1 expire 12 lines\n03-29 13:32:39.903 I/chatty  ( 7982): uid=11094(com.bonreesdk.hostdemo) expire 1 line\n03-29 13:32:39.924 D/NetworkSecurityConfig( 7982): No Network Security Config specified,              using platform default\n03-29 13:32:39.929 I/reesdk.hostdem( 7982): Rejecting re-init on previously-failed class java.lang.Class<com.bonree.agent.android.engine.network.httpclient.ResponseHandlerImpl>: java.lang.NoClassDefFoundError: Failed resolution of: Lorg/apache/http/client/ResponseHandler;\n03-29 13:32:39.929 I/reesdk.hostdem( 7982):   at java.net.URLConnection com.bonree.agent.android.engine.external.HttpInstrumentation.openConnection(java.net.URLConnection) (SourceFile:42)\n03-29 13:32:39.929 I/reesdk.hostdem( 7982):   at java.net.HttpURLConnection cn.jiguang.net.HttpUtils.getHttpURLConnectionWithProxy(android.content.Context,              java.lang.String) ((null):-1)\n03-29 13:32:39.929 I/reesdk.hostdem( 7982):   at org.json.JSONObject cn.jiguang.aa.b.a(android.content.Context) ((null):-1)\n03-29 13:32:39.929 I/reesdk.hostdem( 7982):   at cn.jiguang.z.a cn.jiguang.y.a.i(android.content.Context) ((null):-1)\n03-29 13:32:39.929 I/reesdk.hostdem( 7982):   at boolean cn.jiguang.y.a.a(android.content.Context,              java.lang.String) ((null):-1)\n03-29 13:32:39.929 I/reesdk.hostdem( 7982):   at void cn.jiguang.f.a.a(cn.jiguang.f.a,              android.content.Context,              java.lang.String) ((null):-1)\n03-29 13:32:39.929 I/reesdk.hostdem( 7982):   at void cn.jiguang.f.d.run() ((null):-1)\n03-29 13:32:39.929 I/reesdk.hostdem( 7982):   at boolean java.util.concurrent.ThreadPoolExecutor.processTask(java.lang.Thread,              java.util.concurrent.ThreadPoolExecutor$Worker,              boolean) (ThreadPoolExecutor.java:1187)\n03-29 13:32:39.929 I/reesdk.hostdem( 7982):   at void java.util.concurrent.ThreadPoolExecutor.runWorker(java.util.concurrent.ThreadPoolExecutor$Worker) (ThreadPoolExecutor.java:1152)\n03-29 13:32:39.929 I/reesdk.hostdem( 7982):   at void java.util.concurrent.ThreadPoolExecutor$Worker.run() (ThreadPoolExecutor.java:641)\n03-29 13:32:39.929 I/reesdk.hostdem( 7982):   at void java.lang.Thread.run() (Thread.java:784)\n03-29 13:32:39.929 I/reesdk.hostdem( 7982): Caused by: java.lang.ClassNotFoundException: Didn't find class \"org.apache.http.client.ResponseHandler\" on path: DexPathList[                [                   zip file \"/data/app/com.bonreesdk.hostdemo-KRhpwyFNfwZ_y-ASYFahCQ==/base.apk\"                ],                nativeLibraryDirectories=[                   /data/app/com.bonreesdk.hostdemo-KRhpwyFNfwZ_y-ASYFahCQ==/lib/arm,                    /data/app/com.bonreesdk.hostdemo-KRhpwyFNfwZ_y-ASYFahCQ==/base.apk!/lib/armeabi-v7a,                    /system/lib,                    /product/lib                ]              ] \n03-29 13:32:39.929 I/reesdk.hostdem( 7982):   at java.lang.Class dalvik.system.BaseDexClassLoader.findClass(java.lang.String) (BaseDexClassLoader.java:134)\n03-29 13:32:39.929 I/reesdk.hostdem( 7982):   at java.lang.Class java.lang.ClassLoader.loadClass(java.lang.String,              boolean) (ClassLoader.java:379)\n03-29 13:32:39.929 I/reesdk.hostdem( 7982):   at java.lang.Class java.lang.ClassLoader.loadClass(java.lang.String) (ClassLoader.java:312)\n03-29 13:32:39.929 I/reesdk.hostdem( 7982):   at java.net.URLConnection com.bonree.agent.android.engine.external.HttpInstrumentation.openConnection(java.net.URLConnection) (SourceFile:42)\n03-29 13:32:39.929 I/reesdk.hostdem( 7982):   at java.net.HttpURLConnection cn.jiguang.net.HttpUtils.getHttpURLConnectionWithProxy(android.content.Context,              java.lang.String) ((null):-1)\n03-29 13:32:39.929 I/reesdk.hostdem( 7982):   at org.json.JSONObject cn.jiguang.aa.b.a(android.content.Context) ((null):-1)\n03-29 13:32:39.929 I/reesdk.hostdem( 7982):   at cn.jiguang.z.a cn.jiguang.y.a.i(android.content.Context) ((null):-1)\n03-29 13:32:39.929 I/reesdk.hostdem( 7982):   at boolean cn.jiguang.y.a.a(android.content.Context,              java.lang.String) ((null):-1)\n03-29 13:32:39.929 I/reesdk.hostdem( 7982):   at void cn.jiguang.f.a.a(cn.jiguang.f.a,              android.content.Context,              java.lang.String) ((null):-1)\n03-29 13:32:39.929 I/reesdk.hostdem( 7982):   at void cn.jiguang.f.d.run() ((null):-1)\n03-29 13:32:39.929 I/reesdk.hostdem( 7982):   at boolean java.util.concurrent.ThreadPoolExecutor.processTask(java.lang.Thread,              java.util.concurrent.ThreadPoolExecutor$Worker,              boolean) (ThreadPoolExecutor.java:1187)\n03-29 13:32:39.929 I/reesdk.hostdem( 7982):   at void java.util.concurrent.ThreadPoolExecutor.runWorker(java.util.concurrent.ThreadPoolExecutor$Worker) (ThreadPoolExecutor.java:1152)\n03-29 13:32:39.929 I/reesdk.hostdem( 7982):   at void java.util.concurrent.ThreadPoolExecutor$Worker.run() (ThreadPoolExecutor.java:641)\n03-29 13:32:39.929 I/reesdk.hostdem( 7982):   at void java.lang.Thread.run() (Thread.java:784)\n03-29 13:32:39.929 I/reesdk.hostdem( 7982): \n03-29 13:32:39.929 I/reesdk.hostdem( 7982): Rejecting re-init on previously-failed class java.lang.Class<com.bonree.agent.android.engine.network.httpclient.ResponseHandlerImpl>: java.lang.NoClassDefFoundError: Failed resolution of: Lorg/apache/http/client/ResponseHandler;\n03-29 13:32:39.929 I/reesdk.hostdem( 7982):   at java.net.URLConnection com.bonree.agent.android.engine.external.HttpInstrumentation.openConnection(java.net.URLConnection) (SourceFile:42)\n03-29 13:32:39.929 I/reesdk.hostdem( 7982):   at java.net.HttpURLConnection cn.jiguang.net.HttpUtils.getHttpURLConnectionWithProxy(android.content.Context,              java.lang.String) ((null):-1)\n03-29 13:32:39.929 I/reesdk.hostdem( 7982):   at org.json.JSONObject cn.jiguang.aa.b.a(android.content.Context) ((null):-1)\n03-29 13:32:39.929 I/reesdk.hostdem( 7982):   at cn.jiguang.z.a cn.jiguang.y.a.i(android.content.Context) ((null):-1)\n03-29 13:32:39.929 I/reesdk.hostdem( 7982):   at boolean cn.jiguang.y.a.a(android.content.Context,              java.lang.String) ((null):-1)\n03-29 13:32:39.929 I/reesdk.hostdem( 7982):   at void cn.jiguang.f.a.a(cn.jiguang.f.a,              android.content.Context,              java.lang.String) ((null):-1)\n03-29 13:32:39.929 I/reesdk.hostdem( 7982):   at void cn.jiguang.f.d.run() ((null):-1)\n03-29 13:32:39.929 I/reesdk.hostdem( 7982):   at boolean java.util.concurrent.ThreadPoolExecutor.processTask(java.lang.Thread,              java.util.concurrent.ThreadPoolExecutor$Worker,              boolean) (ThreadPoolExecutor.java:1187)\n03-29 13:32:39.929 I/reesdk.hostdem( 7982):   at void java.util.concurrent.ThreadPoolExecutor.runWorker(java.util.concurrent.ThreadPoolExecutor$Worker) (ThreadPoolExecutor.java:1152)\n03-29 13:32:39.929 I/reesdk.hostdem( 7982):   at void java.util.concurrent.ThreadPoolExecutor$Worker.run() (ThreadPoolExecutor.java:641)\n03-29 13:32:39.929 I/reesdk.hostdem( 7982):   at void java.lang.Thread.run() (Thread.java:784)\n03-29 13:32:39.929 I/reesdk.hostdem( 7982): Caused by: java.lang.ClassNotFoundException: Didn't find class \"org.apache.http.client.ResponseHandler\" on path: DexPathList[                [                   zip file \"/data/app/com.bonreesdk.hostdemo-KRhpwyFNfwZ_y-ASYFahCQ==/base.apk\"                ],                nativeLibraryDirectories=[                   /data/app/com.bonreesdk.hostdemo-KRhpwyFNfwZ_y-ASYFahCQ==/lib/arm,                    /data/app/com.bonreesdk.hostdemo-KRhpwyFNfwZ_y-ASYFahCQ==/base.apk!/lib/armeabi-v7a,                    /system/lib,                    /product/lib                ]              ] \n03-29 13:32:39.929 I/reesdk.hostdem( 7982):   at java.lang.Class dalvik.system.BaseDexClassLoader.findClass(java.lang.String) (BaseDexClassLoader.java:134)\n03-29 13:32:39.929 I/reesdk.hostdem( 7982):   at java.lang.Class java.lang.ClassLoader.loadClass(java.lang.String,              boolean) (ClassLoader.java:379)\n03-29 13:32:39.929 I/reesdk.hostdem( 7982):   at java.lang.Class java.lang.ClassLoader.loadClass(java.lang.String) (ClassLoader.java:312)\n03-29 13:32:39.929 I/reesdk.hostdem( 7982):   at java.net.URLConnection com.bonree.agent.android.engine.external.HttpInstrumentation.openConnection(java.net.URLConnection) (SourceFile:42)\n03-29 13:32:39.929 I/reesdk.hostdem( 7982):   at java.net.HttpURLConnection cn.jiguang.net.HttpUtils.getHttpURLConnectionWithProxy(android.content.Context,              java.lang.String) ((null):-1)\n03-29 13:32:39.929 I/reesdk.hostdem( 7982):   at org.json.JSONObject cn.jiguang.aa.b.a(android.content.Context) ((null):-1)\n03-29 13:32:39.929 I/reesdk.hostdem( 7982):   at cn.jiguang.z.a cn.jiguang.y.a.i(android.content.Context) ((null):-1)\n03-29 13:32:39.929 I/reesdk.hostdem( 7982):   at boolean cn.jiguang.y.a.a(android.content.Context,              java.lang.String) ((null):-1)\n03-29 13:32:39.929 I/reesdk.hostdem( 7982):   at void cn.jiguang.f.a.a(cn.jiguang.f.a,              android.content.Context,              java.lang.String) ((null):-1)\n03-29 13:32:39.929 I/reesdk.hostdem( 7982):   at void cn.jiguang.f.d.run() ((null):-1)\n03-29 13:32:39.929 I/reesdk.hostdem( 7982):   at boolean java.util.concurrent.ThreadPoolExecutor.processTask(java.lang.Thread,              java.util.concurrent.ThreadPoolExecutor$Worker,              boolean) (ThreadPoolExecutor.java:1187)\n03-29 13:32:39.929 I/reesdk.hostdem( 7982):   at void java.util.concurrent.ThreadPoolExecutor.runWorker(java.util.concurrent.ThreadPoolExecutor$Worker) (ThreadPoolExecutor.java:1152)\n03-29 13:32:39.929 I/reesdk.hostdem( 7982):   at void java.util.concurrent.ThreadPoolExecutor$Worker.run() (ThreadPoolExecutor.java:641)\n03-29 13:32:39.929 I/reesdk.hostdem( 7982):   at void java.lang.Thread.run() (Thread.java:784)\n03-29 13:32:39.929 I/reesdk.hostdem( 7982): \n03-29 13:32:39.931 I/reesdk.hostdem( 7982): Rejecting re-init on previously-failed class java.lang.Class<com.bonree.agent.android.engine.network.httpclient.ResponseHandlerImpl>: java.lang.NoClassDefFoundError: Failed resolution of: Lorg/apache/http/client/ResponseHandler;\n03-29 13:32:39.931 I/reesdk.hostdem( 7982):   at java.net.URLConnection com.bonree.agent.android.engine.external.HttpInstrumentation.openConnection(java.net.URLConnection) (SourceFile:42)\n03-29 13:32:39.931 I/reesdk.hostdem( 7982):   at java.net.HttpURLConnection cn.jiguang.net.HttpUtils.getHttpURLConnectionWithProxy(android.content.Context,              java.lang.String) ((null):-1)\n03-29 13:32:39.931 I/reesdk.hostdem( 7982):   at org.json.JSONObject cn.jiguang.aa.b.a(android.content.Context) ((null):-1)\n03-29 13:32:39.931 I/reesdk.hostdem( 7982):   at cn.jiguang.z.a cn.jiguang.y.a.i(android.content.Context) ((null):-1)\n03-29 13:32:39.931 I/reesdk.hostdem( 7982):   at boolean cn.jiguang.y.a.a(android.content.Context,              java.lang.String) ((null):-1)\n03-29 13:32:39.931 I/reesdk.hostdem( 7982):   at void cn.jiguang.f.a.a(cn.jiguang.f.a,              android.content.Context,              java.lang.String) ((null):-1)\n03-29 13:32:39.931 I/reesdk.hostdem( 7982):   at void cn.jiguang.f.d.run() ((null):-1)\n03-29 13:32:39.931 I/reesdk.hostdem( 7982):   at boolean java.util.concurrent.ThreadPoolExecutor.processTask(java.lang.Thread,              java.util.concurrent.ThreadPoolExecutor$Worker,              boolean) (ThreadPoolExecutor.java:1187)\n03-29 13:32:39.931 I/reesdk.hostdem( 7982):   at void java.util.concurrent.ThreadPoolExecutor.runWorker(java.util.concurrent.ThreadPoolExecutor$Worker) (ThreadPoolExecutor.java:1152)\n03-29 13:32:39.931 I/reesdk.hostdem( 7982):   at void java.util.concurrent.ThreadPoolExecutor$Worker.run() (ThreadPoolExecutor.java:641)\n03-29 13:32:39.931 I/reesdk.hostdem( 7982):   at void java.lang.Thread.run() (Thread.java:784)\n03-29 13:32:39.931 I/reesdk.hostdem( 7982): Caused by: java.lang.ClassNotFoundException: Didn't find class \"org.apache.http.client.ResponseHandler\" on path: DexPathList[                [                   zip file \"/data/app/com.bonreesdk.hostdemo-KRhpwyFNfwZ_y-ASYFahCQ==/base.apk\"                ],                nativeLibraryDirectories=[                   /data/app/com.bonreesdk.hostdemo-KRhpwyFNfwZ_y-ASYFahCQ==/lib/arm,                    /data/app/com.bonreesdk.hostdemo-KRhpwyFNfwZ_y-ASYFahCQ==/base.apk!/lib/armeabi-v7a,                    /system/lib,                    /product/lib                ]              ] \n03-29 13:32:39.931 I/reesdk.hostdem( 7982):   at java.lang.Class dalvik.system.BaseDexClassLoader.findClass(java.lang.String) (BaseDexClassLoader.java:134)\n03-29 13:32:39.931 I/reesdk.hostdem( 7982):   at java.lang.Class java.lang.ClassLoader.loadClass(java.lang.String,              boolean) (ClassLoader.java:379)\n03-29 13:32:39.931 I/reesdk.hostdem( 7982):   at java.lang.Class java.lang.ClassLoader.loadClass(java.lang.String) (ClassLoader.java:312)\n03-29 13:32:39.931 I/reesdk.hostdem( 7982):   at java.net.URLConnection com.bonree.agent.android.engine.external.HttpInstrumentation.openConnection(java.net.URLConnection) (SourceFile:42)\n03-29 13:32:39.931 I/reesdk.hostdem( 7982):   at java.net.HttpURLConnection cn.jiguang.net.HttpUtils.getHttpURLConnectionWithProxy(android.content.Context,              java.lang.String) ((null):-1)\n03-29 13:32:39.931 I/reesdk.hostdem( 7982):   at org.json.JSONObject cn.jiguang.aa.b.a(android.content.Context) ((null):-1)\n03-29 13:32:39.931 I/reesdk.hostdem( 7982):   at cn.jiguang.z.a cn.jiguang.y.a.i(android.content.Context) ((null):-1)\n03-29 13:32:39.931 I/reesdk.hostdem( 7982):   at boolean cn.jiguang.y.a.a(android.content.Context,              java.lang.String) ((null):-1)\n03-29 13:32:39.931 I/reesdk.hostdem( 7982):   at void cn.jiguang.f.a.a(cn.jiguang.f.a,              android.content.Context,              java.lang.String) ((null):-1)\n03-29 13:32:39.931 I/reesdk.hostdem( 7982):   at void cn.jiguang.f.d.run() ((null):-1)\n03-29 13:32:39.931 I/reesdk.hostdem( 7982):   at boolean java.util.concurrent.ThreadPoolExecutor.processTask(java.lang.Thread,              java.util.concurrent.ThreadPoolExecutor$Worker,              boolean) (ThreadPoolExecutor.java:1187)\n03-29 13:32:39.931 I/reesdk.hostdem( 7982):   at void java.util.concurrent.ThreadPoolExecutor.runWorker(java.util.concurrent.ThreadPoolExecutor$Worker) (ThreadPoolExecutor.java:1152)\n03-29 13:32:39.931 I/reesdk.hostdem( 7982):   at void java.util.concurrent.ThreadPoolExecutor$Worker.run() (ThreadPoolExecutor.java:641)\n03-29 13:32:39.931 I/reesdk.hostdem( 7982):   at void java.lang.Thread.run() (Thread.java:784)\n03-29 13:32:39.931 I/reesdk.hostdem( 7982): \n03-29 13:32:39.931 I/reesdk.hostdem( 7982): Rejecting re-init on previously-failed class java.lang.Class<com.bonree.agent.android.engine.network.httpclient.ResponseHandlerImpl>: java.lang.NoClassDefFoundError: Failed resolution of: Lorg/apache/http/client/ResponseHandler;\n03-29 13:32:39.931 I/reesdk.hostdem( 7982):   at java.net.URLConnection com.bonree.agent.android.engine.external.HttpInstrumentation.openConnection(java.net.URLConnection) (SourceFile:42)\n03-29 13:32:39.931 I/reesdk.hostdem( 7982):   at java.net.HttpURLConnection cn.jiguang.net.HttpUtils.getHttpURLConnectionWithProxy(android.content.Context,              java.lang.String) ((null):-1)\n03-29 13:32:39.931 I/reesdk.hostdem( 7982):   at org.json.JSONObject cn.jiguang.aa.b.a(android.content.Context) ((null):-1)\n03-29 13:32:39.931 I/reesdk.hostdem( 7982):   at cn.jiguang.z.a cn.jiguang.y.a.i(android.content.Context) ((null):-1)\n03-29 13:32:39.931 I/reesdk.hostdem( 7982):   at boolean cn.jiguang.y.a.a(android.content.Context,              java.lang.String) ((null):-1)\n03-29 13:32:39.931 I/reesdk.hostdem( 7982):   at void cn.jiguang.f.a.a(cn.jiguang.f.a,              android.content.Context,              java.lang.String) ((null):-1)\n03-29 13:32:39.931 I/reesdk.hostdem( 7982):   at void cn.jiguang.f.d.run() ((null):-1)\n03-29 13:32:39.931 I/reesdk.hostdem( 7982):   at boolean java.util.concurrent.ThreadPoolExecutor.processTask(java.lang.Thread,              java.util.concurrent.ThreadPoolExecutor$Worker,              boolean) (ThreadPoolExecutor.java:1187)\n03-29 13:32:39.931 I/reesdk.hostdem( 7982):   at void java.util.concurrent.ThreadPoolExecutor.runWorker(java.util.concurrent.ThreadPoolExecutor$Worker) (ThreadPoolExecutor.java:1152)\n03-29 13:32:39.932 I/reesdk.hostdem( 7982):   at void java.util.concurrent.ThreadPoolExecutor$Worker.run() (ThreadPoolExecutor.java:641)\n03-29 13:32:39.932 I/reesdk.hostdem( 7982):   at void java.lang.Thread.run() (Thread.java:784)\n03-29 13:32:39.932 I/reesdk.hostdem( 7982): Caused by: java.lang.ClassNotFoundException: Didn't find class \"org.apache.http.client.ResponseHandler\" on path: DexPathList[                [                   zip file \"/data/app/com.bonreesdk.hostdemo-KRhpwyFNfwZ_y-ASYFahCQ==/base.apk\"                ],                nativeLibraryDirectories=[                   /data/app/com.bonreesdk.hostdemo-KRhpwyFNfwZ_y-ASYFahCQ==/lib/arm,                    /data/app/com.bonreesdk.hostdemo-KRhpwyFNfwZ_y-ASYFahCQ==/base.apk!/lib/armeabi-v7a,                    /system/lib,                    /product/lib                ]              ] \n03-29 13:32:39.932 I/reesdk.hostdem( 7982):   at java.lang.Class dalvik.system.BaseDexClassLoader.findClass(java.lang.String) (BaseDexClassLoader.java:134)\n03-29 13:32:39.932 I/reesdk.hostdem( 7982):   at java.lang.Class java.lang.ClassLoader.loadClass(java.lang.String,              boolean) (ClassLoader.java:379)\n03-29 13:32:39.932 I/reesdk.hostdem( 7982):   at java.lang.Class java.lang.ClassLoader.loadClass(java.lang.String) (ClassLoader.java:312)\n03-29 13:32:39.932 I/reesdk.hostdem( 7982):   at java.net.URLConnection com.bonree.agent.android.engine.external.HttpInstrumentation.openConnection(java.net.URLConnection) (SourceFile:42)\n03-29 13:32:39.932 I/reesdk.hostdem( 7982):   at java.net.HttpURLConnection cn.jiguang.net.HttpUtils.getHttpURLConnectionWithProxy(android.content.Context,              java.lang.String) ((null):-1)\n03-29 13:32:39.932 I/reesdk.hostdem( 7982):   at org.json.JSONObject cn.jiguang.aa.b.a(android.content.Context) ((null):-1)\n03-29 13:32:39.932 I/reesdk.hostdem( 7982):   at cn.jiguang.z.a cn.jiguang.y.a.i(android.content.Context) ((null):-1)\n03-29 13:32:39.932 I/reesdk.hostdem( 7982):   at boolean cn.jiguang.y.a.a(android.content.Context,              java.lang.String) ((null):-1)\n03-29 13:32:39.932 I/reesdk.hostdem( 7982):   at void cn.jiguang.f.a.a(cn.jiguang.f.a,              android.content.Context,              java.lang.String) ((null):-1)\n03-29 13:32:39.932 I/reesdk.hostdem( 7982):   at void cn.jiguang.f.d.run() ((null):-1)\n03-29 13:32:39.932 I/reesdk.hostdem( 7982):   at boolean java.util.concurrent.ThreadPoolExecutor.processTask(java.lang.Thread,              java.util.concurrent.ThreadPoolExecutor$Worker,              boolean) (ThreadPoolExecutor.java:1187)\n03-29 13:32:39.932 I/reesdk.hostdem( 7982):   at void java.util.concurrent.ThreadPoolExecutor.runWorker(java.util.concurrent.ThreadPoolExecutor$Worker) (ThreadPoolExecutor.java:1152)\n03-29 13:32:39.932 I/reesdk.hostdem( 7982):   at void java.util.concurrent.ThreadPoolExecutor$Worker.run() (ThreadPoolExecutor.java:641)\n03-29 13:32:39.932 I/reesdk.hostdem( 7982):   at void java.lang.Thread.run() (Thread.java:784)\n03-29 13:32:39.932 I/reesdk.hostdem( 7982): \n03-29 13:32:39.934 I/reesdk.hostdem( 7982): Rejecting re-init on previously-failed class java.lang.Class<com.bonree.agent.android.engine.network.httpclient.ResponseHandlerImpl>: java.lang.NoClassDefFoundError: Failed resolution of: Lorg/apache/http/client/ResponseHandler;\n03-29 13:32:39.934 I/reesdk.hostdem( 7982):   at java.net.URLConnection com.bonree.agent.android.engine.external.HttpInstrumentation.openConnection(java.net.URLConnection) (SourceFile:42)\n03-29 13:32:39.934 I/reesdk.hostdem( 7982):   at java.net.HttpURLConnection cn.jiguang.net.HttpUtils.getHttpURLConnectionWithProxy(android.content.Context,              java.lang.String) ((null):-1)\n03-29 13:32:39.934 I/reesdk.hostdem( 7982):   at org.json.JSONObject cn.jiguang.aa.b.a(android.content.Context) ((null):-1)\n03-29 13:32:39.934 I/reesdk.hostdem( 7982):   at cn.jiguang.z.a cn.jiguang.y.a.i(android.content.Context) ((null):-1)\n03-29 13:32:39.934 I/reesdk.hostdem( 7982):   at boolean cn.jiguang.y.a.a(android.content.Context,              java.lang.String) ((null):-1)\n03-29 13:32:39.934 I/reesdk.hostdem( 7982):   at void cn.jiguang.f.a.a(cn.jiguang.f.a,              android.content.Context,              java.lang.String) ((null):-1)\n03-29 13:32:39.934 I/reesdk.hostdem( 7982):   at void cn.jiguang.f.d.run() ((null):-1)\n03-29 13:32:39.934 I/reesdk.hostdem( 7982):   at boolean java.util.concurrent.ThreadPoolExecutor.processTask(java.lang.Thread,              java.util.concurrent.ThreadPoolExecutor$Worker,              boolean) (ThreadPoolExecutor.java:1187)\n03-29 13:32:39.934 I/reesdk.hostdem( 7982):   at void java.util.concurrent.ThreadPoolExecutor.runWorker(java.util.concurrent.ThreadPoolExecutor$Worker) (ThreadPoolExecutor.java:1152)\n03-29 13:32:39.934 I/reesdk.hostdem( 7982):   at void java.util.concurrent.ThreadPoolExecutor$Worker.run() (ThreadPoolExecutor.java:641)\n03-29 13:32:39.934 I/reesdk.hostdem( 7982):   at void java.lang.Thread.run() (Thread.java:784)\n03-29 13:32:39.934 I/reesdk.hostdem( 7982): Caused by: java.lang.ClassNotFoundException: Didn't find class \"org.apache.http.client.ResponseHandler\" on path: DexPathList[                [                   zip file \"/data/app/com.bonreesdk.hostdemo-KRhpwyFNfwZ_y-ASYFahCQ==/base.apk\"                ],                nativeLibraryDirectories=[                   /data/app/com.bonreesdk.hostdemo-KRhpwyFNfwZ_y-ASYFahCQ==/lib/arm,                    /data/app/com.bonreesdk.hostdemo-KRhpwyFNfwZ_y-ASYFahCQ==/base.apk!/lib/armeabi-v7a,                    /system/lib,                    /product/lib                ]              ] \n03-29 13:32:39.934 I/reesdk.hostdem( 7982):   at java.lang.Class dalvik.system.BaseDexClassLoader.findClass(java.lang.String) (BaseDexClassLoader.java:134)\n03-29 13:32:39.934 I/reesdk.hostdem( 7982):   at java.lang.Class java.lang.ClassLoader.loadClass(java.lang.String,              boolean) (ClassLoader.java:379)\n03-29 13:32:39.934 I/reesdk.hostdem( 7982):   at java.lang.Class java.lang.ClassLoader.loadClass(java.lang.String) (ClassLoader.java:312)\n03-29 13:32:39.934 I/reesdk.hostdem( 7982):   at java.net.URLConnection com.bonree.agent.android.engine.external.HttpInstrumentation.openConnection(java.net.URLConnection) (SourceFile:42)\n03-29 13:32:39.934 I/reesdk.hostdem( 7982):   at java.net.HttpURLConnection cn.jiguang.net.HttpUtils.getHttpURLConnectionWithProxy(android.content.Context,              java.lang.String) ((null):-1)\n03-29 13:32:39.934 I/reesdk.hostdem( 7982):   at org.json.JSONObject cn.jiguang.aa.b.a(android.content.Context) ((null):-1)\n03-29 13:32:39.934 I/reesdk.hostdem( 7982):   at cn.jiguang.z.a cn.jiguang.y.a.i(android.content.Context) ((null):-1)\n03-29 13:32:39.934 I/reesdk.hostdem( 7982):   at boolean cn.jiguang.y.a.a(android.content.Context,              java.lang.String) ((null):-1)\n03-29 13:32:39.934 I/reesdk.hostdem( 7982):   at void cn.jiguang.f.a.a(cn.jiguang.f.a,              android.content.Context,              java.lang.String) ((null):-1)\n03-29 13:32:39.934 I/reesdk.hostdem( 7982):   at void cn.jiguang.f.d.run() ((null):-1)\n03-29 13:32:39.934 I/reesdk.hostdem( 7982):   at boolean java.util.concurrent.ThreadPoolExecutor.processTask(java.lang.Thread,              java.util.concurrent.ThreadPoolExecutor$Worker,              boolean) (ThreadPoolExecutor.java:1187)\n03-29 13:32:39.934 I/reesdk.hostdem( 7982):   at void java.util.concurrent.ThreadPoolExecutor.runWorker(java.util.concurrent.ThreadPoolExecutor$Worker) (ThreadPoolExecutor.java:1152)\n03-29 13:32:39.934 I/reesdk.hostdem( 7982):   at void java.util.concurrent.ThreadPoolExecutor$Worker.run() (ThreadPoolExecutor.java:641)\n03-29 13:32:39.934 I/reesdk.hostdem( 7982):   at void java.lang.Thread.run() (Thread.java:784)\n03-29 13:32:39.934 I/reesdk.hostdem( 7982): \n03-29 13:32:39.934 I/reesdk.hostdem( 7982): Rejecting re-init on previously-failed class java.lang.Class<com.bonree.agent.android.engine.network.httpclient.ResponseHandlerImpl>: java.lang.NoClassDefFoundError: Failed resolution of: Lorg/apache/http/client/ResponseHandler;\n03-29 13:32:39.934 I/reesdk.hostdem( 7982):   at java.net.URLConnection com.bonree.agent.android.engine.external.HttpInstrumentation.openConnection(java.net.URLConnection) (SourceFile:42)\n03-29 13:32:39.934 I/reesdk.hostdem( 7982):   at java.net.HttpURLConnection cn.jiguang.net.HttpUtils.getHttpURLConnectionWithProxy(android.content.Context,              java.lang.String) ((null):-1)\n03-29 13:32:39.934 I/reesdk.hostdem( 7982):   at org.json.JSONObject cn.jiguang.aa.b.a(android.content.Context) ((null):-1)\n03-29 13:32:39.934 I/reesdk.hostdem( 7982):   at cn.jiguang.z.a cn.jiguang.y.a.i(android.content.Context) ((null):-1)\n03-29 13:32:39.934 I/reesdk.hostdem( 7982):   at boolean cn.jiguang.y.a.a(android.content.Context,              java.lang.String) ((null):-1)\n03-29 13:32:39.934 I/reesdk.hostdem( 7982):   at void cn.jiguang.f.a.a(cn.jiguang.f.a,              android.content.Context,              java.lang.String) ((null):-1)\n03-29 13:32:39.934 I/reesdk.hostdem( 7982):   at void cn.jiguang.f.d.run() ((null):-1)\n03-29 13:32:39.934 I/reesdk.hostdem( 7982):   at boolean java.util.concurrent.ThreadPoolExecutor.processTask(java.lang.Thread,              java.util.concurrent.ThreadPoolExecutor$Worker,              boolean) (ThreadPoolExecutor.java:1187)\n03-29 13:32:39.934 I/reesdk.hostdem( 7982):   at void java.util.concurrent.ThreadPoolExecutor.runWorker(java.util.concurrent.ThreadPoolExecutor$Worker) (ThreadPoolExecutor.java:1152)\n03-29 13:32:39.934 I/reesdk.hostdem( 7982):   at void java.util.concurrent.ThreadPoolExecutor$Worker.run() (ThreadPoolExecutor.java:641)\n03-29 13:32:39.934 I/reesdk.hostdem( 7982):   at void java.lang.Thread.run() (Thread.java:784)\n03-29 13:32:39.934 I/reesdk.hostdem( 7982): Caused by: java.lang.ClassNotFoundException: Didn't find class \"org.apache.http.client.ResponseHandler\" on path: DexPathList[                [                   zip file \"/data/app/com.bonreesdk.hostdemo-KRhpwyFNfwZ_y-ASYFahCQ==/base.apk\"                ],                nativeLibraryDirectories=[                   /data/app/com.bonreesdk.hostdemo-KRhpwyFNfwZ_y-ASYFahCQ==/lib/arm,                    /data/app/com.bonreesdk.hostdemo-KRhpwyFNfwZ_y-ASYFahCQ==/base.apk!/lib/armeabi-v7a,                    /system/lib,                    /product/lib                ]              ] \n03-29 13:32:39.934 I/reesdk.hostdem( 7982):   at java.lang.Class dalvik.system.BaseDexClassLoader.findClass(java.lang.String) (BaseDexClassLoader.java:134)\n03-29 13:32:39.934 I/reesdk.hostdem( 7982):   at java.lang.Class java.lang.ClassLoader.loadClass(java.lang.String,              boolean) (ClassLoader.java:379)\n03-29 13:32:39.934 I/reesdk.hostdem( 7982):   at java.lang.Class java.lang.ClassLoader.loadClass(java.lang.String) (ClassLoader.java:312)\n03-29 13:32:39.934 I/reesdk.hostdem( 7982):   at java.net.URLConnection com.bonree.agent.android.engine.external.HttpInstrumentation.openConnection(java.net.URLConnection) (SourceFile:42)\n03-29 13:32:39.934 I/reesdk.hostdem( 7982):   at java.net.HttpURLConnection cn.jiguang.net.HttpUtils.getHttpURLConnectionWithProxy(android.content.Context,              java.lang.String) ((null):-1)\n03-29 13:32:39.934 I/reesdk.hostdem( 7982):   at org.json.JSONObject cn.jiguang.aa.b.a(android.content.Context) ((null):-1)\n03-29 13:32:39.934 I/reesdk.hostdem( 7982):   at cn.jiguang.z.a cn.jiguang.y.a.i(android.content.Context) ((null):-1)\n03-29 13:32:39.934 I/reesdk.hostdem( 7982):   at boolean cn.jiguang.y.a.a(android.content.Context,              java.lang.String) ((null):-1)\n03-29 13:32:39.934 I/reesdk.hostdem( 7982):   at void cn.jiguang.f.a.a(cn.jiguang.f.a,              android.content.Context,              java.lang.String) ((null):-1)\n03-29 13:32:39.934 I/reesdk.hostdem( 7982):   at void cn.jiguang.f.d.run() ((null):-1)\n03-29 13:32:39.934 I/reesdk.hostdem( 7982):   at boolean java.util.concurrent.ThreadPoolExecutor.processTask(java.lang.Thread,              java.util.concurrent.ThreadPoolExecutor$Worker,              boolean) (ThreadPoolExecutor.java:1187)\n03-29 13:32:39.934 I/reesdk.hostdem( 7982):   at void java.util.concurrent.ThreadPoolExecutor.runWorker(java.util.concurrent.ThreadPoolExecutor$Worker) (ThreadPoolExecutor.java:1152)\n03-29 13:32:39.934 I/reesdk.hostdem( 7982):   at void java.util.concurrent.ThreadPoolExecutor$Worker.run() (ThreadPoolExecutor.java:641)\n03-29 13:32:39.934 I/reesdk.hostdem( 7982):   at void java.lang.Thread.run() (Thread.java:784)\n03-29 13:32:39.934 I/reesdk.hostdem( 7982): \n03-29 13:32:40.101 I/ZJR     ( 7982): CF\n03-29 13:32:40.223 W/reesdk.hostdem( 7982): Accessing hidden field Lcom/android/okhttp/internal/http/HttpEngine;->networkRequest:Lcom/android/okhttp/Request; (light greylist,              reflection)\n03-29 13:32:40.223 W/reesdk.hostdem( 7982): Accessing hidden field Lcom/android/okhttp/Request;->headers:Lcom/android/okhttp/Headers; (light greylist,              reflection)\n03-29 13:32:41.114 W/reesdk.hostdem( 7982): Accessing hidden field Lsun/misc/Unsafe;->theUnsafe:Lsun/misc/Unsafe; (light greylist,              reflection)\n03-29 13:32:41.133 I/BRSDK-Agent( 7982): response code==43(true: redis filter\u2014\u2014> Monthly activity is unlimited and allows repeated sampling.) (7982)\n03-29 13:32:41.134 I/BRSDK-Agent( 7982): BRAgent connect server success,              7982\n03-29 13:32:41.178 I/ZJR     ( 7982): CR OK\n03-29 13:32:42.571 D/AwareBitmapCacher( 7982): handleInit switch not opened pid=7982\n03-29 13:32:46.278 W/Settings( 7982): Setting device_provisioned has moved from android.provider.Settings.Secure to android.provider.Settings.Global.\n03-29 13:32:46.281 V/HiTouch_HiTouchSensor( 7982): User setup is finished.\n03-29 13:32:46.331 V/AudioManager( 7982): playSoundEffect   effectType: 0\n03-29 13:32:46.332 V/AudioManager( 7982): querySoundEffectsEnabled...\n03-29 13:32:46.365 W/zxl     ( 7982): asr-act: ActivityData{                activityName='com.bonreesdk.hostdemo.MainActivity',                 fragmentName='null',                 methodName='onPause',                 methodType=0,                 methodStatus=0,                 methodTime=127605066,                 threadId=1,                 threadName='main',                 isMain=0             } \n03-29 13:32:46.367 W/zxl     ( 7982): asr-act: ActivityData{                activityName='com.bonreesdk.hostdemo.MainActivity',                 fragmentName='null',                 methodName='onPause',                 methodType=0,                 methodStatus=1,                 methodTime=127605068,                 threadId=1,                 threadName='main',                 isMain=0             } \n03-29 13:32:46.367 D/ZrHung.AppEyeUiProbe( 7982): stop checker.\n03-29 13:32:46.376 W/ActivityThread( 7982): handleWindowVisibility: no activity for token android.os.BinderProxy@23831bb\n03-29 13:32:46.378 D/ZrHung.AppEyeUiProbe( 7982): notify runnable to start.\n03-29 13:32:46.379 V/ActivityThread( 7982): Skipping new config:             {                1.0 ?mcc?mnc [                   zh_CN_#Hans                ]  ldltr sw360dp w360dp h573dp 480dpi nrml port finger -keyb/v/h -nav/h winConfig={                    mBounds=Rect(0,                    0 - 0,                    0) mAppBounds=Rect(0,                    0 - 1080,                    1792) mWindowingMode=fullscreen mActivityType=undefined                }  nonFullScreen=0 suim:1 s.6             },              config:             {                1.0 ?mcc?mnc [                   zh_CN_#Hans                ]  ldltr sw360dp w360dp h573dp 480dpi nrml port finger -keyb/v/h -nav/h winConfig={                    mBounds=Rect(0,                    0 - 0,                    0) mAppBounds=Rect(0,                    0 - 1080,                    1792) mWindowingMode=fullscreen mActivityType=undefined                }  nonFullScreen=0 suim:1 s.6             }  for app:com.bonreesdk.hostdemo\n03-29 13:32:46.386 V/ActivityThread( 7982): callActivityOnCreate\n03-29 13:32:46.387 W/zxl     ( 7982): asr-act: ActivityData{                activityName='com.bonreesdk.hostdemo.business.crash.CrashServiceActivity',                 fragmentName='null',                 methodName='onCreate',                 methodType=0,                 methodStatus=0,                 methodTime=127605088,                 threadId=1,                 threadName='main',                 isMain=0             } \n03-29 13:32:46.391 W/zxl     ( 7982): asr-act: ActivityData{                activityName='com.bonreesdk.hostdemo.business.crash.CrashServiceActivity',                 fragmentName='null',                 methodName='onCreate',                 methodType=0,                 methodStatus=1,                 methodTime=127605092,                 threadId=1,                 threadName='main',                 isMain=0             } \n03-29 13:32:46.398 I/HwPhoneWindow( 7982): updateLayoutParamsColor false mSpecialSet=false,              mForcedNavigationBarColor=false,              navigationBarColor=0,              mNavBarShow=false,              mIsFloating=false\n03-29 13:32:46.399 I/HwPhoneWindow( 7982): updateLayoutParamsColor true mSpecialSet=false,              mForcedNavigationBarColor=false,              navigationBarColor=ff000000,              mNavBarShow=false,              mIsFloating=false\n03-29 13:32:46.422 I/FLTAG_FM( 7982): loadFeature class:com.huawei.featurelayer.systemfeature.HwWidget.IHwSplineOverScrollerEx\n03-29 13:32:46.422 I/FLTAG_SFM( 7982): getRequireClassLoader() succ ! className: com.huawei.featurelayer.systemfeature.HwWidget.IHwSplineOverScrollerEx\n03-29 13:32:46.422 D/FeatureFactory( 7982): loadFeature() : com.huawei.featurelayer.systemfeature.HwWidget.IHwSplineOverScrollerEx\n03-29 13:32:46.422 D/FeatureFactory( 7982): loadFeature() new IHwSplineOverScrollerEx()\n03-29 13:32:46.422 D/HwSplineOverScrollerExImpl( 7982): initSplineOverScrollerImpl paras: android.widget.OverScroller$SplineOverScroller@f592608,             com.bonreesdk.hostdemo.business.crash.CrashServiceActivity@593a516\n03-29 13:32:46.422 D/HwSplineOverScrollerExImpl( 7982): initSplineOverScrollerImpl: mScrollerVelocity is 0,              value is 0\n03-29 13:32:46.423 I/FLTAG_FM( 7982): loadFeature class:com.huawei.featurelayer.systemfeature.HwWidget.IHwSplineOverScrollerEx\n03-29 13:32:46.423 I/FLTAG_SFM( 7982): getRequireClassLoader() succ ! className: com.huawei.featurelayer.systemfeature.HwWidget.IHwSplineOverScrollerEx\n03-29 13:32:46.423 D/FeatureFactory( 7982): loadFeature() : com.huawei.featurelayer.systemfeature.HwWidget.IHwSplineOverScrollerEx\n03-29 13:32:46.423 D/FeatureFactory( 7982): loadFeature() new IHwSplineOverScrollerEx()\n03-29 13:32:46.423 D/HwSplineOverScrollerExImpl( 7982): initSplineOverScrollerImpl paras: android.widget.OverScroller$SplineOverScroller@95e9ab4,             com.bonreesdk.hostdemo.business.crash.CrashServiceActivity@593a516\n03-29 13:32:46.423 D/HwSplineOverScrollerExImpl( 7982): initSplineOverScrollerImpl: mScrollerVelocity is 0,              value is 0\n03-29 13:32:46.439 D/ActivityThread( 7982): add activity client record,              r= ActivityRecord{                a67b923 token=android.os.BinderProxy@23831bb {                   com.bonreesdk.hostdemo/com.bonreesdk.hostdemo.business.crash.CrashServiceActivity                }              }  token= android.os.BinderProxy@23831bb\n03-29 13:32:46.442 W/zxl     ( 7982): asr-act: ActivityData{                activityName='com.bonreesdk.hostdemo.business.crash.CrashServiceActivity',                 fragmentName='null',                 methodName='onStart',                 methodType=0,                 methodStatus=0,                 methodTime=127605143,                 threadId=1,                 threadName='main',                 isMain=0             } \n03-29 13:32:46.443 W/zxl     ( 7982): asr-act: ActivityData{                activityName='com.bonreesdk.hostdemo.business.crash.CrashServiceActivity',                 fragmentName='null',                 methodName='onStart',                 methodType=0,                 methodStatus=1,                 methodTime=127605145,                 threadId=1,                 threadName='main',                 isMain=0             } \n03-29 13:32:46.445 D/ZrHung.AppEyeUiProbe( 7982): notify runnable to start.\n03-29 13:32:46.445 W/zxl     ( 7982): asr-act: ActivityData{                activityName='com.bonreesdk.hostdemo.business.crash.CrashServiceActivity',                 fragmentName='null',                 methodName='onResume',                 methodType=0,                 methodStatus=0,                 methodTime=127605147,                 threadId=1,                 threadName='main',                 isMain=0             } \n03-29 13:32:46.447 W/zxl     ( 7982): asr-act: ActivityData{                activityName='com.bonreesdk.hostdemo.business.crash.CrashServiceActivity',                 fragmentName='null',                 methodName='onResume',                 methodType=0,                 methodStatus=1,                 methodTime=127605148,                 threadId=1,                 threadName='main',                 isMain=0             } \n03-29 13:32:46.451 D/OpenGLRenderer( 7982):   HWUI Binary is  enabled\n03-29 13:32:46.451 D/OpenGLRenderer( 7982): disableOutlineDraw is true\n03-29 13:32:46.456 D/OpenGLRenderer( 7982):   HWUI Binary is  enabled\n03-29 13:32:46.456 D/OpenGLRenderer( 7982): disableOutlineDraw is true\n03-29 13:32:46.463 I/HwPhoneWindow( 7982): updateLayoutParamsColor false mSpecialSet=false,              mForcedNavigationBarColor=false,              navigationBarColor=ff000000,              mNavBarShow=true,              mIsFloating=false\n03-29 13:32:46.464 I/HiTouch_HiTouchSensor( 7982): enabledInPad = false,             isPcCastMode = false\n03-29 13:32:46.465 D/HiTouch_PressGestureDetector( 7982): onAttached,              package=com.bonreesdk.hostdemo,              windowType=1,              mHiTouchRestricted=false\n03-29 13:32:46.519 D/mali_winsys( 7982): EGLint new_window_surface(egl_winsys_display *,              void *,              EGLSurface,              EGLConfig,              egl_winsys_surface **,              EGLBoolean) returns 0x3000\n03-29 13:32:46.543 W/InputMethodManager( 7982): startInputReason = 1\n03-29 13:32:46.578 I/ViewRootImpl( 7982): jank_removeInvalidNode all the node in jank list is out of time\n03-29 13:32:46.806 W/libEGL  ( 7982): EGLNativeWindowType 0xcb805808 disconnect failed\n03-29 13:32:46.811 D/ViewRootImpl[                MainActivity             ] ( 7982): surface should not be released\n03-29 13:32:47.588 W/Settings( 7982): Setting device_provisioned has moved from android.provider.Settings.Secure to android.provider.Settings.Global.\n03-29 13:32:47.588 V/HiTouch_HiTouchSensor( 7982): User setup is finished.\n03-29 13:32:47.627 V/AudioManager( 7982): playSoundEffect   effectType: 0\n03-29 13:32:47.627 V/AudioManager( 7982): querySoundEffectsEnabled...\n03-29 13:32:47.655 W/zxl     ( 7982): asr-act: ActivityData{                activityName='com.bonreesdk.hostdemo.business.crash.CrashServiceActivity',                 fragmentName='null',                 methodName='onPause',                 methodType=0,                 methodStatus=0,                 methodTime=127606357,                 threadId=1,                 threadName='main',                 isMain=0             } \n03-29 13:32:47.657 W/zxl     ( 7982): asr-act: ActivityData{                activityName='com.bonreesdk.hostdemo.business.crash.CrashServiceActivity',                 fragmentName='null',                 methodName='onPause',                 methodType=0,                 methodStatus=1,                 methodTime=127606359,                 threadId=1,                 threadName='main',                 isMain=0             } \n03-29 13:32:47.658 D/ZrHung.AppEyeUiProbe( 7982): stop checker.\n03-29 13:32:47.666 W/ActivityThread( 7982): handleWindowVisibility: no activity for token android.os.BinderProxy@e0c6a2d\n03-29 13:32:47.667 D/ZrHung.AppEyeUiProbe( 7982): notify runnable to start.\n03-29 13:32:47.668 V/ActivityThread( 7982): Skipping new config:             {                1.0 ?mcc?mnc [                   zh_CN_#Hans                ]  ldltr sw360dp w360dp h573dp 480dpi nrml port finger -keyb/v/h -nav/h winConfig={                    mBounds=Rect(0,                    0 - 0,                    0) mAppBounds=Rect(0,                    0 - 1080,                    1792) mWindowingMode=fullscreen mActivityType=undefined                }  nonFullScreen=0 suim:1 s.6             },              config:             {                1.0 ?mcc?mnc [                   zh_CN_#Hans                ]  ldltr sw360dp w360dp h573dp 480dpi nrml port finger -keyb/v/h -nav/h winConfig={                    mBounds=Rect(0,                    0 - 0,                    0) mAppBounds=Rect(0,                    0 - 1080,                    1792) mWindowingMode=fullscreen mActivityType=undefined                }  nonFullScreen=0 suim:1 s.6             }  for app:com.bonreesdk.hostdemo\n03-29 13:32:47.674 V/ActivityThread( 7982): callActivityOnCreate\n03-29 13:32:47.675 W/zxl     ( 7982): asr-act: ActivityData{                activityName='com.bonreesdk.hostdemo.business.crash.JavaCrashActivity',                 fragmentName='null',                 methodName='onCreate',                 methodType=0,                 methodStatus=0,                 methodTime=127606376,                 threadId=1,                 threadName='main',                 isMain=0             } \n03-29 13:32:47.679 W/zxl     ( 7982): asr-act: ActivityData{                activityName='com.bonreesdk.hostdemo.business.crash.JavaCrashActivity',                 fragmentName='null',                 methodName='onCreate',                 methodType=0,                 methodStatus=1,                 methodTime=127606380,                 threadId=1,                 threadName='main',                 isMain=0             } \n03-29 13:32:47.683 I/HwPhoneWindow( 7982): updateLayoutParamsColor false mSpecialSet=false,              mForcedNavigationBarColor=false,              navigationBarColor=0,              mNavBarShow=false,              mIsFloating=false\n03-29 13:32:47.684 I/HwPhoneWindow( 7982): updateLayoutParamsColor true mSpecialSet=false,              mForcedNavigationBarColor=false,              navigationBarColor=ff000000,              mNavBarShow=false,              mIsFloating=false\n03-29 13:32:47.747 I/FLTAG_FM( 7982): loadFeature class:com.huawei.featurelayer.systemfeature.HwWidget.IHwSplineOverScrollerEx\n03-29 13:32:47.747 I/FLTAG_SFM( 7982): getRequireClassLoader() succ ! className: com.huawei.featurelayer.systemfeature.HwWidget.IHwSplineOverScrollerEx\n03-29 13:32:47.747 D/FeatureFactory( 7982): loadFeature() : com.huawei.featurelayer.systemfeature.HwWidget.IHwSplineOverScrollerEx\n03-29 13:32:47.747 D/FeatureFactory( 7982): loadFeature() new IHwSplineOverScrollerEx()\n03-29 13:32:47.747 D/HwSplineOverScrollerExImpl( 7982): initSplineOverScrollerImpl paras: android.widget.OverScroller$SplineOverScroller@a0ea40e,             com.bonreesdk.hostdemo.business.crash.JavaCrashActivity@bbd45b0\n03-29 13:32:47.747 D/HwSplineOverScrollerExImpl( 7982): initSplineOverScrollerImpl: mScrollerVelocity is 0,              value is 0\n03-29 13:32:47.749 I/FLTAG_FM( 7982): loadFeature class:com.huawei.featurelayer.systemfeature.HwWidget.IHwSplineOverScrollerEx\n03-29 13:32:47.749 I/FLTAG_SFM( 7982): getRequireClassLoader() succ ! className: com.huawei.featurelayer.systemfeature.HwWidget.IHwSplineOverScrollerEx\n03-29 13:32:47.749 D/FeatureFactory( 7982): loadFeature() : com.huawei.featurelayer.systemfeature.HwWidget.IHwSplineOverScrollerEx\n03-29 13:32:47.749 D/FeatureFactory( 7982): loadFeature() new IHwSplineOverScrollerEx()\n03-29 13:32:47.749 D/HwSplineOverScrollerExImpl( 7982): initSplineOverScrollerImpl paras: android.widget.OverScroller$SplineOverScroller@114f31a,             com.bonreesdk.hostdemo.business.crash.JavaCrashActivity@bbd45b0\n03-29 13:32:47.749 D/HwSplineOverScrollerExImpl( 7982): initSplineOverScrollerImpl: mScrollerVelocity is 0,              value is 0\n03-29 13:32:47.758 D/ActivityThread( 7982): add activity client record,              r= ActivityRecord{                a257028 token=android.os.BinderProxy@e0c6a2d {                   com.bonreesdk.hostdemo/com.bonreesdk.hostdemo.business.crash.JavaCrashActivity                }              }  token= android.os.BinderProxy@e0c6a2d\n03-29 13:32:47.760 W/zxl     ( 7982): asr-act: ActivityData{                activityName='com.bonreesdk.hostdemo.business.crash.JavaCrashActivity',                 fragmentName='null',                 methodName='onStart',                 methodType=0,                 methodStatus=0,                 methodTime=127606461,                 threadId=1,                 threadName='main',                 isMain=0             } \n03-29 13:32:47.762 W/zxl     ( 7982): asr-act: ActivityData{                activityName='com.bonreesdk.hostdemo.business.crash.JavaCrashActivity',                 fragmentName='null',                 methodName='onStart',                 methodType=0,                 methodStatus=1,                 methodTime=127606463,                 threadId=1,                 threadName='main',                 isMain=0             } \n03-29 13:32:47.763 D/ZrHung.AppEyeUiProbe( 7982): notify runnable to start.\n03-29 13:32:47.764 W/zxl     ( 7982): asr-act: ActivityData{                activityName='com.bonreesdk.hostdemo.business.crash.JavaCrashActivity',                 fragmentName='null',                 methodName='onResume',                 methodType=0,                 methodStatus=0,                 methodTime=127606465,                 threadId=1,                 threadName='main',                 isMain=0             } \n03-29 13:32:47.765 W/zxl     ( 7982): asr-act: ActivityData{                activityName='com.bonreesdk.hostdemo.business.crash.JavaCrashActivity',                 fragmentName='null',                 methodName='onResume',                 methodType=0,                 methodStatus=1,                 methodTime=127606467,                 threadId=1,                 threadName='main',                 isMain=0             } \n03-29 13:32:47.770 D/OpenGLRenderer( 7982):   HWUI Binary is  enabled\n03-29 13:32:47.770 D/OpenGLRenderer( 7982): disableOutlineDraw is true\n03-29 13:32:47.779 D/OpenGLRenderer( 7982):   HWUI Binary is  enabled\n03-29 13:32:47.779 D/OpenGLRenderer( 7982): disableOutlineDraw is true\n03-29 13:32:47.786 I/HiTouch_HiTouchSensor( 7982): enabledInPad = false,             isPcCastMode = false\n03-29 13:32:47.786 I/HwPhoneWindow( 7982): updateLayoutParamsColor false mSpecialSet=false,              mForcedNavigationBarColor=false,              navigationBarColor=ff000000,              mNavBarShow=true,              mIsFloating=false\n03-29 13:32:47.786 D/HiTouch_PressGestureDetector( 7982): onAttached,              package=com.bonreesdk.hostdemo,              windowType=1,              mHiTouchRestricted=false\n03-29 13:32:47.885 D/mali_winsys( 7982): EGLint new_window_surface(egl_winsys_display *,              void *,              EGLSurface,              EGLConfig,              egl_winsys_surface **,              EGLBoolean) returns 0x3000\n03-29 13:32:47.896 W/InputMethodManager( 7982): startInputReason = 1\n03-29 13:32:48.147 W/libEGL  ( 7982): EGLNativeWindowType 0xcbb09008 disconnect failed\n03-29 13:32:48.153 D/ViewRootImpl[                CrashServiceActivity             ] ( 7982): surface should not be released\n03-29 13:32:48.910 W/Settings( 7982): Setting device_provisioned has moved from android.provider.Settings.Secure to android.provider.Settings.Global.\n03-29 13:32:48.911 V/HiTouch_HiTouchSensor( 7982): User setup is finished.\n03-29 13:32:48.960 V/AudioManager( 7982): playSoundEffect   effectType: 0\n03-29 13:32:48.960 V/AudioManager( 7982): querySoundEffectsEnabled...\n03-29 13:32:48.963 D/AndroidRuntime( 7982): Shutting down VM\n03-29 13:32:48.974 E/AndroidRuntime( 7982): FATAL EXCEPTION: main\n03-29 13:32:48.974 E/AndroidRuntime( 7982): Process: com.bonreesdk.hostdemo,              PID: 7982\n03-29 13:32:48.974 E/AndroidRuntime( 7982): java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.String java.lang.String.toString()' on a null object reference\n03-29 13:32:48.974 E/AndroidRuntime( 7982): \tat com.bonreesdk.hostdemo.business.crash.JavaCrashActivity.realNullPointerCrash(JavaCrashActivity.java:243)\n03-29 13:32:48.974 E/AndroidRuntime( 7982): \tat com.bonreesdk.hostdemo.business.crash.JavaCrashActivity.makeNullPointerException(JavaCrashActivity.java:230)\n03-29 13:32:48.974 E/AndroidRuntime( 7982): \tat com.bonreesdk.hostdemo.business.crash.JavaCrashActivity.onItemClick(JavaCrashActivity.java:87)\n03-29 13:32:48.974 E/AndroidRuntime( 7982): \tat com.bonreesdk.hostdemo.common.view.RecyclerAdapter$1.onClick(RecyclerAdapter.java:29)\n03-29 13:32:48.974 E/AndroidRuntime( 7982): \tat android.view.View.performClick(View.java:6659)\n03-29 13:32:48.974 E/AndroidRuntime( 7982): \tat android.view.View.performClickInternal(View.java:6631)\n03-29 13:32:48.974 E/AndroidRuntime( 7982): \tat android.view.View.access$3100(View.java:790)\n03-29 13:32:48.974 E/AndroidRuntime( 7982): \tat android.view.View$PerformClick.run(View.java:26187)\n03-29 13:32:48.974 E/AndroidRuntime( 7982): \tat android.os.Handler.handleCallback(Handler.java:907)\n03-29 13:32:48.974 E/AndroidRuntime( 7982): \tat android.os.Handler.dispatchMessage(Handler.java:105)\n03-29 13:32:48.974 E/AndroidRuntime( 7982): \tat android.os.Looper.loop(Looper.java:216)\n03-29 13:32:48.974 E/AndroidRuntime( 7982): \tat android.app.ActivityThread.main(ActivityThread.java:7625)\n03-29 13:32:48.974 E/AndroidRuntime( 7982): \tat java.lang.reflect.Method.invoke(Native Method)\n03-29 13:32:48.974 E/AndroidRuntime( 7982): \tat com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)\n03-29 13:32:48.974 E/AndroidRuntime( 7982): \tat com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)\n",
+				"lav": "",
+				"ut": [
+					["st", "an", "fn", "utst", "f", "mi"],
+					[8338000, "com.bonreesdk.hostdemo.MainActivity", "", 449000, [{
+						"st": 294000,
+						"c": "com.bonreesdk.hostdemo.MainActivity",
+						"e": "onCreate"
+					}, {
+						"st": 449000,
+						"c": "com.bonreesdk.hostdemo.MainActivity",
+						"e": "onResume"
+					}, {
+						"st": 8755000,
+						"c": "com.bonreesdk.hostdemo.common.view.RecyclerAdapter",
+						"e": "onClick(崩溃服务,0xffffffff)"
+					}, {
+						"st": 8785000,
+						"c": "com.bonreesdk.hostdemo.MainActivity",
+						"e": "onPause"
+					}], "4.2.0_20200119"],
+					[1212000, "com.bonreesdk.hostdemo.business.crash.CrashServiceActivity", "", 8866000, [{
+						"st": 8807000,
+						"c": "com.bonreesdk.hostdemo.business.crash.CrashServiceActivity",
+						"e": "onCreate"
+					}, {
+						"st": 8866000,
+						"c": "com.bonreesdk.hostdemo.business.crash.CrashServiceActivity",
+						"e": "onResume"
+					}, {
+						"st": 10048000,
+						"c": "com.bonreesdk.hostdemo.common.view.RecyclerAdapter",
+						"e": "onClick(Java层,0xffffffff)"
+					}, {
+						"st": 10076000,
+						"c": "com.bonreesdk.hostdemo.business.crash.CrashServiceActivity",
+						"e": "onPause"
+					}], "4.2.0_20200119"],
+					[2025000, "com.bonreesdk.hostdemo.business.crash.JavaCrashActivity", "", 10184000, [{
+						"st": 10095000,
+						"c": "com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+						"e": "onCreate"
+					}, {
+						"st": 10184000,
+						"c": "com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+						"e": "onResume"
+					}, {
+						"st": 11381000,
+						"c": "com.bonreesdk.hostdemo.common.view.RecyclerAdapter",
+						"e": "onClick(空指针,0xffffffff)"
+					}], "4.2.0_20200119"]
+				],
+				"cst": 11407000
+			}],
+			"i": [{
+				"ar": {
+					"an": "NotActivityNameOnly",
+					"ct": 191382,
+					"et": 762544,
+					"fr": [{
+						"ct": 191382,
+						"fn": "NotActivityNameOnly_fragment7",
+						"lt": 764333,
+						"st": 245641
+					}],
+					"iq": false,
+					"lt": 755333,
+					"st": 245641
+				},
+				"ds": {
+					"ac": 78,
+					"ame": 312,
+					"gla": 123,
+					"glo": 39,
+					"ib": false,
+					"igo": true,
+					"io": true,
+					"kv": "{\"userinfoKEY\":\"userinfoVALUE\"}",
+					"mi": "memberid",
+					"ot": 1,
+					"sa": 1024,
+					"sab": 96,
+					"sas": 1024,
+					"sc": 29
+				},
+				"mc": [
+					["st", "am", "ac"],
+					[436557071, 38.56317, 9.7],
+					[436659526, 225.2038, 34.97268],
+					[659656000, 29.810547, 24.175825],
+					[659665000, 29.53418, 50.0],
+					[660022000, 29.771484, 8.1081085],
+					[659934000, 29.751953, 25.0],
+					[660022000, 29.771484, 8.1081085],
+					[660085000, 29.771484, 5.263158],
+					[660152000, 30.030273, 31.666666],
+					[660259000, 30.970703, 21.212122],
+					[660374000, 30.99414, 17.647058],
+					[158726000, 30.873047, 33.333332]
+				],
+				"mi": [
+					["st", "et", "n", "t", "ru", "rg", "rgu"],
+					[436639845, 436639945, "BehaviorMethodViewController/viewDidLoad", 20089, "", "", ""],
+					[436640063, 436640116, "BRHomeViewController/viewWillDisappear:", 20089, "", "", ""],
+					[436640213, 436640231, "BehaviorMethodViewController/viewWillAppear:", 20089, "", "", ""],
+					[436648923, 436648927, "ZHConfigBaseNavigationController/viewDidLayoutSubviews", 20089, "", "", ""],
+					[436650610, 436650614, "BehaviorMethodViewController/viewWillLayoutSubviews", 20089, "", "", ""],
+					[437161233, 437161351, "BehaviorMethodViewController/viewDidLayoutSubviews", 20089, "", "", ""],
+					[437161233, 437161351, "BRHomeViewController/viewDidDisappear:", 20089, "", "", ""],
+					[437161792, 437161902, "BehaviorMethodViewController/viewDidAppear:", 20089, "", "", ""],
+					[437642850, 437642871, "BehaviorMethodViewController/viewWillLayoutSubviews", 20089, "", "", ""],
+					[437645017, 437645033, "BehaviorMethodViewController/viewDidLayoutSubviews", 20089, "", "", ""],
+					[438343274, 438844380, "BehaviorMethodViewController/connection:willSendRequest:redirectResponse:", 20089, "https://www.baidu.com/", "", ""],
+					[438847018, 438847037, "BehaviorMethodViewController/viewWillLayoutSubviews", 20089, "", "", ""],
+					[438849505, 438849521, "BehaviorMethodViewController/viewDidLayoutSubviews", 20089, "", "", ""],
+					[438991531, 439492607, "BehaviorMethodViewController/connection:didReceiveResponse:", 20089, "https://www.baidu.com/", "", ""],
+					[439493000, 439994103, "BehaviorMethodViewController/connection:didReceiveData:", 20089, "https://www.baidu.com", "", ""],
+					[439995067, 440496163, "BehaviorMethodViewController/connectionDidFinishLoading:", 20089, "https://www.baidu.com", "", ""],
+					[440498298, 440498317, "BehaviorMethodViewController/viewWillLayoutSubviews", 20089, "", "", ""],
+					[440500359, 440500374, "BehaviorMethodViewController/viewDidLayoutSubviews", 20089, "", "", ""]
+				],
+				"ns": "EDGE",
+				"ti": [
+					["ti", "t", "n"],
+					[20087, 0, "HQTESTEDGE"],
+					[20089, 1, "glide-source-thread-3"],
+					[20090, 1, "com.tmsdual-shark-http-send"],
+					[20091, 1, "glide-source-thread-1"],
+					[20092, 1, "glide-source-thread-2"],
+					[20093, 1, "pool-2-thread-2"],
+					[20094, 1, "Timer-1"]
+				],
+				"ut": [
+					["st", "an", "fn", "mi", "f", "utst"],
+					[70434000, "com.sdk.demo.HomeActivity", "", "", [{}], 5000],
+					[70292000, "com.sdk.demo.HomeActivity", "com.sdk.demo.business.MainFragment", "", [{}], 5000],
+					[70174000, "com.sdk.demo.HomeActivity", "com.sdk.demo.business.SettingsFragment", "", [{}], 5000],
+					[934000, "com.sdk.demo.business.interact.InteractActivity", "", "", [{}], 5000],
+					[658000, "com.sdk.demo.HomeActivity", "", "", [{}], 5000],
+					[656000, "com.sdk.demo.HomeActivity", "com.sdk.demo.business.MainFragment", "", [{}], 5000],
+					[657000, "com.sdk.demo.HomeActivity", "com.sdk.demo.business.SettingsFragment", "", [{}], 5000],
+					[736000, "com.sdk.demo.business.network.NetworkActivity", "", "", [{}], 5000],
+					[4602000, "com.sdk.demo.business.network.NativeHttpActivity", "", "", [{}], 5000],
+					[3564000, "com.sdk.demo.business.network.NativeHttpActivity", "", "", [{}], 5000],
+					[-130618000, "com.sdk.demo.business.network.NativeHttpActivity", "", "", [{}], 5000],
+					[2398000, "com.sdk.demo.business.network.NetworkActivity", "", "", [{}], 5000],
+					[1069000, "com.sdk.demo.business.network.NetworkActivity", "", "", [{}], 5000],
+					[6225000, "com.sdk.demo.business.network.NativeHttpActivity", "", "", [{}], 5000],
+					[1145000, "com.sdk.demo.business.network.NetworkActivity", "", "", [{}], 5000],
+					[9223000, "com.sdk.demo.HomeActivity", "", "", [{}], 5000],
+					[9217000, "com.sdk.demo.HomeActivity", "com.sdk.demo.business.MainFragment", "", [{}], 5000],
+					[9217000, "com.sdk.demo.HomeActivity", "com.sdk.demo.business.SettingsFragment", "", [{}], 5000],
+					[1280000, "com.sdk.demo.business.interact.InteractActivity", "", "", [{}], 5000],
+					[49853000, "com.sdk.demo.business.interact.BitmapFactoryTestActivity", "", "", [{}], 5000]
+				]
+			}],
+			"iat": true,
+			"tu": {
+				"mu": 2070,
+				"wu": 0
+			}
+		}]
+	}
+}

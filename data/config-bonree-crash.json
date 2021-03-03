@@ -1,0 +1,219 @@
+{
+	"h": {
+		"sv": "2.2.2.19",
+		"di": {
+			"ch": "apple",
+			"di": "EBA056F7-E9CB-4C7A-BF69-38F3C6E91F1D",
+			"ci": "arm64",
+			"ov": "iOS, 13.4.1",
+			"ir": false,
+			"cm": "arm64",
+			"bn": "huwei",
+			"l": "zh-Hans-CN",
+			"an": "toolsdemo",
+			"m": "iPhone XR",
+			"ds": "828*1792",
+			"av": "5.4.0(1001)",
+			"pi": "huawei",
+			"tm": 2831,
+			"pm": "iPhone11,8"
+		},
+		"ai": "3ef38c17-dc49-4670-820a-6b4d46f916f1",
+		"dip": 0
+	},
+	"cr": {
+		"gi": "noGray",
+		"r": false,
+		"nsi": {
+			"s": 0,
+			"ns": "WiFi"
+		},
+		"ci": [{
+			"lav": "1.0-debug(1)",
+			"st": 1592535406161000,
+			"sv": "4.5.0",
+			"cg": "0e090f32-a355-4d3c-b885-14c8a3b29489",
+			"cst": 44148000,
+			"ns": "WiFi",
+			"ot": [{
+				"st": "at android.os.MessageQueue.nativePollOnce(Native Method)\r\nat android.os.MessageQueue.next(MessageQueue.java:325)\r\nat android.os.Looper.loop(Looper.java:148)\r\nat android.os.HandlerThread.run(HandlerThread.java:65)\r\n",
+				"ti": 529,
+				"tn": "BR-Default-Thread"
+			}, {
+				"st": "at android.os.MessageQueue.nativePollOnce(Native Method)\r\nat android.os.MessageQueue.next(MessageQueue.java:325)\r\nat android.os.Looper.loop(Looper.java:148)\r\nat android.os.HandlerThread.run(HandlerThread.java:65)\r\nat dalvik.system.NativeStart.run(Native Method)",
+				"ti": 522,
+				"tn": "HeapTaskDaemon"
+			}, {
+				"st": "at android.os.MessageQueue.nativePollOnce(Native Method)\r\nat android.os.MessageQueue.next(MessageQueue.java:325)\r\nat android.os.Looper.loop(Looper.java:148)\r\nat android.os.HandlerThread.run(HandlerThread.java:65)\r\nat dalvik.system.NativeStart.run(Native Method)at android.os.MessageQueue.nativePollOnce(Native Method)\r\nat android.os.MessageQueue.next(MessageQueue.java:325)\r\nat android.os.Looper.loop(Looper.java:148)\r\nat android.os.HandlerThread.run(HandlerThread.java:65)\r\n",
+				"ti": 535,
+				"tn": "BR-UserTrack-HandlerThread"
+			}, {
+				"st": "at android.os.MessageQueue.nativePollOnce(Native Method)\r\nat android.os.MessageQueue.next(MessageQueue.java:325)\r\nat android.os.Looper.loop(Looper.java:148)\r\nat android.os.HandlerThread.run(HandlerThread.java:65)\r\nat dalvik.system.NativeStart.run(Native Method)at android.os.MessageQueue.nativePollOnce(Native Method)\r\nat android.os.MessageQueue.next(MessageQueue.java:325)\r\nat android.os.Looper.loop(Looper.java:148)\r\nat android.os.HandlerThread.run(HandlerThread.java:65)\r\nat android.os.MessageQueue.nativePollOnce(Native Method)\r\nat android.os.MessageQueue.next(MessageQueue.java:325)\r\nat android.os.Looper.loop(Looper.java:148)\r\nat android.os.HandlerThread.run(HandlerThread.java:65)\r\n",
+				"ti": 571,
+				"tn": "TbsLogReportThread"
+			}, {
+				"st": "at android.os.MessageQueue.nativePollOnce(Native Method)\r\nat android.os.MessageQueue.next(MessageQueue.java:325)\r\nat android.os.Looper.loop(Looper.java:148)\r\nat android.os.HandlerThread.run(HandlerThread.java:65)\r\nat dalvik.system.NativeStart.run(Native Method)at android.os.MessageQueue.nativePollOnce(Native Method)\r\nat android.os.MessageQueue.next(MessageQueue.java:325)\r\nat android.os.Looper.loop(Looper.java:148)\r\nat android.os.HandlerThread.run(HandlerThread.java:65)\r\nat android.os.MessageQueue.nativePollOnce(Native Method)\r\nat android.os.MessageQueue.next(MessageQueue.java:325)\r\nat android.os.Looper.loop(Looper.java:148)\r\nat android.os.HandlerThread.run(HandlerThread.java:65)\r\nat android.os.MessageQueue.nativePollOnce(Native Method)\r\nat android.os.MessageQueue.next(MessageQueue.java:325)\r\nat android.os.Looper.loop(Looper.java:148)\r\nat android.os.HandlerThread.run(HandlerThread.java:65)\r\n",
+				"ti": 580,
+				"tn": "ConnectivityThread"
+			}],
+			"ain": "",
+			"ai": null,
+			"cb": "Caused by: java.lang.NoClassDefFoundError:",
+			"en": "NoClassDefFoundError",
+			"ed": "Caused by: java.lang.NoClassDefFoundError:\r\nat com.bonree.sdk.hostdemo.business.bonree.crash.JavaCrashActivity..makeNoClassDefFoundError(JavaCrashActivity.java)\r\nat com.hostdemo.business.crash.JavaCrashActivity.onItemClick(JavaCrashActivity)\r\nat com.sdk.hostdemo.common.view.RecyclerAdapter$1.onClick(RecyclerAdapter.java:29)",
+			"is": null,
+			"ds": {
+				"ac": 1.67,
+				"sas": 10089.691,
+				"ot": 1,
+				"io": true,
+				"kv": "{\"bonree1\":\"test1\",\"bonree2\":\"test2\",\"bonree3\":\"test3\",\"bonree4\":\"test4\"}",
+				"glo": 0,
+				"sa": 1641.9219,
+				"igo": false,
+				"sc": 0,
+				"sab": 11,
+				"ame": 239.51855,
+				"ib": false,
+				"mi": "4.2.0_20200312 21:28",
+				"gla": 0
+			},
+			"r": "",
+			"av": "1.0-debug(1)",
+			"ti": 1,
+			"sl": "",
+			"tn": "main",
+			"ut": [
+				["st", "an", "fn", "utst", "f", "mi"],
+				[18236000, "com.bonreesdk.hostdemo.MainActivity", "", 401000, [{
+					"st": 264000,
+					"c": "com.bonreesdk.hostdemo.MainActivity",
+					"e": "onCreate"
+				}, {
+					"st": 401000,
+					"c": "com.bonreesdk.hostdemo.MainActivity",
+					"e": "onResume"
+				}, {
+					"st": 18607000,
+					"c": "com.bonreesdk.hostdemo.common.view.RecyclerAdapter",
+					"e": "onClick(交互服务,0xffffffff)"
+				}, {
+					"st": 18636000,
+					"c": "com.bonreesdk.hostdemo.MainActivity",
+					"e": "onPause"
+				}], "4.2.0_20200312 21:28"],
+				[1117000, "com.bonreesdk.hostdemo.business.interact.InteractServiceActivity", "", 18715000, [{
+					"st": 18659000,
+					"c": "com.bonreesdk.hostdemo.business.interact.InteractServiceActivity",
+					"e": "onCreate"
+				}, {
+					"st": 18715000,
+					"c": "com.bonreesdk.hostdemo.business.interact.InteractServiceActivity",
+					"e": "onResume"
+				}, {
+					"st": 19799000,
+					"c": "com.bonreesdk.hostdemo.common.view.RecyclerAdapter",
+					"e": "onClick(BitmapFactory,0xffffffff)"
+				}, {
+					"st": 19831000,
+					"c": "com.bonreesdk.hostdemo.business.interact.InteractServiceActivity",
+					"e": "onPause"
+				}], "4.2.0_20200312 21:28"],
+				[5885000, "com.bonreesdk.hostdemo.business.interact.BitmapFactoryActivity", "", 20141000, [{
+					"st": 19856000,
+					"c": "com.bonreesdk.hostdemo.business.interact.BitmapFactoryActivity",
+					"e": "onCreate"
+				}, {
+					"st": 20141000,
+					"c": "com.bonreesdk.hostdemo.business.interact.BitmapFactoryActivity",
+					"e": "onResume"
+				}, {
+					"st": 26023000,
+					"c": "com.bonreesdk.hostdemo.business.interact.BitmapFactoryActivity",
+					"e": "onPause"
+				}], "4.2.0_20200312 21:28"],
+				[3763000, "com.bonreesdk.hostdemo.business.interact.InteractServiceActivity", "", 26089000, [{
+					"st": 26079000,
+					"c": "com.bonreesdk.hostdemo.business.interact.InteractServiceActivity",
+					"e": "onReStart"
+				}, {
+					"st": 26089000,
+					"c": "com.bonreesdk.hostdemo.business.interact.InteractServiceActivity",
+					"e": "onResume"
+				}, {
+					"st": 29800000,
+					"c": "com.bonreesdk.hostdemo.business.base.BaseActivityOne",
+					"e": "onClick(转到上一层级,0xffffffff)"
+				}, {
+					"st": 29850000,
+					"c": "com.bonreesdk.hostdemo.business.interact.InteractServiceActivity",
+					"e": "onPause"
+				}], "4.2.0_20200312 21:28"],
+				[3851000, "com.bonreesdk.hostdemo.MainActivity", "", 29915000, [{
+					"st": 29905000,
+					"c": "com.bonreesdk.hostdemo.MainActivity",
+					"e": "onReStart"
+				}, {
+					"st": 29915000,
+					"c": "com.bonreesdk.hostdemo.MainActivity",
+					"e": "onResume"
+				}, {
+					"st": 33735000,
+					"c": "com.bonreesdk.hostdemo.common.view.RecyclerAdapter",
+					"e": "onClick(崩溃服务,0xffffffff)"
+				}, {
+					"st": 33765000,
+					"c": "com.bonreesdk.hostdemo.MainActivity",
+					"e": "onPause"
+				}], "4.2.0_20200312 21:28"],
+				[1024000, "com.bonreesdk.hostdemo.business.crash.CrashServiceActivity", "", 33821000, [{
+					"st": 33785000,
+					"c": "com.bonreesdk.hostdemo.business.crash.CrashServiceActivity",
+					"e": "onCreate"
+				}, {
+					"st": 33821000,
+					"c": "com.bonreesdk.hostdemo.business.crash.CrashServiceActivity",
+					"e": "onResume"
+				}, {
+					"st": 34816000,
+					"c": "com.bonreesdk.hostdemo.common.view.RecyclerAdapter",
+					"e": "onClick(Java层,0xffffffff)"
+				}, {
+					"st": 34844000,
+					"c": "com.bonreesdk.hostdemo.business.crash.CrashServiceActivity",
+					"e": "onPause"
+				}], "4.2.0_20200312 21:28"],
+				[9221000, "com.bonreesdk.hostdemo.business.crash.JavaCrashActivity", "", 34929000, [{
+					"st": 34861000,
+					"c": "com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+					"e": "onCreate"
+				}, {
+					"st": 34929000,
+					"c": "com.bonreesdk.hostdemo.business.crash.JavaCrashActivity",
+					"e": "onResume"
+				}, {
+					"st": 43588000,
+					"c": "com.bonreesdk.hostdemo.common.view.RecyclerAdapter",
+					"e": "onClick(找不到类,0xffffffff)"
+				}], "4.2.0_20200312 21:28"]
+			]
+		}],
+		"emt": 1592535274912,
+		"ds": {
+			"ac": 5.26,
+			"sas": 10089.516,
+			"ot": 1,
+			"io": true,
+			"kv": "{\"bonree1\":\"test1\",\"bonree2\":\"test2\",\"bonree3\":\"test3\",\"bonree4\":\"test4\"}",
+			"glo": 0,
+			"sa": 1827.3438,
+			"igo": false,
+			"sc": 0,
+			"sab": 11,
+			"ame": 222.03125,
+			"ib": false,
+			"mi": "4.2.0_20200312 21:28",
+			"gla": 0
+		}
+	}
+}

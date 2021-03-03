@@ -1,0 +1,110 @@
+{
+	"udr": {
+		"tu": {
+			"mu": 0,
+			"wu": 66063
+		},
+		"d": [{
+			"asr":{"lt":4200000,"ic": true},
+			"nr": [],
+			"nsi": {
+				"s": 9,
+				"ns": "WiFi"
+			},
+			"amt": 1591093535716,
+			"i": [],
+			"cmt": 1591093541757,
+			"l": [],
+			"we": [],
+			"ar":[],
+			"wi" : [
+          [
+            "pvid",
+            "url",
+            "wn",
+            "wpt",
+            "wr",
+            "we",
+            "jen",
+            "mi"
+          ],
+          [
+            "29d3bab5-13d6-4f0c-974a-d92a48bad87a",
+            "http://60000003.h5apptest202_equal565.cm/www/index.html/test.png",
+            "MTBookTicketViewController",
+            {
+              "ce" : 0,
+              "cs" : 0,
+              "dc" : 525,
+              "dclee" : 1400,
+              "dcles" : 2000,
+              "di" : 485,
+              "dl" : 168,
+              "dle" : 0,
+              "dls" : 0,
+              "fs" : 0,
+              "lee" : 6000,
+              "les" : 525,
+              "ns" : 1590485944685,
+              "rde" : -1,
+              "rds" : -1,
+              "reqs" : 0,
+              "rspe" : 167,
+              "rsps" : 0,
+              "scs" : -1,
+              "uee" : -1,
+              "ues" : -1
+            },
+            [[
+        "st",
+        "rt",
+        "name",
+        "dura" ,
+        "fs" ,
+        "dls" ,
+        "dle" ,
+        "cs" ,
+        "ce" ,
+        "scs" ,
+        "reqs",
+        "rsps",
+        "rspe",
+        "ts",
+        "ebs",
+        "dbs"
+    ],[123,"","http://www.huqitest/123.png",1234,3445464,345435,34354,54545,321545,3454151,3312321,33434,3454325,341,14,56]],[],
+            0,
+            "hqtest02"
+          ]
+        ],
+			"s": [],
+			"ti": [],
+			"car": [],
+			"si": "4:2:07c9de30-7109-40a4-b1a0-ced1aa56a287",
+			"ut": []
+		}],
+		"iat": true
+	},
+	"h": {
+		"sv": "4.4.5",
+		"di": {
+			"ch": "hi3660",
+			"di": "3e9303d00ae594677398acd5450b9328ee2b655d28aa0e0006d2653192fa32f5",
+			"ci": "arm64-v8a",
+			"ov": "9",
+			"ir": false,
+			"cm": "AArch64 Processor rev 1 (aarch64)",
+			"cov": "EMUI 9.1.0",
+			"bn": "HUAWEI",
+			"l": "zh",
+			"an": "com.bonreesdk.hostdemo",
+			"m": "VTR-AL00",
+			"ds": "1080*1920",
+			"av": "1.0-debug(12)",
+			"pi": "应用宝",
+			"tm": 3715.48
+		},
+		"ai": "1cd810d6-901e-4002-8d63-b840244f5280",
+		"dip": 2095711410
+	}
+}

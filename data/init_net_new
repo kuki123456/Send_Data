@@ -1,0 +1,152 @@
+{
+"udr": {
+	"tu": {
+		"mu": 0,
+		"wu": 2411
+	},
+	"d": [{
+			"asr": null,
+			"nr": [
+				["ru", "si", "tp", "st", "dt", "ct", "sti", "rt", "rti", "dti", "et", "rh", "rd", "rhe", "rds", "ib", "mt", "rg", "rgu", "iw", "lc", "s", "mi", "kv", "pt", "cna", "tip", "dsip", "ns", "ec", "em", "cb", "eop"],
+				["http://hqtest.com/s?name=huqi&role=test", 0, 30035, 4827267000, 0, 0, 0, 1000, 48000, 54000, 4827367000, "", 1329, "", 46, false, "application/octet-stream;charset=UTF-8", "", "", true, "devtest.ibr.cc", 38, "4.2.0_20200221 10:48", "{\"bonree1\":\"test1\",\"bonree2\":\"test2\",\"bonree3\":\"test3\",\"bonree4\":\"test4\"}", 1, ["devtest.ibr.cc"], "118.194.54.130", "116.116.116.116", "WiFi", 200, "", "", 0]
+
+			] ,
+	"nsi": {
+		"s": 39,
+		"ns": "WiFi"
+	},
+	"i": [
+
+	],
+	"amt": 1582641850399,
+	"cmt": 1582641853859,
+	"we": [],
+	"wi": [
+				["pvid", "url", "wn", "wpt", "wr", "we", "jen","mi"],
+				["5b359ae9-fbe1-48f6-9a84-a564afa61e98", "http://hqtest.com/s?name=huqi&role=test", ",WN_23", {
+						"ce": 14000,
+						"cs": 13000,
+						"dc": 7000,
+						"dclee": 5000,
+						"dcles": 4000,
+						"di": 6000,
+						"dl": 8000,
+						"dle": 16000,
+						"dls": 15000,
+						"fs": 1000,
+						"lee": 9000,
+						"les": 10000,
+						"ns": 1574687493894,
+						"rde": 18000,
+						"rds": 17000,
+						"reqs": 2000,
+						"rsps": 3000,
+						"scs": 19000,
+						"uee": 12000,
+						"ues": 11000
+					},
+					[],
+					[
+						["pvid", "url", "name", "msg", "line", "col", "file", "en", "sta", "flag", "et"],
+						["5b359ae9-fbe1-48f6-9a84-a564afa61e98", "http://hqtest.com/s?name=huqi&role=test", "TypeError", "TypeError: bonreeJsBridge.addCrashTrace is not a function. (In 'bonreeJsBridge.addCrashTrace(['homePage','just run a test'])', 'bonreeJsBridge.addCrashTrace' is undefined)", 14, 45, "linlh.error.h5.filename", 1, "myclick@file:///var/containers/Bundle/Application/970595C7-194A-45F7-B3A2-E9C301469E74/iOSDemo.app/test.htm:14:45\nonclick@file:///var/containers/Bundle/Application/970595C7-194A-45F7-B3A2-E9C301469E74/iOSDemo.app/test.htm:8:8", 1, 1574687493894]
+					], 0,"15672617352"
+				]
+
+            ],
+	"ti": [
+
+	],
+	"si": "4:2:d8b57ad8-a1b0-4b85-8111-61b8992c578e",
+	"ut": [
+		[
+			"st",
+			"an",
+			"fn",
+			"utst",
+			"f",
+			"mi"
+		],
+		[
+			4740561000,
+			"com.meiji.toutiao.module.news.content.NewsContentActivity",
+			"com.meiji.toutiao.module.news.content.NewsContentFragment",
+			138858000, [{
+					"st": 138444000,
+					"c": "com.meiji.toutiao.module.news.content.NewsContentFragment",
+					"e": "onCreate"
+				},
+				{
+					"st": 138858000,
+					"c": "com.meiji.toutiao.module.news.content.NewsContentFragment",
+					"e": "onResume"
+				},
+				{
+					"st": 4879419000,
+					"c": "com.meiji.toutiao.module.news.content.NewsContentFragment",
+					"e": "onPause"
+				}
+
+			],
+			"4.2.0_20200221 10:48"
+		],
+		[
+			4740573000,
+			"com.meiji.toutiao.module.news.content.NewsContentActivity",
+			"",
+			138846000, [{
+					"st": 138389000,
+					"c": "com.meiji.toutiao.module.news.content.NewsContentActivity",
+					"e": "onCreate"
+				},
+				{
+					"st": 138846000,
+					"c": "com.meiji.toutiao.module.news.content.NewsContentActivity",
+					"e": "onResume"
+				},
+				{
+					"st": 138977000,
+					"c": "com.jakewharton.rxbinding2.view.ViewClickObservable",
+					"e": "onClick(Touch on CardView,0xffffffff)"
+			},
+			{
+				"st": 4879412000,
+				"c": "com.meiji.toutiao.module.news.content.NewsContentActivity",
+				"e": "onPause"
+			}
+
+		],
+		"4.2.0_20200221 10:48"
+	]
+
+]
+
+}
+
+],
+"iat": true
+},
+"h": {
+      "sv":"4.2.0",
+      "di":
+      {
+         "ch":"hi3660",
+         "di":"3e9303d00ae594677398acd5450b9328ee2b655d28aa0e0006d2653192fa32f5",
+         "ci":"arm64-v8a",
+         "ov":"9",
+         "ir":false,
+         "cm":"AArch64 Processor rev 1 (aarch64)",
+         "cov":"EMUI 9.1.0",
+         "bn":"HUAWEI",
+         "l":"zh",
+         "an":"com.bonreesdk.hostdemo",
+         "m":"VTR-AL00",
+         "ds":"1080*1920",
+         "av":"1.0-debug(1)",
+         "pi":"应用宝",
+         "tm":3715.48
+      },
+      "ai":"aa1d57c4-b30b-4917-b8ae-b1c15f3e20cd",
+      "dip":34588766
+   },
+"cr": null
+}
